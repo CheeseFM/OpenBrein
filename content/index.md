@@ -9,14 +9,17 @@ Welkom in mijn notities, ook wel eens tweede hersenen genoemd! 🧠 - Hier publi
 ## Waar starten?
 Start waar je wil! - Meestal als je hier bent weet je al wat je zoekt dus gebruik de zoekfunctie, grafiek, of de indexpagina's hieronder!
 
-School
+
+**School**
 * [[🖥️ Informatica]]
 	* [[💻 Computertechnieken]]
 
-Algemeen
+**Algemeen**
 * [[🏭 Projecten]]
 	* [[🧠 Ontwikkelen van OpenBrein]]
 * [[🎒 Leren leren]]
+
+
 
 ## Ander materiaal
 Naast mijn notities op Obsidian zet ik ook altijd mijn Google Drive online. Hierin vind je geannoteerde slides en PDFs, handgeschreven notities die nog niet zijn overgezet, eindwerken, verslagen en grote samenvattingen.
