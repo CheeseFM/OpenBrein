@@ -1,6 +1,6 @@
-#afgerond
+#guide  #afgerond
 
-🗂️ Onderwerp:  [[Ontwikkelen van OpenBrein]], [[Installeren software]]
+🗂️ Onderwerp:  [[🧠 Ontwikkelen van OpenBrein]], [[Installeren software]]
 🎖️ Licentie: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---

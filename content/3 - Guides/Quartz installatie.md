@@ -1,6 +1,6 @@
-#afgerond
+#guide  #afgerond
 
-🗂️ Onderwerp:  [[Ontwikkelen van OpenBrein]], [[Installeren software]]
+🗂️ Onderwerp:  [[🧠 Ontwikkelen van OpenBrein]]
 🎖️ Licentie: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 >[!info] Bronnen
@@ -25,8 +25,8 @@ Na het omzetten van je bestanden met Quartz kan je deze via een webserver online
 
 ### Benodigdheden
 Voor een juiste installatie van Quartz hebben we twee grote benodigdheden nodig
-* NodeJS en NPM - [[Installatie NodeJS]]
-* Git versie controle - [[Installatie Git]]
+* NodeJS en NPM
+* Git versie controle
 
 ## Quartz afhalen
 Vooraleer we iets kunnen doen moeten we Quartz afhalen van Github met Git. 

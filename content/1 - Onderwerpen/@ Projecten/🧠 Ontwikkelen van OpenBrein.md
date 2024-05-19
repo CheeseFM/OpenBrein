@@ -1,3 +1,5 @@
+**📂 Hoofdvak: [[🏭 Projecten]]**
+
 #onderwerpen
 
 *Welkom op de indexpagina voor het opzetten van de OpenBrein website, in 'Backlinks' vind je alle onderdelen die te maken hebben met dit onderwerp.*
@@ -38,3 +40,7 @@ Oké dus wat ik wil doen is op mijn iPad en misschien ook mijn Windows laptop no
 4. [[Quartz hosten op Github Pages]]
 5. [[iCloud linken met Quartz installatie]]
 
+---
+#### ⛓️ Verwijzingen
+* [[🎒 Leren leren]]
+* [[Hoe mijn 'onderwerpen' systeem werkt.]]
