@@ -6,10 +6,17 @@ title: Thuispagina
 Welkom in mijn notities, ook wel eens tweede hersenen genoemd! 🧠 - Hier publiceer ik alle notities die ik neem. Ik geloof zwaar in het openbaren en publiceren van eigen notities. Daarom deze website! 
 
 ---
-## Navigeren
-Leer mijn website op verschillende manieren navigeren door de pagina '[[Mijn notities navigeren]]' te bekijken, of gebruik de indexpagina's hieronder om je op weg te helpen.
+## Waar starten?
+Start waar je wil! - Meestal als je hier bent weet je al wat je zoekt dus gebruik de zoekfunctie, grafiek, of de indexpagina's hieronder!
 
-![[📂 Onderwerpen]]
+School
+* [[🖥️ Informatica]]
+	* [[💻 Computertechnieken]]
+
+Algemeen
+* [[🏭 Projecten]]
+	* [[🧠 Ontwikkelen van OpenBrein]]
+* [[🎒 Leren leren]]
 
 ## Ander materiaal
 Naast mijn notities op Obsidian zet ik ook altijd mijn Google Drive online. Hierin vind je geannoteerde slides en PDFs, handgeschreven notities die nog niet zijn overgezet, eindwerken, verslagen en grote samenvattingen.
