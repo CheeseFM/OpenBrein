@@ -20,11 +20,14 @@ Leer mijn website op verschillende manieren navigeren door de pagina '[[Mijn not
 	* [[💻 Computertechnieken]]
 
 ### Guides & How-tos
-Soms schrijf ik eens een guide of how-to, die vind je allemaal onder de #guide  tag.
+Soms schrijf ik eens een guide of how-to, die vind je allemaal onder de  #guide  tag.
 
 ## Ander materiaal
 Naast mijn notities op Obsidian zet ik ook altijd mijn Google Drive online. Hierin vind je geannoteerde slides en PDFs, handgeschreven notities die nog niet zijn overgezet, eindwerken, verslagen en grote samenvattingen.
 * [[📑 Ander materiaal]]
+
+
+---
 
 
 
