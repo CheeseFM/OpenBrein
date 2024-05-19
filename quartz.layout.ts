@@ -7,8 +7,9 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      Mail: "mailto:jelle.de.vreeze@telenet.be",
+      Instagram: "https://www.instagram.com/jelledevr/",
+      Website: "https://www.pointless.company",
     },
   }),
 }
@@ -19,7 +20,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
