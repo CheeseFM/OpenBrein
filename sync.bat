@@ -1,13 +1,16 @@
 @echo off
-REM Batch script to sync iCloud directory with local directory and run OpenBrein sync
+REM Delete all contents of the target directory
+rmdir /S /Q "C:\Users\jelle\Quartz\OpenBrein\content"
+mkdir "C:\Users\jelle\Quartz\OpenBrein\content"
 
-REM Mirror the contents of the source directory to the destination directory using Robocopy, excluding index.md and '4 - Templates'
-robocopy "C:\Users\jelle\iCloudDrive\iCloud~md~obsidian\OpenBrein" "C:\Users\jelle\OpenBrein\content" /MIR /E
+REM Copy contents from source to target directory
+xcopy "C:\Users\jelle\iCloudDrive\iCloud~md~obsidian\OpenBrein\*" "C:\Users\jelle\Quartz\OpenBrein\content" /E /H /C /I
 
-REM Change directory to the OpenBrein folder
-cd "C:\Users\jelle\OpenBrein"
+REM Change to the Quartz directory
+cd /d C:\Users\jelle\Quartz\OpenBrein
 
 REM Run the Quartz sync command
 npx quartz sync
 
-PAUSE
+REM Pause to see the output
+pause
