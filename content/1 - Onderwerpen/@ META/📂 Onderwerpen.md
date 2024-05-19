@@ -1,10 +1,10 @@
 
 ---
-*School*
+School
 * [[🖥️ Informatica]]
 	* [[💻 Computertechnieken]]
 
-*Algemeen*
+Algemeen
 * [[🏭 Projecten]]
 	* [[🧠 Ontwikkelen van OpenBrein]]
 * [[🎒 Leren leren]]
