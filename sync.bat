@@ -12,7 +12,7 @@ if exist "C:\Users\jelle\Quartz\OpenBrein\content\3 - Templates" (
 )
 
 REM Change to the Quartz directory
-cd /d C:\Users\jelle\Quartz
+cd /d C:\Users\jelle\Quartz\OpenBrein
 
 REM Run the Quartz sync command
 npx quartz sync
