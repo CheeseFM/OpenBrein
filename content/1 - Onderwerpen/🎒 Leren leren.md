@@ -4,4 +4,3 @@
 
 ---
 Leren, makkelijker gezegd dan gedaan! - Sommige mensen kunnen het gewoon, anderen strugglen zwaar. Op deze pagina link ik je naar notities en principes die misschien handig kunnen zijn 
-* [[Hoe mijn 'onderwerpen' systeem werkt.]]
