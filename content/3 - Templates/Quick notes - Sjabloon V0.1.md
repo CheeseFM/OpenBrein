@@ -1,3 +1,0 @@
-#kladversie #quick-note
-
----
