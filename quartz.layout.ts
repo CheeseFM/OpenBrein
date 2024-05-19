@@ -22,9 +22,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     
   ],
-  footer [
-    Component.DesktopOnly(Component.Backlinks()),
-  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -33,7 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.MobileOnly(Component.Backlinks()),
+    Component.Backlinks(),
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
   ],
