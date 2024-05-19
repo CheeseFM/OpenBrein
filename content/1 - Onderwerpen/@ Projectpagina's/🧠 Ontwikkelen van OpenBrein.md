@@ -1,8 +1,7 @@
-**📂 Hoofdvak: [[🏭 Projecten]]**
 
-#onderwerpen
+#onderwerpen 
 
-*Welkom op de indexpagina voor het opzetten van de OpenBrein website, in 'Backlinks' vind je alle onderdelen die te maken hebben met dit onderwerp.*
+*Welkom op de indexpagina voor het opzetten van de OpenBrein website.
 
 ---
 Om een installatie als OpenBrein te bekomen heb je tijd en geduld nodig. Mijn minimumdoelen waren:
@@ -44,4 +43,3 @@ Oké dus wat ik wil doen is op mijn iPad en misschien ook mijn Windows laptop no
 ---
 #### ⛓️ Verwijzingen
 * [[🎒 Leren leren]]
-* [[Hoe mijn 'onderwerpen' systeem werkt.]]

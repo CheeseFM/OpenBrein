@@ -31,19 +31,14 @@ Vooraleer ik wist van al deze manieren van leren had ik mijn eigen principe uitg
 ## Hoe werkt het?
 
 ### Principe
-Je start altijd met een onderwerp vooraleer je een notitie begint. Zo'n onderwerp kan maximaal twee sub-onderwerpen hebben. 
+Je start altijd met een onderwerp vooraleer je een notitie begint. Zo'n onderwerp bestaat op zichzelf. Je mag maximum één onderwerp per notitie toe te voegen. Deze onderwerpen staan allemaal in een map 'Onderwerpen' en zijn gewoon markdown pagina's. Er zijn twee mogelijkheden
 
-```mermaid
+#### Er bestaat nog geen onderwerp
+Je zit in de klas, je leert iets nieuwe maar er bestaat nog geen onderwerp! - We moeten één gaan maken. 
 
-flowchart LR 
-id1(Informatica \nOnderwerp) -->
-id2(Programmeren \nOnderwerp) -->
-id3(HTML \nOnderwerp) -->
-id4(Opening en sluitingstags \nNotitie)
+#### Er bestaat een onderwerp of je hebt net één gemaakt
+Je begint met noteren door vanaf de onderwerppagina je notitie te starten.
 
-```
-
-Deze onderwerpen staan allemaal in een map 'Onderwerpen' en zijn gewoon markdown pagina's. Wanneer je een notitie maakt link je gewoon het best toebehorende onderwerp. Op de pagina van dit onderwerp wordt deze link in de 'Backlinks' sectie automatisch doorgegeven.
 
 >[!info] Voorbeeld
 >Je moet een notitie nemen in de les Informatica en het gaat over netwerken - Je zal je notitie dus in het onderwerp 'Netwerken' onder 'Informatica' zetten. Het is net een folderstructuur.
