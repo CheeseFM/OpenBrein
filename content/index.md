@@ -12,6 +12,7 @@ Leer mijn website op verschillende manieren navigeren door de pagina '[[Mijn not
 *Algemeen*
 * [[🏭 Projecten]]
 * [[🎒 Leren leren]]
+
 *School*
 * [[🖥️ Informatica]]
 	* [[🛜 Netwerken]]
@@ -26,6 +27,7 @@ Naast mijn notities op Obsidian zet ik ook altijd mijn Google Drive online. Hier
 * [[📑 Ander materiaal]]
 
 
-*Alle notities staan onder de [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licentie. - Kort betekent dit dat je al mijn notities mag gebruiken mits non-commercieel en met naamsvermelding*.
 
-> **Jelle De Vreeze**
+>  *Alle notities staan onder de [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licentie. - Kort betekent dit dat je al mijn notities mag gebruiken mits non-commercieel en met naamsvermelding*.
+>
+>  **Jelle De Vreeze**
