@@ -20,7 +20,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.Backlinks(),
+    
+  ],
+  footer [
+    Component.DesktopOnly(Component.Backlinks()),
   ],
   left: [
     Component.PageTitle(),
@@ -30,6 +33,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
+    Component.MobileOnly(Component.Backlinks()),
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
   ],
