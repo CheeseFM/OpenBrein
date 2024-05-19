@@ -20,6 +20,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
+    Component.Graph(),
     
   ],
   left: [
@@ -27,7 +28,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.Graph(),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
