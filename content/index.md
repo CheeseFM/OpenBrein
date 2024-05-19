@@ -1,7 +1,7 @@
 ---
 title: Thuispagina
 ---
-[Google Calendar](https://calendar.google.com/calendar/u/0/r)  [Google Tasks](https://calendar.google.com/calendar/u/0/r/tasks) [Schoolplatform](https://erasmusatheneum.smartschool.be/login)
+[Google Calendar](https://calendar.google.com/calendar/u/0/r)   [Google Tasks](https://calendar.google.com/calendar/u/0/r/tasks)  [Schoolplatform](https://erasmusatheneum.smartschool.be/login)  [[📑 Ander materiaal]]
 Welkom in mijn notities, ook wel eens tweede hersenen genoemd! 🧠 - Hier publiceer ik alle notities die ik neem. Ik geloof zwaar in het openbaren en publiceren van eigen notities. Daarom deze website! 
 
 ---
