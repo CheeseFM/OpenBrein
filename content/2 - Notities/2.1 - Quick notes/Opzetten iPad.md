@@ -8,4 +8,5 @@
 - [ ] Meer ruimte aanzetten in scherm
 - [ ] Show app Library in Dock aanzetten
 - [ ] Goodnotes installeren en syncen met Drive
+- [ ] Orion
 

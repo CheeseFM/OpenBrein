@@ -39,6 +39,7 @@ Oké dus wat ik wil doen is op mijn iPad en misschien ook mijn Windows laptop no
 3. [[Quartz openen in Obsidian]]
 4. [[Quartz hosten op Github Pages]]
 5. [[iCloud linken met Quartz installatie]]
+6. [[iCloud Drive synchronisatie manueel regelen]]
 
 ---
 #### ⛓️ Verwijzingen
