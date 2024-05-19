@@ -1,4 +1,4 @@
-#kladversie
+#gefinaliseerd 
 
 🗂️ Onderwerp: [[🎒 Leren leren]], [[🧠 Ontwikkelen van OpenBrein]]
 🎖️ Licentie: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -43,16 +43,17 @@ id4(Opening en sluitingstags \nNotitie)
 
 ```
 
-Deze onderwerpen staan allemaal in een map 'Onderwerpen' en zijn gewoon markdown pagina's. Hierop zet je links naar alle notities die te maken hebben met het onderwerp of links naar sub-onderwerpen.
-
-Je start telkens je notities vanaf het meest toebehorende (sub-)onderwerp. 
+Deze onderwerpen staan allemaal in een map 'Onderwerpen' en zijn gewoon markdown pagina's. Wanneer je een notitie maakt link je gewoon het best toebehorende onderwerp. Op de pagina van dit onderwerp wordt deze link in de 'Backlinks' sectie automatisch doorgegeven.
 
 >[!info] Voorbeeld
 >Je moet een notitie nemen in de les Informatica en het gaat over netwerken - Je zal je notitie dus in het onderwerp 'Netwerken' onder 'Informatica' zetten. Het is net een folderstructuur.
 
 ### In Obsidian
-Mijn vault volgt 
+Mijn vault lijst eerst de onderwerpen zodat ik niet meerdere keren hetzelfde onderwerp aanmaak. Hierna zie je de notities a.d.h.v. het zetelkasten systeem waar ze allemaal in dezelfde map staan.
 
+![[Pasted image 20240519155743.png]]
 
 ## Waarom?
-Op deze manier forceer je jezelf om op een gemakkelijke
+Mijn notities zijn publiekelijk beschikbaar dus iedereen moet gemakkelijk kunnen browsen naar het onderwerp waarin ze geïnteresseerd zijn. Het zorgt er ook voor dat mijn Obsidian graph er leuk uitziet!
+
+---
