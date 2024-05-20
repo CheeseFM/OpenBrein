@@ -22,7 +22,6 @@ Waar je wil! - Meestal als je hier bent weet je al wat je zoekt. Start met zoeke
 * [[🏭 Projecten]] - Als ik een groot project onderneem dan maak ik altijd een projectpagina om alles te linken. Zo heb ik nog iets van structuur!
 * [[💡 Inspiraties voor OpenBrein]] - Een pagina met mijn grote helden die mij inspiratie gegeven hebben om dit avontuur te starten.
 
-### ⏰ Recente veranderingen
 
 ![[📂 Recente veranderingen]]
 

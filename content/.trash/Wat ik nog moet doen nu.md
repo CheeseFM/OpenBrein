@@ -3,4 +3,4 @@
 
 ---
 - [ ] Github eigen domeinnaam configureren documentatie aanpassen
-- [ ] Indexpagina vervolledigen
+- [x] Indexpagina vervolledigen
