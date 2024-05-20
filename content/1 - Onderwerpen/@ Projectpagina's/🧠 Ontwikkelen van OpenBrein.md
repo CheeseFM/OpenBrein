@@ -30,6 +30,7 @@ Als je je enkel op je Windows, Linux of Mac computer Obsidian notities neemt dan
 1. [[Quartz installatie]]
 2. [[Quartz openen in Obsidian]]
 3. [[Quartz hosten op Github Pages]]
+4. [[Quartz favicon configureren]]
 
 ## Quartz met iCloud
 Oké dus wat ik wil doen is op mijn iPad en misschien ook mijn Windows laptop notities nemen en niet betalen voor Obsidian Sync. Dus moet ik op iCloud mijn vault opslaan. Hierdoor is de setup met Quartz een tikkeltje ingewikkelder
@@ -39,5 +40,6 @@ Oké dus wat ik wil doen is op mijn iPad en misschien ook mijn Windows laptop no
 4. [[Quartz hosten op Github Pages]]
 5. [[iCloud linken met Quartz installatie]]
 6. [[iCloud Drive synchronisatie manueel regelen]]
+7. [[Quartz favicon configureren]]
 
 ---
