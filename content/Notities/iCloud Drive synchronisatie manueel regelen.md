@@ -50,6 +50,7 @@ Om enkel iCloud Drive te synchroniseren gebruiken we het volgende:
 
 ```Batch file
 start iCloudDrive-AppX.exe
+start iCloudHome-AppX.exe
 
 PAUSE 60
 

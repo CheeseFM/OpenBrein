@@ -1,4 +1,5 @@
-- 2024-05-20 at 20h50 · [[Quartz favicon configureren]]
+- 2024-05-20 at 21h15 · [[iCloud Drive synchronisatie manueel regelen]]
+- 2024-05-20 at 21h13 · [[Quartz favicon configureren]]
 - 2024-05-20 at 20h49 · [[📛 Attributie]]
 - 2024-05-20 at 20h43 · [[index]]
 - 2024-05-20 at 20h29 · [[🧠 Ontwikkelen van OpenBrein]]
@@ -7,4 +8,3 @@
 - 2024-05-20 at 19h48 · [[Guides - Sjabloon V5.4 (Algemeen)]]
 - 2024-05-20 at 19h27 · [[Quartz openen in Obsidian]]
 - 2024-05-20 at 19h22 · [[Overzetten naar OpenBrein.org]]
-- 2024-05-20 at 19h00 · [[Opzetten iPad]]
