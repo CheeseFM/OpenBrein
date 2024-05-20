@@ -32,7 +32,7 @@ De meeste notities buiten school zet ik niet onder een mooie 'indexpagina' (of h
 ### 📊 Status
 Om aan bezoekers van de website (en mezelf) te laten weten waar ik zit met een notitie zet ik altijd een status tag erbij. 
 
-* Voor guides en how-tos
+* Voor documentatie
 	* #bezig  - Als ik nog bezig ben met documentatie schrijven
 	* #afgerond  - Als de documentatie volledig uitgewerkt is en hoogstwaarschijnlijk geen aanpassingen komen.
 	* #wordt-constant-bijgewerkt  - Als de documentatie af is maar er nog dingen later kunnen worden toegevoegd.

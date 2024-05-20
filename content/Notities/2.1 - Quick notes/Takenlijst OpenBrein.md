@@ -13,4 +13,4 @@
 - [x] Datums toevoegen aan notities
 - [x] Lijst met laatst bewerkte notities
 - [x] Disclaimer kwaliteit notities
-- [ ] Aanvullen wat je op deze website kan vinden
+- [x] Aanvullen wat je op deze website kan vinden
