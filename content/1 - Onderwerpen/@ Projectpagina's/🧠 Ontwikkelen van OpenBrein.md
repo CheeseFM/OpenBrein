@@ -1,7 +1,7 @@
 
 #onderwerpen 
 
-*Welkom op de indexpagina voor het opzetten van de OpenBrein website.
+*Welkom op de indexpagina voor het opzetten van de OpenBrein website.*
 
 ---
 Om een installatie als OpenBrein te bekomen heb je tijd en geduld nodig. Mijn minimumdoelen waren:
