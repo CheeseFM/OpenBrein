@@ -41,5 +41,3 @@ Oké dus wat ik wil doen is op mijn iPad en misschien ook mijn Windows laptop no
 6. [[iCloud Drive synchronisatie manueel regelen]]
 
 ---
-#### ⛓️ Verwijzingen
-* [[🎒 Leren leren]]

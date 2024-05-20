@@ -1,3 +1,4 @@
+- 2024-05-20 at 20h21 · [[🧠 Ontwikkelen van OpenBrein]]
 - 2024-05-20 at 20h20 · [[index]]
 - 2024-05-20 at 20h03 · [[Notities - Sjabloon V5.4 (Algemeen)]]
 - 2024-05-20 at 19h57 · [[Takenlijst OpenBrein]]
@@ -7,4 +8,3 @@
 - 2024-05-20 at 19h00 · [[Opzetten iPad]]
 - 2024-05-20 at 18h58 · [[Quick notes - Sjabloon V0.1]]
 - 2024-05-20 at 18h54 · [[💡 Inspiraties voor OpenBrein]]
-- 2024-05-20 at 18h34 · [[🖥️ Informatica]]
