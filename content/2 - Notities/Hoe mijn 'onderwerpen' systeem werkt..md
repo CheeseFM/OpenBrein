@@ -31,7 +31,7 @@ Vooraleer ik wist van al deze manieren van leren had ik mijn eigen principe uitg
 ## Hoe werkt het?
 
 ### Principe
-Je start altijd met een onderwerp vooraleer je een notitie begint. Zo'n onderwerp bestaat op zichzelf. Je mag maximum één onderwerp per notitie toe te voegen. Deze onderwerpen staan allemaal in een map 'Onderwerpen' en zijn gewoon markdown pagina's. Er zijn twee mogelijkheden
+Je start altijd met een onderwerp vooraleer je een notitie begint. Zo'n onderwerp bestaat op zichzelf. Je mag maximum één best toebehorende onderwerp per notitie toe te voegen. Deze onderwerpen staan allemaal in een map 'Onderwerpen' en zijn gewoon markdown pagina's. Er zijn twee mogelijkheden …
 
 #### Er bestaat nog geen onderwerp
 Je zit in de klas, je leert iets nieuwe maar er bestaat nog geen onderwerp! - We moeten één gaan maken. 

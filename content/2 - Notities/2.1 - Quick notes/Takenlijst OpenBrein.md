@@ -11,3 +11,5 @@
 	- [x] Onderwerpen verduidelijken
 	- [x] Pagina aanmaken voor navigeren van de website op verschillende manieren
 - [x] Datums toevoegen aan notities
+- [ ] Lijst met laatst bewerkte notities
+- [ ] Disclaimer kwaliteit notities
