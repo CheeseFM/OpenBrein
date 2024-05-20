@@ -12,5 +12,5 @@
 	- [x] Pagina aanmaken voor navigeren van de website op verschillende manieren
 - [x] Datums toevoegen aan notities
 - [x] Lijst met laatst bewerkte notities
-- [ ] Disclaimer kwaliteit notities
+- [x] Disclaimer kwaliteit notities
 - [ ] Aanvullen wat je op deze website kan vinden
