@@ -9,4 +9,5 @@
 - [ ] Show app Library in Dock aanzetten
 - [ ] Goodnotes installeren en syncen met Drive
 - [ ] Orion
+- [ ] VNC viewer en Raspberry Pi testen
 

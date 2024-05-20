@@ -7,7 +7,7 @@
 >[!warning] Knowhow
 >Je moet een Quartz installatie hebben ([[Quartz installatie]]) en jouw Obsidian vault moet via iCloud gesynchroniseerd staan ([[iCloud linken met Quartz installatie]]). 
 >
->Je moet ook de basics van informatica bezitten. -  [[💻 Computertechnieken]]
+>Je moet ook de basics van informatica bezitten. -  [[💻 Basis computertechnieken]]
 
 ---
 ## Inleiding
