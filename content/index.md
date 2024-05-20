@@ -27,7 +27,7 @@ Waar je wil! - Meestal als je hier bent weet je al wat je zoekt. Start met zoeke
 ![[📂 Recente veranderingen]]
 
 ### 🗂️ Niet geïndexeerde notities
-De meeste notities buiten school zet ik niet onder een mooie 'indexpagina' (of hoe ik het noem, onderwerp). Je kan ze vinden door het zoekvak te gebruiken of de [notities folder](https://openbrein.pointless.company/Notities/) te bekijken.
+De meeste notities buiten school zet ik niet onder een mooie 'indexpagina' (of hoe ik het noem, onderwerp). Je kan ze vinden door het zoekvak te gebruiken of de [notities folder](https://openbrein.org/Notities/) te bekijken.
 
 ### 📊 Status
 Om aan bezoekers van de website (en mezelf) te laten weten waar ik zit met een notitie zet ik altijd een status tag erbij. 
