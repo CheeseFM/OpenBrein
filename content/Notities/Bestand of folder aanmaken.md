@@ -21,5 +21,6 @@ Of je nu een map of tekstbestand wilt creëren het maakt niet uit. Klik op wat t
 ![[Pasted image 20240519211457.png]]
 ![[Pasted image 20240519212553.png]]
 
----#### ⛓️ Verwijzingen
+---
+#### ⛓️ Verwijzingen
 * [[Naam aanpassen]]
