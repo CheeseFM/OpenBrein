@@ -3,7 +3,7 @@ title: Thuispagina
 ---
 [Google Calendar](https://calendar.google.com/calendar/u/0/r)   [Google Tasks](https://calendar.google.com/calendar/u/0/r/tasks)  [Schoolplatform](https://erasmusatheneum.smartschool.be/login)
 
-Welkom in mijn notities, ook wel eens tweede hersenen genoemd! 🧠 - Hier publiceer ik alle notities die ik neem in een Wiki formaat. 
+*Welkom in mijn notities, ook wel eens tweede hersenen genoemd! 🧠 - Hier publiceer ik alle notities die ik neem in een Wiki formaat.*
 
 ---
 Ik volg de richting informatica, dus het grootste deel van mijn notities gaan rond computerwetenschappen draaien, maar interesses liggen een beetje overal dus ga zeker eens op zoek! Ik hou ook van leren leren en alles te doen met het onderwijs en de sociale sector, elektriciteit, mechanica, elektronica, design en branding, wiskunde en nog zo veel meer!
