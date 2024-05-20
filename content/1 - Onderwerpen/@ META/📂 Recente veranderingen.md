@@ -1,3 +1,6 @@
+- 2024-05-20 at 21h45 · [[Een snelkoppeling aanmaken]]
+- 2024-05-20 at 21h39 · [[Snelkoppeling toevoegen aan Windows start]]
+- 2024-05-20 at 21h37 · [[💻 Basis computertechnieken]]
 - 2024-05-20 at 21h31 · [[index]]
 - 2024-05-20 at 21h22 · [[Bestand of folder aanmaken]]
 - 2024-05-20 at 21h15 · [[iCloud Drive synchronisatie manueel regelen]]
@@ -5,6 +8,3 @@
 - 2024-05-20 at 20h49 · [[📛 Attributie]]
 - 2024-05-20 at 20h29 · [[🧠 Ontwikkelen van OpenBrein]]
 - 2024-05-20 at 20h03 · [[Notities - Sjabloon V5.4 (Algemeen)]]
-- 2024-05-20 at 19h57 · [[Takenlijst OpenBrein]]
-- 2024-05-20 at 19h48 · [[Guides - Sjabloon V5.4 (Algemeen)]]
-- 2024-05-20 at 19h27 · [[Quartz openen in Obsidian]]
