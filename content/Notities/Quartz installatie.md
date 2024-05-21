@@ -9,8 +9,8 @@
 
 ---
 
-## Inleiding
-### Wat is Quartz?
+# Inleiding
+## Wat is Quartz?
 Quartz is een vertaler die markdown bestanden omzet in html pagina's met dezelfde lay-out als Obsidian. Dit maakt het gemakkelijk om jouw notities dan online te publiceren.
 
 ```mermaid
@@ -20,27 +20,27 @@ id(Markdown \n .md) -->
 id2(Quartz 4.0) --> 
 id3(Webpagina \n .html)
 ```
-### Hoe ik Quartz gebruik
+## Hoe ik Quartz gebruik
 Na het omzetten van je bestanden met Quartz kan je deze via een webserver online zetten. Ik heb mijn Quartz installatie via Git op Github gezet en dan Github Pages gebruikt om de webpagina te hosten.
 
-### Benodigdheden
+## Benodigdheden
 Voor een juiste installatie van Quartz hebben we twee grote benodigdheden nodig
 * NodeJS en NPM
 * Git versie controle
 
-## Quartz afhalen
+# Quartz afhalen
 Vooraleer we iets kunnen doen moeten we Quartz afhalen van Github met Git. 
-### Doelmap
+## Doelmap
 Zoek ergens op je computer waar je Quartz wilt opslaan, dit moet een permanente locatie zijn aangezien we ze later met Node moeten initialiseren als een omgeving. Ik koos bijvoorbeeld 'C:/Users/Jelle', mijn thuismap.
 
 ![[Pasted image 20240518144526.png]]
 
-### Terminal openen
+## Terminal openen
 Open een terminal of cd naar jouw doelmap
 
 ![[Pasted image 20240518144855.png]]
 
-### Afhalen via Git
+## Afhalen via Git
 Voer het git clone commando uit in jouw doelmap, ze maakt automatisch een mapje 'quartz' aan met alles dat in de huidige Quartz 4.0 repository staat.
 
 ``` PowerShell
@@ -58,7 +58,7 @@ Receiving objects: 100% (8843/8843), 6.80 MiB | 6.77 MiB/s, done.
 Resolving deltas: 100% (5465/5465), done.
 ```
 
-### * Nieuwe naam geven
+## * Nieuwe naam geven
 Als je wilt kan je het mapje een nieuwe naam geven, je doet dit best nu of je zult later problemen krijgen wanneer de omgeving aangemaakt is via Node. Je kan dit grafisch doen of als je terminal nog open staat met het `mv` commando in Windows.
 
 ``` Powershell
@@ -66,13 +66,13 @@ mv quartz naam_map
 ```
 
 
-### In je map gaan
+## In je map gaan
 Nu dat je quartz hebt afgehaald moeten we ons nog in de map begeven, we doen dit met `cd` of grafisch door op de map te klikken
 ``` PowerShell
 cd .\naam_map\
 ```
 
-### Initialiseren en aanmaken Quartz
+## Initialiseren en aanmaken Quartz
 Quartz is gebouwd en afhankelijk van NodeJS en npm, hierdoor moeten we onze omgeving initialiseren en 'creëren' zodat ze alle afhankelijkheden afhaalt. Dit doen we a.d.h.v. de volgende commando's.
 ``` PowerShell
 npm i
@@ -93,7 +93,7 @@ En nu maken we onze Quartz installatie aan:
 npx quartz create
 ```
 
-### Configureren Quartz
+## Configureren Quartz
 Na het vorige commando te runnen zal hij vragen voor enkele opties te selecteren, kijk wat voor jou toepasselijk is. - Meestal laat je het best gewoon op de default opties. (Je navigeert met pijltjes en selecteert met enter)
 
 ``` Output
@@ -137,7 +137,7 @@ later in `quartz.config.ts`.
 
 ```
 
-### Testen op je PC
+## Testen op je PC
 Om te zien hoe jou Quartz er uitziet kan je de `build --serve` optie gebruiken.
 
 ``` PowerShell

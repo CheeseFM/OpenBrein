@@ -1,12 +1,12 @@
 #documentatie  #afgerond 
 
-🗂️ Onderwerp: [[💻 Basis computertechnieken]]
+🗂️ Onderwerp: [[💻 Basis informatica]]
 🎖️ Licentie: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 📅 Aangemaakt: 19-05-2024
 
 ---
-## Zoeken map
-### Open Windows verkenner
+# Zoeken map
+## Open Windows verkenner
 Klik op `Windows + E`, zoek verkenner door op de Windowstoets te drukken of klik grafisch op het icoontje van je Windows Verkenner. Je krijgt dit scherm te zien.
 
 ![[Pasted image 20240519210700.png]]
@@ -14,7 +14,7 @@ Klik op `Windows + E`, zoek verkenner door op de Windowstoets te drukken of klik
 ![[Pasted image 20240519205646.png]]
 
 
-### Zoek je map (bv. Documenten)
+## Zoek je map (bv. Documenten)
 Scroll het linker menu naar boven of onder tot je je doelmap vind. 
 
 ![[Pasted image 20240519205829.png]]

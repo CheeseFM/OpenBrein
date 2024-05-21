@@ -1,6 +1,6 @@
 #documentatie  #afgerond 
 
-🗂️ Onderwerp: [[💻 Basis computertechnieken]]
+🗂️ Onderwerp: [[💻 Basis informatica]]
 🎖️ Licentie: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 📅 Aangemaakt: 19-05-2024
 
@@ -10,13 +10,13 @@
 ---
 Soms moet je een bestand openen met specifieke software om een correcte lay-out te verkrijgen of te kunnen bewerken.
 
-## Bestand openen
-### Rechtermuisknop
+# Bestand openen
+## Rechtermuisknop
 Klik met je rechtermuisknop op je bestand, je verkrijgt een menu.
 
 ![[Pasted image 20240519221038.png]]
 
-### Openen met ...
+## Openen met ...
 Open met de app die je wilt vanaf het 'Openen met' menu.
 
 ![[Pasted image 20240519221123.png]]

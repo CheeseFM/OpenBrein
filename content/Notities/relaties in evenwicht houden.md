@@ -5,7 +5,7 @@
 📅 Aangemaakt: 21-05-2024
 
 ---
-## Onvoorwaardelijke relatie
+# Onvoorwaardelijke relatie
 
 [[loslaten zonder relaties te belemmeren]]
 

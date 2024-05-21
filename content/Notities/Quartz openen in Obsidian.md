@@ -14,8 +14,8 @@
 
 ---
 
-## Obsidian openen
-### * Nieuwe vault openen als je al één hebt
+# Obsidian openen
+## * Nieuwe vault openen als je al één hebt
 
 Linksonder vind je een knop 'Open another vault', zo ga je terug naar het thuisscherm van Obsidian om een (nieuwe) vault toe te voegen.
 
@@ -23,13 +23,13 @@ Linksonder vind je een knop 'Open another vault', zo ga je terug naar het thuiss
 
 ![[Pasted image 20240518155550.png]]
 
-## Openen vault
-### Open de juiste folder
+# Openen vault
+## Open de juiste folder
 Klik op 'Open folder as vault' en zoek voor je Quartz installatie open deze folder als een Vault.
 
 ![[Pasted image 20240518160756.png]]
 
-### * Mooiere indeling
+## * Mooiere indeling
 Je ziet nu alle configuratiebestanden en toebehoren voor Quartz, op zich heb je die niet nodig. Je kan in de contentmap een nieuwe folder aanmaken waarin je je vault zet. 
 
 >[!warning]

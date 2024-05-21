@@ -10,15 +10,15 @@
 ---
 Voor een of andere reden heeft Apple beslist dat vanaf je de Windows iCloud app opendoet die gewoon altijd aanblijft en constant synchroniseert. Allemaal goed en wel voor hun energie efficiënte laptops maar dit zuigt batterij / energie op een gewone pc.
 
-## Uitzetten starten op opstarten
+# Uitzetten starten op opstarten
 We moeten eerst de iCloud dienst uitzetten bij het opstarten. Anders werkt het script niet en heeft deze documentatie geen nut.
 
-### Open Windows Search
+## Open Windows Search
 Tik op de Windows toets en typ iCloud in de zoekbar. Vanaf hier klik je op 'App-instellingen'
 
 ![[Pasted image 20240519195809.png]]
 
-### Zet alles uit
+## Zet alles uit
 Als je naar beneden scrolt zie je 'Wordt uitgevoerd bij aanmelding', zet hierbij alles uit.
 
 ![[Pasted image 20240519200117.png]]
@@ -26,26 +26,26 @@ Als je naar beneden scrolt zie je 'Wordt uitgevoerd bij aanmelding', zet hierbij
 >[!warning] 
 >Hierna moet je opnieuw opstarten vooraleer je aan het script begint.
 
-## Script aanmaken
-### Locatie kiezen
+# Script aanmaken
+## Locatie kiezen
 Je kan dit script van eender waar uitvoeren. - Je kiest bv. de `Documenten` folder om je script in te bewaren.
 
-### Nieuw tekstbestand
+## Nieuw tekstbestand
 Maak een nieuw tekstbestand aan in je locatie van keuze met rechtermuisknop
 
 ![[Pasted image 20240519200559.png]]
 
-### Hernoemen met juiste extensie
+## Hernoemen met juiste extensie
 In plaats van een tekstbestand willen we een `.bat` ofwel een 'batch' file hebben. Je noemt het wat je wilt en voegt de batch extensie toe. - Het kan zijn dat je gevraagd wordt dat je zeker bent van de extensie te wijzigen, klik ja.
 
 ![[Pasted image 20240519200836.png]]
 
-### Bewerken
+## Bewerken
 Klik met je rechtermuisknop op het bestand en daarna 'bewerken'. Je bestand opent met de ingestelde tekstverwerker, basis is dit notepad (of kladblok).
 
 ![[Pasted image 20240519200933.png]]
 
-### Voeg het script in
+## Voeg het script in
 Om enkel iCloud Drive te synchroniseren gebruiken we het volgende:
 
 ```Batch file
@@ -70,7 +70,7 @@ taskkill /IM iCloudFirefox.exe
 * `start` doet wat het zegt, het start een uitvoerbaar bestand / applicatie
 * `PAUSE` wacht tot een signaal van de gebruiker of mits van toepassing (in ons geval wel) een gespecificeerde periode
 * `taskkill` doet ook wat het zegt. Het is net alsof je in taakbeheer een taak stopt maar dan in commando vorm
-##### Wat elke app doet
+#### Wat elke app doet
 Wil je zelf je eigen script samenstellen? Gebruik dan deze app namen bij het 'start' commando.
 
 * `iCloudDrive` synchronisatie tussen jou PC en iCloud via een netwerkfolder of mits ingesteld een mirror op je lokale apparaat

@@ -18,7 +18,7 @@
 
 Het 'groeipakket' is gewoon een nieuwe koepelterm voor de gezinsbijslagen en andere financiële tegemoetkomingen die de Vlaamse Overheid standaard schenkt. 
 
-## Voorwaarden
+# Voorwaarden
 * Elke inwoner van Vlaanderen (het kind) onder de leeftijd van 18 jaar geeft onvoorwaardelijk recht op een Groeipakket
 * Voor kinderen met een specifieke (klinisch geëvalueerde) ondersteuningsbehoefte is dat tot de maand waarin het kind 21 jaar wordt.
 

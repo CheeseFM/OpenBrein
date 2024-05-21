@@ -22,10 +22,13 @@ Maar, ik heb geen vast inkomen + zin om maandelijks te betalen 🥰
 ## Foefelen 🛠️
 Oké dit wordt de rest van deze pagina. Ik link je naar mijn notities om stap voor stap een eigen Obsidian cloud in elkaar te steken.
 * Bestanden synchroniseren - iCloud
-* Publiceren - Quartz, Github & Github Pages
+* Publiceren - Quartz, Github & Github Pages (of zelf hosten)
 
-# Volgende stappen
-## Quartz zonder sync met iCloud
+# Praktisch
+Als je nu écht
+## Met Github pages
+De gemakkelijkste manier om je Obsidian notities online te gooien is met Quartz en Github Pages. 
+### Quartz zonder sync met iCloud
 Als je je enkel op je Windows, Linux of Mac computer Obsidian notities neemt dan kan je gewoon de documentatie van Quartz volgen.
 1. [[Quartz installatie]]
 2. [[Quartz openen in Obsidian]]
@@ -41,6 +44,8 @@ Oké dus wat ik wil doen is op mijn iPad en misschien ook mijn Windows laptop no
 5. [[iCloud linken met Quartz installatie]]
 6. [[iCloud Drive synchronisatie manueel regelen]]
 7. [[Quartz favicon configureren]]
+
+## Quartz zelf hosten
 
 ---
 * [[Quartz zelf hosten]]
