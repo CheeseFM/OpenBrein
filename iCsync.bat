@@ -1,6 +1,3 @@
-start iCloudDrive-AppX.exe
-start iCloudHome-AppX.exe
-
 PAUSE 60
 
 taskkill /IM iCloudDrive.exe
