@@ -14,3 +14,4 @@
 - [x] Lijst met laatst bewerkte notities
 - [x] Disclaimer kwaliteit notities
 - [x] Aanvullen wat je op deze website kan vinden
+- [ ] Bekijken zelf hosten op docker

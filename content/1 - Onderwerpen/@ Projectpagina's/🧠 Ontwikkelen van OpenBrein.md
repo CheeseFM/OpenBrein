@@ -43,3 +43,4 @@ Oké dus wat ik wil doen is op mijn iPad en misschien ook mijn Windows laptop no
 7. [[Quartz favicon configureren]]
 
 ---
+* [[Quartz zelf hosten]]
