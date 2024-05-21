@@ -1,3 +1,5 @@
+- 2024-05-21 at 16h59 · [[Quartz zelf hosten]]
+- 2024-05-21 at 16h51 · [[index]]
 - 2024-05-21 at 14h58 · [[☁️ Google Drive]]
 - 2024-05-21 at 14h58 · [[!Jaarlijkse aanpassing]]
 - 2024-05-21 at 14h58 · [[Opzetten iPad]]
@@ -6,5 +8,3 @@
 - 2024-05-21 at 14h58 · [[Takenlijst OpenBrein]]
 - 2024-05-21 at 14h12 · [[Wachten tot vraag voor je aanbod geeft]]
 - 2024-05-21 at 14h10 · [[Sociale tussenkomst in België]]
-- 2024-05-21 at 14h07 · [[Zelf verbetering]]
-- 2024-05-21 at 13h08 · [[relaties in evenwicht houden]]

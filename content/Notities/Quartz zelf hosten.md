@@ -24,5 +24,29 @@ Ik wil mijn eigen server thuis gebruiken om de Quartz docker image te hosten.
 
 ![[Pasted image 20240520223223.png]]
 
+## Stappen
+### Open terminal op je server
+Open een terminal en maak verbinding met je server via SSH.
+![[Pasted image 20240521165443.png]]
+
+### Maak de juiste folder structuur aan
+
+
+```
+mkdir -p ~/data && cd ~/data
+```
+
+### Download quartz
+
+```
+git clone https://github.com/jackyzha0/quartz.git
+```
+
+### CD
+
+```
+cd ~/data/quartz
+```
+
 ---
 
