@@ -1,4 +1,4 @@
-#kladversie  #quick-note
+#quick-note
 
 ---
 

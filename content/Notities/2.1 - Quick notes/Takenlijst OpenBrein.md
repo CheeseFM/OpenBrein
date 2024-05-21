@@ -1,4 +1,4 @@
-#kladversie  #quick-note
+#quick-note
 
 ---
 
@@ -14,4 +14,4 @@
 - [x] Lijst met laatst bewerkte notities
 - [x] Disclaimer kwaliteit notities
 - [x] Aanvullen wat je op deze website kan vinden
-- [ ] Bekijken zelf hosten op docker
+- [ ] Bekijken [[Quartz zelf hosten]]

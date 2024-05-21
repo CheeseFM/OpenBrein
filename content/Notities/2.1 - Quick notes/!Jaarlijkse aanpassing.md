@@ -1,4 +1,4 @@
-#kladversie  #quick-note
+#quick-note
 
 ---
 Elk jaar moet ik een aantal veranderingen maken aan de webpagina:

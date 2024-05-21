@@ -12,6 +12,9 @@ Om een tegemoetkoming van de CM te krijgen moet:
 	* als een psychotherapeut die voldoet aan de erkenningsvoorwaarden van de FOD;
 * Je een aanvraagformulier indient (zie [website](https://www.cm.be/nl/zorgverleners/geestelijke-gezondheidszorg/psychologische-zorg#:~:text=Wat%20moet%20je%20doen%3F,%2Dversie%20(2023)%20beschikbaar.))
 
+> [!info] 
+> De dokters die bij de Vlaamse overheid werken om tegemoetkomingen goed te keuren kijken enkel naar psychologen en therapeuten met een universitair diploma. - Heeft jouw psycholoog dit niet, dan vermoeilijkt dit de teruggave of krijg je zelf niks terug.
+> *Lang leve België!*
 
 ## Andere voorwaarden voor tegemoetkoming
 
