@@ -1,3 +1,4 @@
+- 2024-05-22 at 00h49 · [[Takenlijst OpenBrein]]
 - 2024-05-22 at 00h31 · [[index]]
 - 2024-05-22 at 00h31 · [[🖥️ Computertechnieken]]
 - 2024-05-22 at 00h30 · [[Docker - Sjabloon V0.1]]
@@ -7,4 +8,3 @@
 - 2024-05-22 at 00h29 · [[Quartz zelf hosten]]
 - 2024-05-22 at 00h29 · [[Quartz openen in Obsidian]]
 - 2024-05-22 at 00h28 · [[Quartz installatie]]
-- 2024-05-22 at 00h28 · [[Quartz hosten op Github Pages]]

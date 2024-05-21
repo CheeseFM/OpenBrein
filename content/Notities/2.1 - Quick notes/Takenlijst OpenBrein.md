@@ -15,3 +15,8 @@
 - [x] Disclaimer kwaliteit notities
 - [x] Aanvullen wat je op deze website kan vinden
 - [ ] Bekijken [[Quartz zelf hosten]]
+	- [ ] Gebruiken van Quartz public werkt niet want nginx doet ambetant dus dit moet waarschijnlijk ook met syncthing of andere manier vinden.
+	- [ ] Met Cloudflare de pagina naar buiten brengen (op root domein)
+	- [ ] iCloud inhoud synchroniseren met iCloud client docker
+	- [ ] Syncthing gebruiken om data van iCloud folder naar de `content` folder te krijgen
+	- [ ] Automatisatie die de `npx quartz build` job om de zoveel tijd draait
