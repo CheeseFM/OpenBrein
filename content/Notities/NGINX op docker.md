@@ -25,7 +25,7 @@ mkdir -p ~/data/nginx/html && mkdir -p ~/data/config/nginx/
 ```
 
 # Configuratiebestand
-Om een docker service te configureren doen we dit a.d.h.v. een ‘docker-compose.yml’ bestand.
+Om een docker service te configureren doen we dit a.d.h.v. een `docker-compose.yml` bestand.
 
 ``` Bash
 nano ~/data/config/nginx/docker-compose.yml
@@ -38,7 +38,7 @@ services:
   nginx-webserver: 
     image: nginx
     volumes:
-      - /home/cheese/data/nginx/html:/usr/share/nginx/html
+      - /home/GEBRUIKERSNAAM/data/nginx/html:/usr/share/nginx/html
     ports:
       - "8080:80"
     networks:
@@ -57,6 +57,7 @@ networks:
 
 ```
 
+* Verander `GEBRUIKERSNAAM` naar jouw Linux gebruikersnaam.
 # Docker service starten
 
 ``` Bash
