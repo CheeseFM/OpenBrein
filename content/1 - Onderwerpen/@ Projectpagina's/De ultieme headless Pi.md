@@ -76,7 +76,7 @@ Klik op `Opslaan` en daarna `Ja`. Als je zeker bent klik de waarschuwing weg doo
 Vind je apparaat via je router of installeer [Advanced IP Scanner](https://www.advanced-ip-scanner.com/) en vind je Pi op het netwerk. 
 
 ![[Pasted image 20240526162752.png]]
-## Verbinden
+## Verbinden > [[Een SSH verbinding opstellen]]
 Verbind met je Pi door via Powershell SSH op te starten, in ons geval:
 
 ```PowerShell

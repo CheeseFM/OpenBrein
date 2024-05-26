@@ -10,7 +10,9 @@
 * [[NGINX op Docker]]
 * [[Plex media server op Docker]]
 * [[Home Assistant op Docker]]
-
+# Server
+* [[Een VNC verbinding opstellen]]
+* [[Een SSH verbinding opstellen]]
 # Raspberry Pi
 * [[De ultieme headless Pi]]
 
