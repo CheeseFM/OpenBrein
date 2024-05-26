@@ -17,7 +17,8 @@
 ## Doel project
 Oké wat wil ik bereiken en wat houdt dit project nu weer in? - Ik wil een Raspberry Pi (4) met een enkele kabel verbinden om met VNC & SSH te interfacen zonder scherm of toetsenbord verbonden aan de Pi. Dit betekent:
 
-![[Drawing 2024-05-26 15.53.07.excalidraw]]
+[[Drawing 2024-05-26 15.53.07.excalidraw]]
+![[Pasted image 20240526224729.png]]
 
 * Bij een PC of tablet handelt de Pi als een netwerkkaart verbonden via een USB kabel waarover stroom en netwerkdata wordt vervoerd.
 * Bij een telefoon handelt de Pi als een hotspot client waarover netwerkdata wordt vervoerd

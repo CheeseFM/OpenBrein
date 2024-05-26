@@ -11,7 +11,8 @@
 ## Wat is SSH?
 SSH ofwel 'Secure Shell' is een manier om met UNIX gebaseerde systemen te interfacen over het netwerk. 
 
-![[Drawing 2024-05-26 22.18.36.excalidraw]]
+[[Drawing 2024-05-26 22.18.36.excalidraw]]
+![[Pasted image 20240526224644.png]]
 ## Vereisten SSH
 Om SSH te gebruiken moet op jouw PC een SSH client staan en op de server of PC die je wilt bereiken een SSH server. In meeste besturingssystemen zit al een SSH client ingebouwd, maar een SSH server is zeker niet even frappant. 
 
