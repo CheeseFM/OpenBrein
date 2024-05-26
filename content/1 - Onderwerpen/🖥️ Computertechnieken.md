@@ -10,9 +10,14 @@
 * [[NGINX op Docker]]
 * [[Plex media server op Docker]]
 * [[Home Assistant op Docker]]
-# Server
+# Verbindingen
+## Praktisch
 * [[Een VNC verbinding opstellen]]
+* [[RealVNC verbinding aanmaken op iOS]]
 * [[Een SSH verbinding opstellen]]
+
+## Theoretisch
+* [[Versleuteling]]
 # Raspberry Pi
 * [[De ultieme headless Pi]]
 

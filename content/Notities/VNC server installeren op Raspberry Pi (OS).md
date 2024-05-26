@@ -1,11 +1,12 @@
-#kladversie  #uitgewerkt  #volwassen
+#kladversie  #uitgewerkt 
 
 🗂️ Onderwerp: [[De ultieme headless Pi]]
 🎖️ Licentie: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 📅 Aangemaakt: 22-05-2024
 
 ---
-
+# Inleiding
+## Bronnen
 - https://forums.raspberrypi.com/viewtopic.php?t=62581
 - https://incoherentmusings.wordpress.com/2016/04/25/setting-up-vnc-server-on-raspberry-pi-to-autostart-on-reboot/ > Installatie van TightVNC
 * https://incoherentmusings.wordpress.com/2016/04/25/setting-up-vnc-server-on-raspberry-pi-to-autostart-on-reboot/

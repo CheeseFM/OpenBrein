@@ -9,3 +9,4 @@
 * [[Extensie aanpassen]]
 * [[Een bestand openen met specifieke software]]
 * [[Snelkoppeling toevoegen aan Windows start]]
+* [[Statisch IP instellen op Windows]]

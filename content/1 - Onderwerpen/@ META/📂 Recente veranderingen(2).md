@@ -1,5 +1,5 @@
 - 2024-05-26 at 17h30 · [[De ultieme headless Pi]]
-- 2024-05-26 at 17h25 · [[RealVNC opstarten bij aanmelden]]
+- 2024-05-26 at 17h25 · [[VNC server installeren op Raspberry Pi (OS)]]
 - 2024-05-26 at 16h40 · [[Drawing 2024-05-26 15.53.07.excalidraw]]
 - 2024-05-26 at 16h02 · [[Opzetten iPad]]
 - 2024-05-26 at 16h02 · [[🖥️ Computertechnieken]]

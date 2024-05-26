@@ -361,7 +361,7 @@ Daarnaast vul je **niks** in.
 
 ![[Pasted image 20240526175219.png]]
 
-# Grafische toegang aanzetten < [[RealVNC opstarten bij aanmelden]]
+# Grafische toegang aanzetten < [[VNC server installeren op Raspberry Pi (OS)]]
 Ok we hebben al dat werk gedaan om een desktopversie van Raspberry Pi OS te installeren maar gebruiken de desktop niet! - We gaan een gelijkaardig protocol als SSH gebruiken die gefocust is op het tonen van grafische omgevingen, VNC!
 
 ## VNC server configureren
@@ -501,7 +501,7 @@ Log file is /home/cheese/.vnc/pi:1.log
 sudo reboot
 ```
 
-## Verbinden > [[Een VNC verbinding opstellen]]
+# Verbinden > [[Een VNC verbinding opstellen]]
 Verbinden doe je op dezelfde manier als bij SSH maar dan met een VNC client zoals [RealVNC Client](https://www.realvnc.com/en/connect/download/viewer/)
 
 ## Met computer
