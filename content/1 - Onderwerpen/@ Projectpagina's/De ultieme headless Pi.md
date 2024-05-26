@@ -291,7 +291,7 @@ sudo apt update -y && sudo apt upgrade -y
 ```
 
 ### Installeer afhankelijkheden
-Installeer `ùsbmuxd`, een pakket om via USB de netwerkstack beschikbaar te maken.
+Installeer `usbmuxd`, een pakket om via USB de netwerkstack beschikbaar te maken.
 
 ```
 sudo apt install usbmuxd

@@ -1,4 +1,4 @@
-#documentatie  #bezig  #wordt-constant-bijgewerkt  #afgerond
+#documentatie  #afgerond
 
 🗂️ Onderwerp: [[🖥️ Computertechnieken]]
 🎖️ Licentie: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
