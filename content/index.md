@@ -15,6 +15,7 @@ Waar je wil! - Meestal als je hier bent weet je al wat je zoekt. Start met zoeke
 ## 🏫 Notities school
 * [[✨ Informatica]]
 	* [[💻 Basis informatica]]
+	* [[🖥️ Computertechnieken]]
 * [[🧪 Wetenschappen]]
 
 ## 🔗Andere handige pagina's

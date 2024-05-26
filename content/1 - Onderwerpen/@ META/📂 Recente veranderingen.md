@@ -1,3 +1,4 @@
+- 2024-05-26 at 22h44 · [[index]]
 - 2024-05-26 at 22h42 · [[Statisch IP instellen op Windows]]
 - 2024-05-26 at 22h36 · [[💻 Basis informatica]]
 - 2024-05-26 at 22h34 · [[LXDE scherm schaling]]
@@ -5,6 +6,5 @@
 - 2024-05-26 at 22h31 · [[🖥️ Computertechnieken]]
 - 2024-05-26 at 22h29 · [[Een VNC verbinding opstellen]]
 - 2024-05-26 at 22h27 · [[De ultieme headless Pi]]
-- 2024-05-26 at 22h27 · [[📂 Recente veranderingen(2)]]
-- 2024-05-26 at 22h27 · [[📂 Recente veranderingen(1)]]
 - 2024-05-26 at 22h27 · [[VNC server installeren op Raspberry Pi (OS)]]
+- 2024-05-26 at 22h22 · [[Een SSH verbinding opstellen]]
