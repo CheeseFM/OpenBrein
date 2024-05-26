@@ -12,7 +12,7 @@
 * [[Home Assistant op Docker]]
 
 # Raspberry Pi
-* [[Raspberry Pi  - iPad of Laptop]]
+* [[De ultieme headless Pi]]
 
 # Siemens TIA PLC
 * [[Verbinding opstellen via directe kabel]]

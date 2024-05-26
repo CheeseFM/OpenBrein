@@ -9,5 +9,5 @@
 - [ ] Show app Library in Dock aanzetten
 - [ ] Goodnotes installeren en syncen met Drive
 - [ ] Orion
-- [ ] [[Raspberry Pi  - iPad of Laptop]]
+- [ ] [[De ultieme headless Pi]]
 
