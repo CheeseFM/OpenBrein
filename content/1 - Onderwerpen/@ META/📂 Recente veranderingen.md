@@ -1,3 +1,6 @@
+- 2024-05-27 at 09h46 · [[🖥️ Computertechnieken]]
+- 2024-05-27 at 09h02 · [[Docker basis installatie]]
+- 2024-05-27 at 08h58 · [[Cisco pakket tracer download (2024)]]
 - 2024-05-26 at 23h11 · [[RealVNC verbinding aanmaken op iOS]]
 - 2024-05-26 at 22h59 · [[De ultieme headless Pi]]
 - 2024-05-26 at 22h56 · [[Drawing 2024-05-26 22.18.36.excalidraw]]
@@ -5,6 +8,3 @@
 - 2024-05-26 at 22h56 · [[☁️ Google Drive]]
 - 2024-05-26 at 22h46 · [[Een SSH verbinding opstellen]]
 - 2024-05-26 at 22h44 · [[index]]
-- 2024-05-26 at 22h42 · [[Statisch IP instellen op Windows]]
-- 2024-05-26 at 22h36 · [[💻 Basis informatica]]
-- 2024-05-26 at 22h34 · [[LXDE scherm schaling]]

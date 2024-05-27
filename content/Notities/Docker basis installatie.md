@@ -112,6 +112,6 @@ docker network create -d overlay proxy
 ```
 
 >[!warning]
->Je moet dan ook bij elke `docker-compose.yml` het netwerk 'proxy' toevoegen aan je configuratie. Zoals bv bij [[NGINX op docker]]:
+>Je moet dan ook bij elke `docker-compose.yml` het netwerk `proxy` toevoegen aan je configuratie. Zoals bv bij [[NGINX op docker]]:
 >
 >![[NGINX op docker#Configuratiebestand]]
