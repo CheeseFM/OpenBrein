@@ -1,6 +1,6 @@
 #documentatie  #afgerond
 
-🗂️ Onderwerp:  [[🧠 Ontwikkelen van OpenBrein]]
+🗂️ Onderwerp:  [[Ontwikkelen van OpenBrein]]
 🎖️ Licentie: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 >[!info] Bronnen

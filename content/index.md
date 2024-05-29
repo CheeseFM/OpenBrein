@@ -10,17 +10,10 @@ Ik volg de richting informatica, dus het grootste deel van mijn notities gaan ro
 
 # Waar starten?
 ---
-Waar je wil! - Meestal als je hier bent weet je al wat je zoekt. Start met zoeken via de zoekbalk, de onderstaande indexpagina's voor school, recente veranderingen, grafiek en/of de backlinks om jouw weg te vinden!
-
-## 🏫 Notities school
-* [[✨ Informatica]]
-	* [[💻 Basis informatica]]
-	* [[🖥️ Computertechnieken]]
-* [[🧪 Wetenschappen]]
+Waar je wil! - Meestal als je hier bent weet je al wat je zoekt. Start met zoeken via de zoekbalk, recente veranderingen, grafiek en/of de backlinks om jouw weg te vinden!
 
 ## 🔗Andere handige pagina's
 * [[☁️ Google Drive]] - Hier kan je mijn Google Drive zien met verslagen, eindwerken, grote samenvattingen en geannoteerde slides. Ik zet hier specifieke links per vak / type document zodat je vlug je weg kan vinden! 
-* [[🏭 Projecten]] - Als ik een groot project onderneem dan maak ik altijd een projectpagina om alles te linken. Zo heb ik nog iets van structuur!
 * [[💡 Inspiraties voor OpenBrein]] - Een pagina met mijn grote helden die mij inspiratie gegeven hebben om dit avontuur te starten.
 * [[📛 Attributie]] - Attributie voor het gebruiken van bepaalde bronnen in het maken van de website.
 

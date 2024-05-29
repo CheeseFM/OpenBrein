@@ -1,5 +1,0 @@
-
-#onderwerpen
-
----
-* [[💻 Basis informatica]]

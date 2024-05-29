@@ -1,5 +1,5 @@
 
-#onderwerpen 
+#project
 
 *Welkom op de indexpagina voor het opzetten van de OpenBrein website.*
 
