@@ -48,4 +48,6 @@ We gaan eerst eens bekijken welke pagina's dat we nodig hebben, ik heb deze:
 	* Over - Over GoBike
 	* Licentie - Meer uitleg over hoe je ons project mag gebruiken
 
+## Stijlen
+
 
