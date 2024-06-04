@@ -50,9 +50,13 @@ Voor suggesties, kritiek of hulp kan je me contacteren via mijn [mail](mailto:je
 ### 📤 Gebruiken van mijn notities
 Ik geloof zwaar in het openbaren en publiceren van eigen notities. Jij mag ook mijn figuren en notities in eigen werken gebruiken als je me correct vermeld - **Gebruiken voor commerciële doeleinden is niet toegelaten.**
 
+### 💰 Steun me
+Als je mijn notities handig vind en je wil een kleine geste doen, dan kan je me altijd iets sturen via Ko-fi! **Het is 100% vrijwillig** en je bent vrij om te geven wat je maar wil. 
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Steun me op Ko-fi', '#ec629c', 'K3K3YXMEH');kofiwidget2.draw();</script> 
+
 
 >  ![[CCLogo.png]]
 >  *Alle zelfgemaakt notities, figuren en deze website staan onder de [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licentie.*
 >  **^ Jelle De Vreeze** @ OpenBrein
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Steun me op Ko-fi', '#ec629c', 'K3K3YXMEH');kofiwidget2.draw();</script> 

@@ -1,4 +1,4 @@
-- 2024-06-04 at 20h03 · [[index]]
+- 2024-06-04 at 20h09 · [[index]]
 - 2024-06-04 at 19h50 · [[Basis van netwerken]]
 - 2024-06-04 at 19h22 · [[Project - Sjabloon V0.1]]
 - 2024-06-04 at 17h21 · [[🐍 Programmeren]]
