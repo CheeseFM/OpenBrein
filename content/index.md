@@ -16,6 +16,7 @@ Waar je wil! - Meestal als je hier bent weet je al wat je zoekt. Start met zoeke
 * [[☁️ Google Drive]] - Hier kan je mijn Google Drive zien met verslagen, eindwerken, grote samenvattingen en geannoteerde slides. Ik zet hier specifieke links per vak / type document zodat je vlug je weg kan vinden! 
 * [[💡 Inspiraties voor OpenBrein]] - Een pagina met mijn grote helden die mij inspiratie gegeven hebben om dit avontuur te starten.
 * [[📛 Attributie]] - Attributie voor het gebruiken van bepaalde bronnen in het maken van de website.
+* [[📻 Huiswerk afspeellijsten]] - Afspeellijsten die ik heb gevonden of gemaakt om productief te zijn. Meestal zonder songteksten.
 
 
 ![[📂 Recente veranderingen]]
@@ -54,3 +55,4 @@ Ik geloof zwaar in het openbaren en publiceren van eigen notities. Jij mag ook m
 >  *Alle zelfgemaakt notities, figuren en deze website staan onder de [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licentie.*
 >  **^ Jelle De Vreeze** @ OpenBrein
 
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Steun me op Ko-fi', '#ec629c', 'K3K3YXMEH');kofiwidget2.draw();</script> 

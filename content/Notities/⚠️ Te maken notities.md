@@ -13,3 +13,4 @@
 * [[Virtualisatie]]
 * [[Installatie OS]]
 * [[Schijven]]
+* [[Een server]]

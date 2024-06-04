@@ -1,5 +1,5 @@
 
-#quick-note
+#wordt-constant-bijgewerkt 
 
 ---
 * Surface Laptop 5:  `2256x1504`
