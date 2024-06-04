@@ -13,3 +13,4 @@ Op deze pagina zet ik alles rond zelf verbetering en dingen die ik bij de therap
 * [[de reptiel, het beest en de mens in je hersenen]]
 * [[heb je je computer echt nodig?]]
 * [[Brainfog]]
+* [[Uitstelgedrag]]

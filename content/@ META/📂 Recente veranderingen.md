@@ -1,4 +1,5 @@
-- 2024-06-04 at 20h09 · [[index]]
+- 2024-06-04 at 20h16 · [[Zelf verbetering]]
+- 2024-06-04 at 20h15 · [[index]]
 - 2024-06-04 at 19h50 · [[Basis van netwerken]]
 - 2024-06-04 at 19h22 · [[Project - Sjabloon V0.1]]
 - 2024-06-04 at 17h21 · [[🐍 Programmeren]]
@@ -7,4 +8,3 @@
 - 2024-06-04 at 17h20 · [[🖥️ Computertechnieken]]
 - 2024-06-04 at 17h20 · [[🛜 Netwerken]]
 - 2024-06-04 at 17h13 · [[⚠️ Te maken notities]]
-- 2024-06-04 at 16h53 · [[Docker basis installatie]]
