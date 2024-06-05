@@ -7,9 +7,14 @@
 # Mijn probleem
 Ik wil wel alles synchroniseren met Github, voor mij totaal geen probleem. Maar het gebruiken van foto's en andere documenten in mijn notities en documentatie is cruciaal. Alhoewel Github dit graag wel allemaal opslaat kan je tot 1 GB per repo vooraleer je waarschuwingen krijgt en [50 MB per bestand ](https://backrightup.com/blog/github-storage-limits/#:~:text=GitHub%20limits%20the%20maximum%20file,minimize%20performance%20impact%20on%20GitHub.).
 
+## Wat wil ik
+* Van eender welk apparaat mijn notities publiceren
+* Op mijn eigen server hosten
+* Automatisatie die automatisch synct met quartz
+
 # De oplossingen
 ## Oplossing 1:
-#bezig 
+**GESTOPT: Te ingewikkeld en te veel zwakke linken in de ketting**
 Ik wil mijn eigen server thuis gebruiken om de Quartz docker image te hosten.
 -> Maar mijn iCloud data moet ook gesynchroniseerd worden met die server.
 
@@ -20,8 +25,16 @@ Ik wil mijn eigen server thuis gebruiken om de Quartz docker image te hosten.
 ![[Pasted image 20240520224229.png]]
 
 ## Oplossing 2:
-#bezig 
+**MOGELIJK: Maar heb nog altijd PC (Windows of MAC) nodig om te publishen, niet optimaal!**
 Eigen gitlab server met gitlab pages, zelf opstelling als bij Github maar dan op eigen server.
+
+## Oplossing 3:
+**Volgende om te testen**
+1. Quartz op server installeren met nginx (zonder of met docker) en een automatisatie om de minuut een `quartz sync` te doen om html pagina's te generen. 
+	* Moest ik sowieso al doen dus no bigy
+2. Lokale (LAN) SFTP server op de `content` folder zodat als ik thuiskom mijn notities kan syncen via een upload site 
+	* Ofwel: VPN hosten zodat ik vanaf eender welke plek op mijn lokale netwerk kan (apart van dit project gewoon cool om te hebben)
+	* Ofwel: SFTP server op de WAN zetten
 
 # Benodigdheden
 * https://hub.docker.com/r/mandarons/icloud-drive

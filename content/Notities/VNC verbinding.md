@@ -40,5 +40,5 @@ Voer daarna je VNC naam (naam van de gebruiker) en je passwoord in.
 
 ---
 #### **⛓️ Verwijzingen:**
-* [[VNC server installeren op Raspberry Pi (OS)]]
+* [[VNC server installeren op Raspberry Pi]]
 * [[RealVNC verbinding aanmaken op iOS]]

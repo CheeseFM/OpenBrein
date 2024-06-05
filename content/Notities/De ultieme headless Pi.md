@@ -77,7 +77,7 @@ Klik op `Opslaan` en daarna `Ja`. Als je zeker bent klik de waarschuwing weg doo
 Vind je apparaat via je router of installeer [Advanced IP Scanner](https://www.advanced-ip-scanner.com/) en vind je Pi op het netwerk. 
 
 ![[Pasted image 20240526162752.png]]
-## Verbinden > [[Een SSH verbinding opstellen]]
+## Verbinden > [[SSH verbinding]]
 Verbind met je Pi door via Powershell SSH op te starten, in ons geval:
 
 ```PowerShell
@@ -362,7 +362,7 @@ Daarnaast vul je **niks** in.
 
 ![[Pasted image 20240526175219.png]]
 
-# Grafische toegang aanzetten < [[VNC server installeren op Raspberry Pi (OS)]]
+# Grafische toegang aanzetten < [[VNC server installeren op Raspberry Pi]]
 Ok we hebben al dat werk gedaan om een desktopversie van Raspberry Pi OS te installeren maar gebruiken de desktop niet! - We gaan een gelijkaardig protocol als SSH gebruiken die gefocust is op het tonen van grafische omgevingen, VNC!
 
 ## VNC server configureren
@@ -502,7 +502,7 @@ Log file is /home/cheese/.vnc/pi:1.log
 sudo reboot
 ```
 
-# Verbinden > [[Een VNC verbinding opstellen]]
+# Verbinden > [[VNC verbinding]]
 Verbinden doe je op dezelfde manier als bij SSH maar dan met een VNC client zoals [RealVNC Client](https://www.realvnc.com/en/connect/download/viewer/)
 
 ## Met computer

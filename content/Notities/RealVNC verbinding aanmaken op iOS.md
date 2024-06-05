@@ -17,7 +17,7 @@
 ![[IMG_5878.jpg]]
 
 # Voer je IP in
-In ons geval `172.20.10.2` gevolgd door het nummer van de desktop. (Zie [[Een VNC verbinding opstellen]])
+In ons geval `172.20.10.2` gevolgd door het nummer van de desktop. (Zie [[VNC verbinding]])
 
 ![[IMG_5880.jpg]]
 

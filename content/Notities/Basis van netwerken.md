@@ -10,7 +10,7 @@ Heel basic is een netwerk het verbinden en communiceren van computers met elkaar
 
 ![[Ring.png.png]]
 
-Software, browsers en spelletjes kunnen 'online' worden gebruikt. Zo kan jij iemand anders zijn computer ([[Een server]]) gebruiken die kilometers verder woont om een mooie webpagina op je scherm te laten verschijnen.
+Software, browsers en spelletjes kunnen 'online' worden gebruikt. Zo kan jij iemand anders zijn computer ([[Server]]) gebruiken die kilometers verder woont om een mooie webpagina op je scherm te laten verschijnen.
 
 # Bestuderen van jouw netwerk
 We gaan eens een netwerk bekijken die jij mogelijk in je huis hebt. Mogelijks zitten elementen 2, 3, 4, 5 en 6 allemaal ingebouwd in de combo router van je internet service provider (bv. Telenet, Proximus, ...)
@@ -36,20 +36,22 @@ Je kan de switch zien als de straat waarmee de huizen (computers en netwerkappar
 
 ![[Switch netwerk.png.png]]
 
-## [[Domain name server]] (6)
+## [[Domain Name Server]] en/of [[DHCP server]] (6)
 De DNS of domain name server vertaalt geschreven woorden naar adressen die de router kan verstaan. Als jij `google.com` intypt, dan zal de DNS dit omzetten naar bv. `172.138.2.901`. Het is net een telefoonboek voor domeinnamen. 
+
+
 
 ## Wi-Fi modem (6)
 Een Access-Point (AP), Wi-Fi modem of wifi toegangspunt zijn allemaal synoniemen voor hetzelfde stukje hardware. Ze neemt een netwerkkabel van je router en zet het signaal om in een draadloos signaal. 
 
 ## Netwerkgebruikers (7 & 8)
-Netwerkapparaten zoals printers, computers, laptops, telefoons, tablets, ... verbonden via kabel (7) of via draadloze verbinding (8).
+Netwerkapparaten zoals printers, computers, laptops, telefoons, tablets, ... verbonden via kabel (7) of via draadloze verbinding (8) aan de [[LAN]].
 
 # Onder het oppervlakte
-## Het [[OSI]] en [[TCP/IP]] model
-Een netwerk is enorm ingewikkeld als je écht onder het oppervlakte begint te kijken. Daarom ontwikkelde men het [[OSI]] model. Het is een conceptuele voorstelling dat toont hoe communicatie gebeurt via lagen. 
+## Het [[OSI model]] en [[TCP - IP model]]
+Een netwerk is enorm ingewikkeld als je écht onder het oppervlakte begint te kijken. Daarom ontwikkelde men het [[OSI model]]. Het is een conceptuele voorstelling dat toont hoe communicatie gebeurt via lagen. 
 
-Daarnaast hebben we het praktische [[TCP/IP]] model die de realistische werking van een netwerk blootlegt. 
+Daarnaast hebben we het praktische [[TCP - IP model]] model die de realistische werking van een netwerk blootlegt. 
 
 Beide hebben specifieke toepassingen, bv. voor het ontwikkelen en troubleshooten van fouten in een programma die communiceert op het netwerk gaat men voornamelijk het OSI model gebruiken
 

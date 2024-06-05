@@ -2,9 +2,10 @@
 #onderwerpen
 
 ---
+* [[Server]]
 * [[Raspberry Pi OS installeren]]
-* [[Een SSH verbinding opstellen]]
-* [[Een VNC verbinding opstellen]]
+* [[SSH verbinding]]
+* [[VNC verbinding]]
 * [[RealVNC verbinding aanmaken op iOS]]
 * [[Cisco pakket tracer download (2024)]]
 * [[Verbinding opstellen via directe kabel Siemens PROFINET]]
