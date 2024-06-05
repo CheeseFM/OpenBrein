@@ -1,4 +1,4 @@
-- 2024-06-05 at 08h59 · [[index]]
+- 2024-06-05 at 09h04 · [[index]]
 - 2024-06-05 at 08h51 · [[VNC verbinding]]
 - 2024-06-05 at 08h51 · [[De ultieme headless Pi]]
 - 2024-06-05 at 08h51 · [[🖥️ Computertechnieken]]
