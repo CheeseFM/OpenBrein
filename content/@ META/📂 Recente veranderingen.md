@@ -1,3 +1,4 @@
+- 2024-06-05 at 08h59 · [[index]]
 - 2024-06-05 at 08h51 · [[VNC verbinding]]
 - 2024-06-05 at 08h51 · [[De ultieme headless Pi]]
 - 2024-06-05 at 08h51 · [[🖥️ Computertechnieken]]
@@ -7,4 +8,3 @@
 - 2024-06-05 at 08h30 · [[Basis van netwerken]]
 - 2024-06-05 at 08h28 · [[⚠️ Te maken notities]]
 - 2024-06-05 at 08h24 · [[Router]]
-- 2024-06-05 at 08h19 · [[Standaardgateway]]

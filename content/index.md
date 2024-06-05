@@ -1,6 +1,8 @@
 ---
 title: Thuispagina
 ---
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Steun me op Ko-fi', '#ec629c', 'K3K3YXMEH');kofiwidget2.draw();</script> 
+
 [Google Calendar](https://calendar.google.com/calendar/u/0/r)   [Google Tasks](https://calendar.google.com/calendar/u/0/r/tasks)  [Schoolplatform](https://erasmusatheneum.smartschool.be/login)
 
 *Welkom in mijn notities, ook wel eens tweede hersenen genoemd! 🧠 - Hier publiceer ik alle notities die ik neem in een Wiki formaat.*
@@ -52,8 +54,6 @@ Ik geloof zwaar in het openbaren en publiceren van eigen notities. Jij mag ook m
 
 ### 💰 Steun me
 Als je mijn notities handig vind en je wil een kleine geste doen, dan kan je me altijd iets sturen via Ko-fi! **Het is 100% vrijwillig** en je bent vrij om te geven wat je maar wil. 
-
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Steun me op Ko-fi', '#ec629c', 'K3K3YXMEH');kofiwidget2.draw();</script> 
 
 ---
 
