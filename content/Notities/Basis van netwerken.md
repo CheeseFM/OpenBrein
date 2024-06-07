@@ -36,13 +36,13 @@ Je kan de switch zien als de straat waarmee de huizen (computers en netwerkappar
 
 ![[Switch netwerk.png.png]]
 
-## [[Domain Name Server]] en/of [[DHCP server]] (6)
-De DNS of domain name server vertaalt geschreven woorden naar adressen die de router kan verstaan. Als jij `google.com` intypt, dan zal de DNS dit omzetten naar bv. `172.138.2.901`. Het is net een telefoonboek voor domeinnamen. 
+## [[Domain Name Server]], [[Proxy server]] en/of [[DHCP server]] (6)
+Verschillende [[Server]] types die meestal standaard op je netwerk draaien en ook meestal zelfs ingebouwd je router zitten
 
 
 
 ## Wi-Fi modem (6)
-Een Access-Point (AP), Wi-Fi modem of wifi toegangspunt zijn allemaal synoniemen voor hetzelfde stukje hardware. Ze neemt een netwerkkabel van je router en zet het signaal om in een draadloos signaal. 
+Een [[Access-Point]] (AP), Wi-Fi modem of wifi toegangspunt zijn allemaal synoniemen voor hetzelfde stukje hardware. Ze neemt een netwerkkabel van je router en zet het signaal om in een draadloos signaal. 
 
 ## Netwerkgebruikers (7 & 8)
 Netwerkapparaten zoals printers, computers, laptops, telefoons, tablets, ... verbonden via kabel (7) of via draadloze verbinding (8) aan de [[LAN]].
@@ -56,7 +56,7 @@ Daarnaast hebben we het praktische [[TCP - IP model]] model die de realistische 
 Beide hebben specifieke toepassingen, bv. voor het ontwikkelen en troubleshooten van fouten in een programma die communiceert op het netwerk gaat men voornamelijk het OSI model gebruiken
 
 ## [[Netwerk protocollen]]
-De regels van hoe apparaten op het netwerk communiceren noemen we 'protocollen' en zijn zwaar gestandaardiseerd over de wereld. Zo heb je bv. [[UDP]], [[TCP]], [[ARP]], [[IP]] en andere alfabetsoep afkortingen.
+De regels van hoe apparaten op het netwerk communiceren noemen we 'protocollen' en zijn zwaar gestandaardiseerd over de wereld. Zo heb je bv. [[UDP]], [[TCP]], [[ARP]], [[IP]], [[DHCP]], en andere alfabetsoep afkortingen.
 
 ## [[Netwerktopologieën]]
 [Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/NetworkTopologies.svg/812px-NetworkTopologies.svg.png)

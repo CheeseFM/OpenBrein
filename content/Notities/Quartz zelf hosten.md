@@ -11,6 +11,7 @@ Ik wil wel alles synchroniseren met Github, voor mij totaal geen probleem. Maar 
 * Van eender welk apparaat mijn notities publiceren
 * Op mijn eigen server hosten
 * Automatisatie die automatisch synct met quartz
+* Synchronisatie tussen iCloud en Google Drive (indien mogelijk)
 
 # De oplossingen
 ## Oplossing 1:

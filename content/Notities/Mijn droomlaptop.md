@@ -6,6 +6,7 @@
 ---
 # Ontwerp
 Industrieel, uniforme randen, matzwart, gelijkmatige proporties. Ergens tussen Macbook (zonder de notch, ew.) en de Surface Laptop 7 (ew bovenste rand is veel te groot). 
+* Webcam in onderkant van scherm voor uniforme randen
 * Coating moet deels vingerprint weerstandig zijn want holy shit moet ik mijn laptop veel kuisen
 * Anodisatie op level van Macbook want mijn Surface verliest zijn mooi zwart velletje van de kleinste schart
 

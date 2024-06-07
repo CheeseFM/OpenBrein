@@ -14,3 +14,4 @@ Op deze pagina zet ik alles rond zelf verbetering en dingen die ik bij de therap
 * [[heb je je computer echt nodig?]]
 * [[Brainfog]]
 * [[Uitstelgedrag]]
+* [[Online hersenrot tegengaan]]
