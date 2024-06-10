@@ -146,15 +146,18 @@ Bij het linken van bestanden in mappen onder de huidige map kan je het de `../` 
 
 * Zo kan je je pagina in `/pages/bike-001/info.html` nog steeds linken naar `/src/css/bootstrap.css`
 
+### Portfolio
+mdbootstrap.com
+
 # Stijlen
 
 # Verfijnen
 ## Te doen:
 - [x] Uitzoeken hoe je een mooie /bike-001/verslag krijgt i.p.v. gewoon verslag.html
-- [ ] Sitemap
-- [ ] Onderlijnen knoppen (https://stackoverflow.com/questions/45833358/underline-active-navbar-links-in-bootstrap-4)
+- [x] Sitemap
 - [ ] Uitzoeken Bootstrap variablen overschrijven (voor up te daten naar nieuwe versie)
-- [ ] Fredoka One H1s
-- [ ] Placeholders invoeren
+- [x] Fredoka One H1s
+- [ ] Commentaar toevoegen
+- [x] Uitzoeken hoe ik footer op de onderkant van de pagina hou.
 - [ ] **Verslag maken en opdracht invullen**
 

@@ -2,6 +2,9 @@
 
 ---
 
+# Software
+
+
 - [ ] Bestandstructuur in files
 - [ ] Document scannen automatisch naar een specifieke folder met shortcut
 - [ ] 80% limiet aanzetten
@@ -11,3 +14,8 @@
 - [ ] Orion
 - [ ] [[De ultieme headless Pi]]
 
+# Hardware
+- Magic Keyboard
+- Apple Pencil Pro
+- Dbrand skin
+- Paperlike

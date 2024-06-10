@@ -24,10 +24,10 @@ Website (van 8 pagina's) en bijbehorende bestanden meenemen om te tonen
 * [[Berekenen IP]] (zonder RKM)
 * Onderdelen van een netwerk
 	* ([[Modem]])
-	* [[Router]] of [[Standaardgateway]]
+	* [[Router]] of [[Router|Standaardgateway]]
 	* [[Switch]]
-	* [[Wi-Fi modem]] of [[Access-Point]]
-	* [[Cloud]] of [[WAN]]
+	* [[Access-Point|Wi-Fi modem]] of [[Access-Point]]
+	* [[WAN|Cloud]] of [[WAN]]
 	* [[LAN]]
 * Verschillende servers (of services) die draaien op je netwerk (de meeste zijn al gekend)
 	* DNS ([[Domain Name Server]])

@@ -25,7 +25,6 @@ Oké dit wordt de rest van deze pagina. Ik link je naar mijn notities om stap vo
 * Publiceren - Quartz, Github & Github Pages (of zelf hosten)
 
 # Praktisch
-Als je nu écht
 ## Met Github pages
 De gemakkelijkste manier om je Obsidian notities online te gooien is met Quartz en Github Pages. 
 ### Quartz zonder sync met iCloud
@@ -35,7 +34,7 @@ Als je je enkel op je Windows, Linux of Mac computer Obsidian notities neemt dan
 3. [[Quartz hosten op Github Pages]]
 4. [[Quartz favicon configureren]]
 
-## Quartz met iCloud
+### Quartz met iCloud
 Oké dus wat ik wil doen is op mijn iPad en misschien ook mijn Windows laptop notities nemen en niet betalen voor Obsidian Sync. Dus moet ik op iCloud mijn vault opslaan. Hierdoor is de setup met Quartz een tikkeltje ingewikkelder
 1. [[Obsidian installatie met iCloud sync]]
 2. [[Quartz installatie]]
@@ -45,7 +44,12 @@ Oké dus wat ik wil doen is op mijn iPad en misschien ook mijn Windows laptop no
 6. [[iCloud Drive synchronisatie manueel regelen]]
 7. [[Quartz favicon configureren]]
 
+
 ## Quartz zelf hosten
+### Obsidian sync met Quartz
+1. [[Backups via Google Drive]]
+2. [[Synchronisatie via Obsidian sync]]
+3. [[Quartz zelf hosten]]
+
 
 ---
-* [[Quartz zelf hosten]]

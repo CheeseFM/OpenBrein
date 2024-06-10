@@ -1,3 +1,9 @@
+---
+aliases:
+  - Cloud
+  - Wide Area Network
+---
+
 #kladversie  
 
 🗂️ Onderwerp: [[Basis van netwerken]]

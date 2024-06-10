@@ -14,7 +14,7 @@ Een GSM is een communicatief apparaat, daar blijft het bij. Je moet kunnen commu
 ### Blank
 Ik gebruik 'Blank' als launcher om mijn GSM onaantrekkelijk te maken om vlug eens snapchat te bekijken of op TikTok te springen door meldingen
 
-![[Pasted image 20240605133811.png]]
+![[Blank App.png]]
 ### Apps de-installeren
 Je kan apps die je afleiden gewoon de-installeren, dit hielp mij enorm voor YouTube, als ik het nodig heb gebruik ik gewoon de web app.
 
@@ -41,8 +41,3 @@ www.youtube.com##.ytp-autonav-toggle-button
 
 # Inspiratie
 * https://www.youtube.com/watch?v=IRQw3mIJJRY
-
-
-
-
-

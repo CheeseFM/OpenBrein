@@ -16,7 +16,7 @@ Software, browsers en spelletjes kunnen 'online' worden gebruikt. Zo kan jij iem
 We gaan eens een netwerk bekijken die jij mogelijk in je huis hebt. Mogelijks zitten elementen 2, 3, 4, 5 en 6 allemaal ingebouwd in de combo router van je internet service provider (bv. Telenet, Proximus, ...)
 
 ![[Jouw opbouw.png.png]]
-## Cloud (1)
+## [[WAN|Cloud]] (1)
 De cloud ofwel het internet is alles 'online' en buiten je netwerk. We noemen dit ook wel eens de [[WAN]] zijde.
 
 ## [[Modem]] (2)
@@ -25,7 +25,7 @@ Soms toepasselijk, soms niet. De modem zet de signalen om die je krijgt van je I
 * Een glasvezel verbinding, die a.d.h.v. lichtpulsen data verstuurd. Die wordt dan gedecodeerd.
 
 ## [[Router]] (3) 
-De router of '[[Standaardgateway]]' neemt de pakketjes en stuurt ze de juiste richtingen op. Ze zit tussen twee netwerken en maakt dat ons klein netwerkje van thuis met het wijdere netwerk van het internet kan communiceren. 
+De router of '[[Router|Standaardgateway]]' neemt de pakketjes en stuurt ze de juiste richtingen op. Ze zit tussen twee netwerken en maakt dat ons klein netwerkje van thuis met het wijdere netwerk van het internet kan communiceren. 
 
 Je kan je netwerk inbeelden als een wijk, waarvan de router de ingang van de wijk is. De naam van je wijk (het externe IP) vertelt de postbode wel waar ze moet zijn om het af te leveren maar niet aan wie.
 
@@ -41,7 +41,7 @@ Verschillende [[Server]] types die meestal standaard op je netwerk draaien en oo
 
 
 
-## Wi-Fi modem (6)
+## [[Access-Point|Wi-Fi modem]] (6)
 Een [[Access-Point]] (AP), Wi-Fi modem of wifi toegangspunt zijn allemaal synoniemen voor hetzelfde stukje hardware. Ze neemt een netwerkkabel van je router en zet het signaal om in een draadloos signaal. 
 
 ## Netwerkgebruikers (7 & 8)

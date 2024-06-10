@@ -6,7 +6,7 @@
 
 ---
 # Online zetten van notities
-Met quartz via Github of [[Quartz zelf hosten]]
+Met quartz via Github of [[Quartz zelf hosten]] (Pi)
 
 # Notities synchroniseren 
 Via iCloud sync of Obsidian sync als ik écht op eender wel apparaat wil noteren.
