@@ -3,8 +3,6 @@ title: Thuispagina
 ---
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Steun me op Ko-fi', '#ec629c', 'K3K3YXMEH');kofiwidget2.draw();</script> 
 
-[Google Calendar](https://calendar.google.com/calendar/u/0/r)   [Google Tasks](https://calendar.google.com/calendar/u/0/r/tasks)  [Schoolplatform](https://erasmusatheneum.smartschool.be/login)
-
 *Welkom in mijn notities, ook wel eens tweede hersenen genoemd 🧠 - Hier publiceer ik alles dat ik maak een Wiki formaat voor jou gemak!*
 
 ---

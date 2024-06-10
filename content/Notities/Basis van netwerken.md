@@ -54,7 +54,7 @@ Daarnaast hebben we het praktische [[TCP - IP model]] model die de realistische 
 Beide hebben specifieke toepassingen, bv. voor het ontwikkelen en troubleshooten van fouten in een programma die communiceert op het netwerk gaat men voornamelijk het OSI model gebruiken
 
 ## [[Netwerk protocollen]]
-De regels van hoe apparaten op het netwerk communiceren noemen we 'protocollen' en zijn zwaar gestandaardiseerd over de wereld. Zo heb je bv. [[UDP]], [[TCP]], [[ARP]], [[IP]], [[DHCP]], en andere alfabetsoep afkortingen.
+De regels van hoe apparaten op het netwerk communiceren noemen we 'protocollen' en zijn zwaar gestandaardiseerd over de wereld. Zo heb je bv. [[UDP]], [[TCP]], [[ARP]], [[IP]], [[DHCP]], [[FTP]] en andere alfabetsoep afkortingen.
 
 ## [[Netwerktopologieën]]
 [Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/NetworkTopologies.svg/812px-NetworkTopologies.svg.png)

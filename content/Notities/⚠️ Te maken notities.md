@@ -8,7 +8,6 @@
 * [[Versleuteling]]
 * [[Installatie bootstrap]]
 * [[Opbouw IP]]
-* [[Proxy server]]
 * [[Virtualisatie]]
 * [[Installatie OS]]
 * [[Schijven]]
