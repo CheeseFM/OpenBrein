@@ -39,8 +39,6 @@ Je kan de switch zien als de straat waarmee de huizen (computers en netwerkappar
 ## [[Domain Name Server]], [[Proxy server]] en/of [[DHCP server]] (6)
 Verschillende [[Server]] types die meestal standaard op je netwerk draaien en ook meestal zelfs ingebouwd je router zitten
 
-
-
 ## [[Access-Point|Wi-Fi modem]] (6)
 Een [[Access-Point]] (AP), Wi-Fi modem of wifi toegangspunt zijn allemaal synoniemen voor hetzelfde stukje hardware. Ze neemt een netwerkkabel van je router en zet het signaal om in een draadloos signaal. 
 
