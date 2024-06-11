@@ -1,15 +1,12 @@
 #documentatie  #bezig  #wordt-constant-bijgewerkt  #afgerond
 
-🗂️ Onderwerp: 
 🎖️ Licentie: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 >[!Warning] Knowhow
 >Je hebt een [[Docker basis installatie]] nodig.
 
 ---
-# Aanmaken bestandstructuur
-
-``` Bash
+# Aanma[](Docker%20basis%20installatie.md)sh
 mkdir -p ~/data/XXX/YYY && mkdir -p ~/data/config/XXX/
 ```
 
