@@ -11,3 +11,4 @@
 * [[Virtualisatie]]
 * [[Installatie OS]]
 * [[Schijven]]
+* [[Leerpyramide]]

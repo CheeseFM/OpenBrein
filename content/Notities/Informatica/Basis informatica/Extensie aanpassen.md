@@ -8,7 +8,7 @@
 
 ---
 # Wat is een extensie?
-Een extensie geeft aan software een i[](Bestand%20of%20folder%20aanmaken.md)maken.md)et[](Naam%20aanpassen.md)ende extensies zijn:
+Een extensie geeft aan software een i[](Bestand%20of%20folder%20aanma[](Naam%20aanpassen.md)[](Naam%20aanpassen.md)ende extensies zijn:
 - `.txt` een tekstbestand
 - `.docx` een word bestand
 - `.png` een foto

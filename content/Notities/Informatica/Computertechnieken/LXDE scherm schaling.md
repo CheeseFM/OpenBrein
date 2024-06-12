@@ -3,8 +3,7 @@
 🎖️ Licentie: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 >[!warning] Knowhow
->[[💻 Basis informatica]]
-[](💻%20Basis%20informatica.md)ica.md) je ook de schaal van een scherm, zo kun je een scherm met een gigantische resolutie hebben die ook nog leesbare tekst heeft. 
+>[[🗂️ Basis informatica]] je ook de schaal van een scherm, zo kun je een scherm met een gigantische resolutie hebben die ook nog leesbare tekst heeft. 
 
 > [!info] Voorbeeld in windows
   ![[Pasted image 20240526183447.png]]

@@ -4,7 +4,9 @@
 
 >[!warning] Knowhow
 >[[Een snelkoppeling aanmaken]]
-[](Een%20snelkoppeling%20aanmaken.md)r
+
+---
+
 Open Windows Verkenner en vul `C:\Users\jelle\AppData\Roaming\Microsoft\Windows\Start Menu\Programs` op de zoekbalk in.
 
 ![[Pasted image 20240520213446.png]]

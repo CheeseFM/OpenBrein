@@ -3,8 +3,8 @@
 🎖️ Licentie: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 >[!warning] Knowhow
->[[💻 Basis informatica]]
-[](💻%20Basis%20informatica.md)ica.md)den
+>[[🗂️ Informatica]]
+
 Ga naar pi https://www.raspberrypi.com/software/ en download de Raspberry Pi imager. Open hem via het startmenu.
 
 ![[Pasted image 20240526160405.png]]

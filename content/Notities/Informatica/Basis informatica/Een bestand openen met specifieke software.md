@@ -7,7 +7,7 @@
 >Je moet weten hoe je een bestand vind en aanmaakt - [[Een (doel)map of bestand vinden]], [[Bestand of folder aanmaken]] 
 
 ---
-Soms moet je een bestand openen met specifieke [](Een%20(doel)map%20of%20bestand%20v[](Bestand%20of%20folder%20aanmaken.md)older%20aanmaken.md)n.
+Soms moet je een bestand openen met specifieke [](Een%20(doel)map%20of%20bestand%20vinden.md)0v[](Bestand%20of%20folder%20aanmaken.md)older%20aanmaken.md)n.
 
 # Bestand openen
 ## Rechtermuisknop

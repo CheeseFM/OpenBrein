@@ -4,12 +4,8 @@
 🎖️ Licentie: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 >[!warning] Knowhow
->Je moet een Quartz installatie staan hebben [[Quartz installatie]] en een basis van ICT bezitten [[💻 Basis informatica]].
+>Je moet een Quartz installatie staan hebben [[Quartz installatie]] en een basis van ICT bezitten [[basis]].
 
-> [!info] Bronnen
-> Je vind mijn embed best[](Quartz%20installatie.md)n mijn Github!
-> https://g[](💻%20Basis%20informatica.md)ormatica.md)tree/6834e02f3db56b46412980e2e8d2f68ec551a2aa/quartz/static
----
 # Vind het bestand
 ## Ga naar de juiste map
 Quartz heeft een `static` map. Hierin vind je de foto's die over gans haar installatie worden gebruikt. Dus bijvoorbeeld ook de favicon van je website te genereren.
