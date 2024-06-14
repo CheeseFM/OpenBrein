@@ -25,11 +25,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.RecentNotes()),
+    Component.DesktopOnly(Component.RecentNotes({ title: "Recent writing" })),
   ],
   right: [
     Component.Graph(),
-    Component.MobileOnly(Component.RecentNotes()),
+    Component.MobileOnly(Component.RecentNotes({ title: "Recent writing" })),
     Component.DesktopOnly(Component.TableOfContents()),
   ],
 }
