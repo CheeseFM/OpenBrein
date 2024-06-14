@@ -5,3 +5,4 @@
 
 ---
 [https://www.taesch.com/cognitive/changemanagement/le-cone-dapprentissage-edgar-dale](https://www.taesch.com/cognitive/changemanagement/le-cone-dapprentissage-edgar-dale)
+https://www.growthengineering.co.uk/what-is-edgar-dales-cone-of-experience/

@@ -6,7 +6,7 @@
 >Je hebt een [[Docker basis installatie]] nodig.
 
 ---
-# Aanma[](Docker%20basis%20installatie.md)sh
+# Aanma[](Docker%20basis%20installatie.md)tie.md)sh
 mkdir -p ~/data/XXX/YYY && mkdir -p ~/data/config/XXX/
 ```
 

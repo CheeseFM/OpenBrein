@@ -7,7 +7,7 @@
 >[!warning] Knowhow
 > Vooraleer je Quartz kan openen met Obsidian moet je eerst Quartz installeren
 > [[Quartz installatie]]
-[](Quartz%20installatie.md)w to publish your notes for free with Quartz - Nicole van der Hoeven](https://youtu.be/6s6DT1yN4dw)
+[](Quartz%20installatie.md)e.md)e.md)w to publish your notes for free with Quartz - Nicole van der Hoeven](https://youtu.be/6s6DT1yN4dw)
 >[Quartz documentatie](https://quartz.jzhao.xyz/)
 
 ---

@@ -3,8 +3,9 @@
 🎖️ Licentie: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 >[!warning] Knowhow
->[[🗂️ Basis informatica]]
-  doe je op ongeveer dezelfde manier als bij SSH maar dan met een VNC client zoals [RealVNC Client](https://www.realvnc.com/en/connect/download/viewer/), we gaan ervan uit dat je een VNC server draaiende hebt.
+>  [[Basis informatica]]
+
+Dit doe je op ongeveer dezelfde manier als bij SSH maar dan met een VNC client zoals [RealVNC Client](https://www.realvnc.com/en/connect/download/viewer/), we gaan ervan uit dat je een VNC server draaiende hebt.
 
 # Verbinding opzetten
 ## Met computer

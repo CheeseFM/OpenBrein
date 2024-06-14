@@ -7,12 +7,18 @@ Op deze pagina zet ik alles rond zelf verbetering en dingen die ik bij de therap
 > [!warning]
 > Ik ben zelf geen deskundige dus pak alles met een korreltjes zout! - Deze pagina is bijna puur voor mezelf.
 
-* [[Jouw mentale batterij]]
-* [[relaties in evenwicht houden]]
-* [[Wachten tot vraag voor je aanbod geeft]]
+# Gemaakte notities
+
+%% Begin Waypoint %%
+- [[Jouw mentale batterij]]
+- [[Online hersenrot tegengaan]]
+- [[relaties in evenwicht houden]]
+- [[Wachten tot vraag voor je aanbod geeft]]
+%% End Waypoint %%
+
+# Nog te maken notities
 * [[de reptiel, het beest en de mens in je hersenen]]
 * [[heb je je computer echt nodig?]]
 * [[Brainfog]]
 * [[Uitstelgedrag]]
-* [[Online hersenrot tegengaan]]
 * [[Compartmentalisatie]]

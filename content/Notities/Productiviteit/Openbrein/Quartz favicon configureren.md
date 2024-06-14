@@ -7,8 +7,7 @@
 >Je moet een Quartz installatie staan hebben [[Quartz installatie]] en een basis van ICT bezitten [[basis]].
 
 # Vind het bestand
-## Ga naar de juiste map
-Quartz heeft een `static` map. Hierin vind je de foto's die over gans haar installatie worden gebruikt. Dus bijvoorbeeld ook de favicon van je website te genereren.
+## Ga naar de juiste map[](Quartz%20installatie.md)e.md)tic` map. Hierin vind je de foto's die over gans haar installatie worden gebruikt. Dus bijvoorbeeld ook de favicon van je website te genereren.
 
 ![[Pasted image 20240520203056.png]]
 

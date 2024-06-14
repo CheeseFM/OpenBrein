@@ -7,12 +7,12 @@
 >[!warning] Knowhow
 >Je moet een Quartz installatie hebben ([[Quartz installatie]]) en jouw Obsidian vault moet via iCloud gesynchroniseerd staan ([[iCloud linken met Quartz installatie]]). 
 >
->Je moet ook de basics van informatica[](Quartz%20installatie.md)is informatica]]
+>Je moet ook de basics van informatica[](Quartz%20installatie.md)e.md)e.md)is informatica]]
 
 ---
 # Inleiding
 ## Doel
-Oké we hebben nu e[](iCloud%20linken%20met%20Quartz%20installatie.md)iCloud en een lege Quartz content folder, we willen nu:
+Oké we hebben[](iCloud%20linken%20met%20Quartz%20installatie.md)0installatie.md)allatie.md)iCloud en een lege Quartz content folder, we willen nu:
 
 ```mermaid
 

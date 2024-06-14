@@ -5,13 +5,17 @@
 
 > [!warning] Knowhow
 > Je hebt een basiskennis van ICT en TIA nodig en een PLC met een (ongekende) IP configuratie - Dit is normaal al ingesteld vanaf de fabriek.
-> [[🗂️ Basis informatica]]
-> Benodigdheden
-> * Computer met TIA Portal (v14)
-> * RJ45 netwerkkabel
-> * PLC met voeding (op didactisch bordje)
+> [[Basis informatica]]
+> 
+
+
 
 ---
+Benodigdheden
+* Computer met TIA Portal (v14)
+* RJ45 netwerkkabel
+* PLC met voeding (op didactisch bordje)
+
 # Fysieke verbindingen maken
 ## Steek een netwerkkabel in de PLC
 Neem een einde van je RJ45 en plug deze in in de `PROFINET` poort van je PLC.
