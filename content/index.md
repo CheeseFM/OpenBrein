@@ -21,8 +21,8 @@ Waar je wil! - Meestal als je hier bent weet je al wat je zoekt. Start met zoeke
 
 ![[Recente veranderingen]]
 
-## 🗂️ Indexen
-Mijn notities zijn volledig geïndexeerd. Je kan door mijn notities browsen door onderwerppagina's te volgen. 
+## 🗂️ Ondwerpen
+Je kan door mijn notities browsen door onderwerppagina's te volgen. Hier vind je de grote overkoepelende onderwerpen, waarin kleinere en kleinere.
 
 ![[Indexen]]
 
