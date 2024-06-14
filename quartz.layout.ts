@@ -9,7 +9,6 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       Mail: "mailto:jelle@openbrein.org",
       Instagram: "https://www.instagram.com/jelledevr/",
-      Website: "https://www.pointless.company",
     },
   }),
 }
