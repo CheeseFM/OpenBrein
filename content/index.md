@@ -18,10 +18,7 @@ Waar je wil! - Meestal als je hier bent weet je al wat je zoekt. Start met zoeke
 * [[Attributie]] - Attributie voor het gebruiken van bepaalde bronnen in het maken van de website.
 * [[Huiswerk afspeellijsten]] - Afspeellijsten die ik heb gevonden of gemaakt om productief te zijn. Meestal zonder songteksten.
 
-
-![[Recente veranderingen]]
-
-## 🗂️ Ondwerpen
+## 🗂️ Onderwerpen
 Je kan door mijn notities browsen door onderwerppagina's te volgen. Hier vind je de grote overkoepelende onderwerpen, waarin kleinere en kleinere.
 
 ![[Indexen]]
