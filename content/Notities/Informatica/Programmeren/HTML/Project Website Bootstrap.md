@@ -158,5 +158,5 @@ mdbootstrap.com
 - [x] Fredoka One H1s
 - [ ] Commentaar toevoegen
 - [x] Uitzoeken hoe ik footer op de onderkant van de pagina hou.
-- [ ] **Verslag maken en opdracht invullen**
+- [x] **Verslag maken en opdracht invullen**
 

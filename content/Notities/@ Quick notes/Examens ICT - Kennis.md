@@ -54,8 +54,8 @@ Website (van 8 pagina's) en bijbehorende bestanden meenemen om te tonen
 	* ([[Head-end netwerk]])
 * Netwerkkabel [[568b norm]] kennen
 * Pakket tracer kennen / toepassen
-* [[Versleuteling]] (private en )
-## Git
+* [[Versleuteling]] (private en public keys)
+## [[Git]]
 * Vanaf computer GIT repo kunnen maken en pushen (= [[Git push]])
 * Vanaf computer GIT repo afhalen (= [[Git pull]])
 * Commit history aantonen (op Github)

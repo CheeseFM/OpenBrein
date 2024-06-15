@@ -7,7 +7,6 @@
 Ideeën voor later zelfstandig bedrijf
 * Pen testing
 * Elektriciteit / domotica
-* Weeshuis per kind wiet
 
 
 

@@ -24,4 +24,3 @@ Netwerken! - Notities over alles te doen met netwerken.
 
 %% End Waypoint %%
 
-

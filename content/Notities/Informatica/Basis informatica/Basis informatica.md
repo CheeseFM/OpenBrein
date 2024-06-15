@@ -14,5 +14,3 @@ Alle basics in de informatica, gemaakt zodat ik het niet constant opnieuw uitleg
 - [[Snelkoppeling toevoegen aan Windows start]]
 
 %% End Waypoint %%
-
-
