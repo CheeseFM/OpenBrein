@@ -48,12 +48,16 @@ In git kan je een repository op verschillende manieren manipuleren. We nemen het
 ### Branching
 Aan onze browser willen we een accountsysteem toevoegen om te synchroniseren, we willen met meerdere ontwikkelaars hieraan werken zonder de ontwikkeling van browser zelf te belemmeren.
 
-Je maakt een grote nieuwe functie, we creëren een aftakking of 'branch'. 
+Je maakt een grote nieuwe functie, we creëren een aftakking of 'branch'. Dit kloont de toestand van de huidige repo naar een nieuwe branch. Alle veranderingen worden op deze nieuwe branch gedaan en niet op de main branch. 
+
+Het is alsof je je mapje met code kopieert naar een nieuw mapje en dan in dit nieuw mapje programmeert.
 
 ![[Pasted image 20240616133739.png]]
 
 ### Merging
-Wanneer je functie klaar is doen we een 'merge'. Je integreert de code die je gemaakt hebt in de hoofdrepo. 
+Wanneer je functie klaar is doen we een 'merge'. Dit is de clou van branching. Je kan na het integreren van je functie deze branches weer samenvoegen zodat je één eindproduct bekomt en niet meerdere versies.
+
+Je hebt nu een browser met een accountsysteem (en de wijzigingen die parallel zijn gedaan tijdens de ontwikkeling van deze functie)
 
 ![[Pasted image 20240616133935.png]]
 

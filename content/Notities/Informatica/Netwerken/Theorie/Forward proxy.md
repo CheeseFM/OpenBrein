@@ -1,4 +1,4 @@
-#kladversie  #uitgewerkt  #volwassen
+#uitgewerkt  
 
 🎖️ Licentie: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 📅 Aangemaakt: 10-06-2024
@@ -8,7 +8,7 @@
 ## Wat?
 Een forward proxy, of gewoon 'proxy', fungeert als vertegenwoordiger voor zijn clients. Ze neemt aanvragen op en stuurt dit naar de server, ze stuurt het antwoord daarna terug naar de client.
 - Als een client bv. een foto van een kat wilt afhalen van katten.be, dan zal hij via de proxyserver deze aanvraag doen en de foto naar jou terugsturen.
-- 
+
 ![[2.png]]
 
 ## Waarom?
