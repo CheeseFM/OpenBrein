@@ -25,25 +25,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(
-      Component.RecentNotes({
-        title: "Recent Writing",
-        limit: 4,
-        filter: (f) =>
-          !f.frontmatter?.noindex
-      }),
-    ),
   ],
   right: [
     Component.Graph(),
-    Component.MobileOnly(
-      Component.RecentNotes({
-        title: "Recent Writing",
-        limit: 4,
-        filter: (f) =>
-          !f.frontmatter?.noindex
-      }),
-    ),
     Component.DesktopOnly(Component.TableOfContents()),
   ],
 }

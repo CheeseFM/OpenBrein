@@ -1,4 +1,4 @@
- ---
+---
 title: Thuispagina
 ---
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Steun me op Ko-fi', '#ec629c', 'K3K3YXMEH');kofiwidget2.draw();</script> 
@@ -23,6 +23,11 @@ Je kan door mijn notities browsen door onderwerppagina's te volgen. Hier vind je
 
 ![[Indexen]]
 
+## 📈 Veranderingen
+Hier zie je alle recente veranderingen om door te kijken. Kan handig zijn!
+
+![[Veranderingen]]
+
 ## 📊 Status
 Om aan bezoekers van de website (en mezelf) te laten weten waar ik zit met een notitie zet ik altijd een status tag erbij. 
 
@@ -39,7 +44,7 @@ Om aan bezoekers van de website (en mezelf) te laten weten waar ik zit met een n
 --- 
 Mijn notities zijn nog altijd dat, notities! Het kan zijn dat sommige notities niet bepaald informatief zijn of zelfs niet aangevuld zijn.
 
-Deze volledige webpagina wordt geschreven door één persoon. Hoewel ik mijn best probeer te doen om thema's constant her te bekijken voor fouten of nieuwe info toe te voegen, kan het wel eens gebeuren dat er fouten instaan. Aarzel niet om contact op te nemen ([[#☎️ Contact]]) als je dit ziet!
+Deze volledige webpagina wordt geschreven door één persoon. Hoewel ik mijn best probeer te doen om notities constant her te bekijken voor fouten of nieuwe info toe te voegen, kan het wel eens gebeuren dat er fouten instaan. Aarzel niet om contact op te nemen ([[#☎️ Contact]]) als je dit ziet!
 
 # Praktische info
 ---
