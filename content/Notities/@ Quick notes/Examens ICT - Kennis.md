@@ -67,4 +67,3 @@ Website (van 8 pagina's) en bijbehorende bestanden meenemen om te tonen
 	* [[Git status]]
 	* [[Git commit]]
 	* [[Git origin]]
-	* [[Git log]]

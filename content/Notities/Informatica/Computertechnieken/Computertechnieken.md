@@ -9,6 +9,9 @@ Welkom bij de onderwerppagina voor computertechnieken. Hier staat alles over het
 	- [[Docker basis installatie]]
 	- [[NGINX op docker]]
 - [[Handige resoluties]]
+- **Ontwikelaarstools**
+	- [[Git commando's]]
+	- [[Git]]
 - **Pi**
 	- [[De ultieme headless Pi]]
 	- [[LXDE scherm schaling]]

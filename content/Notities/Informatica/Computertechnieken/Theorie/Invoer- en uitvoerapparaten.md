@@ -9,7 +9,7 @@
 Je hebt een computer, ze is veelzijdig. Je kan ermee doen wat je wilt indien je de nodige software hebt. **Maar hoe gaan we nu met die computer communiceren?** 
 * Je hebt een manier nodig om jouw bedoeling aan de rekeneenheid over te brengen.
 
-![[@ Assets/0.png]]
+![[@ Assets/Foto's/Invoer- en uitvoerapparaten/0.png]]
 
 ### Invoer
 Invoerapparaten zijn deze manier om je bedoeling over te brengen. Ze gebruiken sensoren om jou of de omgeving te begrijpen.
@@ -17,7 +17,7 @@ Invoerapparaten zijn deze manier om je bedoeling over te brengen. Ze gebruiken s
 
 Ze zijn meestal (een combinatie) van sensoren bedoeld voor een computer invoer van de gebruiker te geven
 
-![[@ Assets/1.png]]
+![[@ Assets/Foto's/Invoer- en uitvoerapparaten/1.png]]
 
 ## Hallo gebruiker!
 Oké, nu het omgekeerd.
@@ -28,5 +28,6 @@ Uitvoerapparaten bestaan in verschillende vormen, men gebruikt actoren om iets n
 * Voorbeelden zijn: luidsprekers, lichtjes, printers, …
 
 Ze zijn meestal (een combinatie) actoren die een computer gebruikt om jou dingen weer te geven.
-![[@ Assets/2.png]]
+
+![[@ Assets/Foto's/Invoer- en uitvoerapparaten/2.png]]
 
