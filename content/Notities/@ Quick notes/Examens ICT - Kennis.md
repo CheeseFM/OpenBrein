@@ -56,14 +56,7 @@ Website (van 8 pagina's) en bijbehorende bestanden meenemen om te tonen
 * Pakket tracer kennen / toepassen
 * [[Versleuteling]] (private en public keys)
 ## [[Git]]
-* Vanaf computer GIT repo kunnen maken en pushen (= [[Git push]])
-* Vanaf computer GIT repo afhalen (= [[Git pull]])
+* Vanaf computer GIT repo kunnen maken en pushen 
+* Vanaf computer GIT repo afhalen
 * Commit history aantonen (op Github)
-* Git commando's kennen en kunnen toepassen
-	* [[Git init]]
-	* [[Git clone]]
-	* [[Git add]]
-	* [[Git push]]
-	* [[Git status]]
-	* [[Git commit]]
-	* [[Git origin]]
+* Git commando's kennen en kunnen toepassen ([[Git commando's]])
