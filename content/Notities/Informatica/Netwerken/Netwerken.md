@@ -6,6 +6,7 @@ Netwerken! - Notities over alles te doen met netwerken.
 %% Begin Waypoint %%
 - [[Access-Point]]
 - [[Basis van netwerken]]
+- [[Berekenen IP]]
 - [[Cisco pakket tracer download (2024)]]
 - [[Domain Name Server]]
 - [[Forward proxy]]

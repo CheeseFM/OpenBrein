@@ -57,7 +57,7 @@ Website (van 8 pagina's) en bijbehorende bestanden meenemen om te tonen
 * Pakket tracer kennen / toepassen
 * [[Versleuteling]] (private en public keys)
 ## [[Git]]
-* Vanaf computer GIT repo kunnen maken en pushen 
-* Vanaf computer GIT repo afhalen
+* [[Vanaf computer repo maken en pushen|Vanaf computer GIT repo kunnen maken en pushen]] 
+* [[Remote repo clonen en wijzigingen pushen|Vanaf github repo aanmaken en clonen]]
 * Commit history aantonen (op Github)
 * Git commando's kennen en kunnen toepassen ([[Git commando's]])
