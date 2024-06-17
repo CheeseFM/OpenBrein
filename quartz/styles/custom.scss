@@ -2,27 +2,23 @@
 
 // put your custom CSS here!
 h1 {
-    font-size: 1.6rem;
-    margin-top: 2.25rem;
-    margin-bottom: 0.6rem;
-  }
-  
-  h2 {
-    font-size: 1.3rem;
-    margin-top: 1.9rem;
-    margin-bottom: 0.6rem;
-  }
-  
-  h3 {
-    font-size: 1.12rem;
-    margin-top: 1.62rem;
-    margin-bottom: 0.6rem;
-  }
-  
-  h4,
-  h5,
-  h6 {
-    font-size: 1rem;
-    margin-top: 1.5rem;
-    margin-bottom: 0.6rem;
-  }
+    color: var(--dark)
+}
+
+h2 {
+    color: #b48ead;
+}
+
+h3 {
+    color:#88c0d0;
+}
+
+h4 {
+    color: #a3be8c;
+}
+h5 {
+    color: #ebcb8b;
+}
+h6 {
+    color: #d08770;
+}
