@@ -1,3 +1,4 @@
+- 2024-06-17 at 15h26 · [[Openbrein kleuren]]
 - 2024-06-17 at 14h40 · [[CSS]]
 - 2024-06-17 at 14h11 · [[Veilige websites]]
 - 2024-06-17 at 14h07 · [[Examens ICT - Kennis]]
@@ -7,4 +8,3 @@
 - 2024-06-17 at 11h06 · [[Programmeren]]
 - 2024-06-17 at 11h06 · [[HTML]]
 - 2024-06-17 at 09h38 · [[Indexen]]
-- 2024-06-17 at 09h11 · [[De ultieme headless Pi]]
