@@ -1,7 +1,7 @@
 ---
 title: Thuispagina
 ---
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Steun me op Ko-fi', '#ee3a93', 'K3K3YXMEH');kofiwidget2.draw();</script> 
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Steun me op Ko-fi', '#ec629c', 'K3K3YXMEH');kofiwidget2.draw();</script> 
 
 *Welkom in mijn notities, ook wel eens tweede hersenen genoemd 🧠 - Hier publiceer ik alles dat ik maak een Wiki formaat voor jou gemak!*
 

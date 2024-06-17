@@ -1,5 +1,5 @@
-- 2024-06-17 at 17h17 · [[index]]
-- 2024-06-17 at 17h07 · [[Openbrein kleuren]]
+- 2024-06-17 at 17h51 · [[index]]
+- 2024-06-17 at 17h50 · [[Kleurencodes]]
 - 2024-06-17 at 14h40 · [[CSS]]
 - 2024-06-17 at 14h11 · [[Veilige websites]]
 - 2024-06-17 at 14h07 · [[Examens ICT - Kennis]]
