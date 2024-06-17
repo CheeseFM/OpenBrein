@@ -26,4 +26,4 @@ Geef je repository een naam en laat de beschrijving, readme, gitignore en licent
 ![[Pasted image 20240617190526.png]]
 
 ---
-* [[Lokale repo synchroniseren met Github]]
+* [[Lokale repo pushen naar Github]]

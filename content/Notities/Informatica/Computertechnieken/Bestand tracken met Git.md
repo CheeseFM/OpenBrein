@@ -7,7 +7,7 @@
 >Het is best dat je weet hoe git in elkaar zit vooraleer je verder gaat. Technische termen verschijnen in dit document [[Git]]
 
 ---
-Je hebt net een bestand toegevoegd [[Lokale git repo maken|aan je lokale repo]], maar hoe houden we de versiegeschiedenis nu bij? - En misschien later zelfs [[Lokale repo synchroniseren met Github|hoe synchroniseer je je bestand met een remote repo zoals Github?]]
+Je hebt net een bestand toegevoegd [[Lokale git repo maken|aan je lokale repo]], maar hoe houden we de versiegeschiedenis nu bij? - En misschien later zelfs [[Lokale repo pushen naar Github|hoe synchroniseer je je bestand met een remote repo zoals Github?]]
 
 # Stappenplan
 ## Ga naar je lokale repo
