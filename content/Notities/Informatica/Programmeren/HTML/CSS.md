@@ -23,6 +23,7 @@ p {
 }
 ```
 
+
 ### Eigenschappen en waarden
 Eigenschappen zijn letterlijk wat je denkt. Je neemt de eigenschap van een stuk HTML en past die aan. We nemen het voorbeeld van de kleur van een paragraaf.
 * De eigenschap in dit geval is ‘color’.
@@ -74,5 +75,45 @@ Bij interne CSS zetten we onze styling niet meer in de elementen maar wel nog st
 
 <p>Ik ben oranje</p>
 <p>Ik ben ook oranje</p>
+```
+
+## Externe CSS
+Externe CSS is een andere vorm om CSS toe te passen. We gebruiken een extra bestand met de ‘.css’-extensie om een stijl toe te passen.
+
+Je maakt een html bestand aan met wat inhoud en kijkt wat je wilt veranderen.
+
+```HTML
+<p>Ik ben oranje</p>
+<p>Ik ben ook oranje</p>
+```
+
+En daarna maak je een `.css` bestand aan en pas je het element aan met een selector.
+
+```CSS
+p {
+  color: orange;
+}
+```
+
+### Linken van bestanden
+Om je HTML aan te passen a.d.h.v. een extern CSS bestand moet je die eerst linken. We doen dit letterlijk a.d.h.v. het ‘link’. Dit zetten we in de '[[HTML#Head|head]]'-sectie van het HTML bestand.
+1. We starten natuurlijk met ‘link’ om een extern bestand (internet of opgeslagen op pc) te linken.
+2. Daarna zetten we het type van het bestand dat we willen linken, in ons is dit een CSS bestand ofwel een 'stylesheet'.
+3. Ten slotte zetten we de bestandsnaam van het css bestand, in ons geval is dit ‘styles.css’.
+
+```HTML
+<head>
+  <link rel=”stylesheet” href=”styles.css”>
+<head>
+
+<body>
+  <p>Ik ben oranje</p>
+</body>
+```
+
+```CSS
+p {
+  color: orange;
+}
 ```
 

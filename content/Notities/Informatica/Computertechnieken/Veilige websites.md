@@ -1,4 +1,4 @@
-#kladversie  #uitgewerkt  #volwassen
+#uitgewerkt 
 
 🎖️ Licentie: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 📅 Aangemaakt: 17-06-2024
@@ -12,7 +12,7 @@ Yep! Grotendeels. Een afluisteraar kan bij onveilige websites gewoon je wachtwoo
 Dezelfde technologie die ons veilige websites geeft, kijkt ook of de gegevens correct worden ontvangen. 
 * Wat tussen de website en gebruiker wordt gedeeld kan niet door een oplichter worden veranderd.
 
-Hiervoor gebruiken we de basisprincipes van encryptie.
+Hiervoor gebruiken we de basisprincipes van [[Versleuteling|versleuteling]].
 
 ![[@ Assets/Foto's/Veilige websites/1.png]]
 ## Een website doet zich voor als een ander

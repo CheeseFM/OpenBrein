@@ -10,7 +10,7 @@ Website (van 8 pagina's) en bijbehorende bestanden meenemen om te tonen
 
 ## Verslag 
 * Waarom bootstrap en hoe toegepast
-* Javascript en CSS toepassingsvoorbeelden (indien gebruikt)
+* Javascript en [[CSS]] toepassingsvoorbeelden (indien gebruikt)
 * Welke pagina's heb je aangemaakt
 * Wie is je publiek
 * Hoe heb je hem interactief gemaakt
