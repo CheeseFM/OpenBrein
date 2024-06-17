@@ -12,7 +12,7 @@ We starten met een lokale repo aan te maken om later naar Github te pushen.
 # Bestanden toevoegen aan repo
 Nu we op onze PC een repo hebben staan kan je die openen via via Visual Studio Code en zo nieuwe bestanden aanmaken en beheren of gewoon via tekstblok.
 
-![[Lokale repo openen in VSC]]
+![[Lokale repo openen in VSC#Stappenplan]]
 
 ## OF
 

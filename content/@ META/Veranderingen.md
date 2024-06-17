@@ -1,4 +1,4 @@
-- 2024-06-17 at 20h11 · [[Vanaf computer repo maken en pushen]]
+- 2024-06-17 at 20h13 · [[Vanaf computer repo maken en pushen]]
 - 2024-06-17 at 20h08 · [[Lokale repo openen in VSC]]
 - 2024-06-17 at 20h06 · [[Bestand openen met Visual Studio Code]]
 - 2024-06-17 at 20h05 · [[Informatica]]
