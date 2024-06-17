@@ -1,6 +1,6 @@
+- 2024-06-17 at 14h40 · [[CSS]]
 - 2024-06-17 at 14h11 · [[Veilige websites]]
 - 2024-06-17 at 14h07 · [[Examens ICT - Kennis]]
-- 2024-06-17 at 14h06 · [[CSS]]
 - 2024-06-17 at 13h52 · [[Informatica]]
 - 2024-06-17 at 13h52 · [[Computertechnieken]]
 - 2024-06-17 at 11h06 · [[Website maken]]

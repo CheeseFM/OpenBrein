@@ -117,3 +117,22 @@ p {
 }
 ```
 
+## Verschillen
+Om te illustreren wanneer we welk type CSS gebruiken zet ik hier een tabel neer met hun eigenschappen. 
+
+| Inline CSS          | Interne CSS                | Externe CSS                           |
+| ------------------- | -------------------------- | ------------------------------------- |
+| In HTML bestand     | In HTML bestand            | Buiten HTML bestand (in .css bestand) |
+| Per element stijlen | Meerdere elementen stijlen | Meerdere HTML pagina’s stijlen        |
+
+* Inline CSS is niet handig als je meer dan eenzelfde element moet stylen. Je gebruikt het enkel als je iets wilt testen, voorbeelden, debuggen of in tijdelijke aanpassingen.
+* Interne CSS is de middenweg. Je gebruikt ze als je vlug een document wilt opmaken en uittesten, een voorbeeld te tonen of in tijdelijke toepassingen bij grote documenten.
+* We kunnen dus concluderen dat externe CSS het handigste is in gebruik en de beste praktijk is om toe te passen. 
+
+>[!warning]
+>Inline en interne CSS zijn uitzonderingen op de wet, je gebruikt ze zo min mogelijk en nooit in productieomgevingen.
+>- Wanneer je een professionele website maakt voor een project of opdracht in de klas gaat men dus externe CSS gebruiken.
+
+# CSS en styling
+## Stylen met `classes`
+Naast specifieke HTML elementen aanpassen kunnen we ook een klasse aanmaken om dezelfde stijl op verschillende elementen repetitief toe te passen. 
