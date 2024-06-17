@@ -7,6 +7,7 @@ Welkom bij de onderwerppagina voor informatica. Vanaf hier kan je doorklikken na
 %% Begin Waypoint %%
 - **[[Basis informatica]]**
 - **[[Computertechnieken]]**
+- **Linux**
 - **[[Netwerken]]**
 - **[[Programmeren]]**
 

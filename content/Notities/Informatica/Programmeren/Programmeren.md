@@ -4,7 +4,6 @@
 Hier staan alle notities voor het programmeren in verschillende talen.
 
 %% Begin Waypoint %%
-- **HTML**
-	- [[Project Website Bootstrap]]
+- **[[HTML]]**
 
 %% End Waypoint %%

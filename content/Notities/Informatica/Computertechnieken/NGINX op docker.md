@@ -7,7 +7,7 @@
 >Je hebt een [[Docker basis installatie]] nodig.
 
 ---
-# Aanma[](Docker%20basis%20installatie.md)tie.md)tie.md) onze bestandsstructuur aanmaken! 
+# Aanma[](Docker%20basis%20installatie.md)tie.md)tie.md)tie.md) onze bestandsstructuur aanmaken! 
 
 ``` Bash
 mkdir -p ~/data/nginx/html && mkdir -p ~/data/config/nginx/

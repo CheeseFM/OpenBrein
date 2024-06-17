@@ -27,7 +27,7 @@ Oké wat wil ik bereiken en wat houdt dit project nu weer in? - Ik wil een Raspb
 * Een USB-C kabel (en voeding)
 * Een Laptop, PC, Smartphone en/of tablet
 
-# [[Raspberry Pi OS installeren]]
+# [[Pi OS installeren]]
 ## Pi imager downloaden
 Ga naar pi https://www.raspberrypi.com/software/ en download de Raspberry Pi imager. Open hem via het startmenu.
 
@@ -361,7 +361,7 @@ Daarnaast vul je **niks** in.
 
 ![[Pasted image 20240526175219.png]]
 
-# Grafische toegang aanzetten < [[VNC server installeren op Raspberry Pi]]
+# Grafische toegang aanzetten < [[VNC server op Pi]]
 Ok we hebben al dat werk gedaan om een desktopversie van Raspberry Pi OS te installeren maar gebruiken de desktop niet! - We gaan een gelijkaardig protocol als SSH gebruiken die gefocust is op het tonen van grafische omgevingen, VNC!
 
 ## VNC server configureren
@@ -529,7 +529,7 @@ Jouw desktop zal er ietsje anders uitzien maar hier is je Raspberry Pi desktop!
 
 ![[Pasted image 20240526180450.png]]
 
-## Op iPhone > [[RealVNC verbinding aanmaken op iOS]]
+## Op iPhone > [[RealVNC verbinding op iOS]]
 ### Installeer RealVNC Viewer
 
 ![[IMG_5877.jpg]]

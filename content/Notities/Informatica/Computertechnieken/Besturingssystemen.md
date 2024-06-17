@@ -6,7 +6,7 @@
 > [!warning] Knowhow
 > [[BIOS]]
 > [[Invoer- en uitvoerapparaten]]
-[](Invoer-%20en%20uitvoerapparaten.md)
+[](Invoer-%20en%20uitvoerapparaten.md)ten.md)
 
 >[!info]
 >Er wordt vaak ‘OS’ tegen een besturingssysteem gezegd in de technische wereld. Komt van het engels!
