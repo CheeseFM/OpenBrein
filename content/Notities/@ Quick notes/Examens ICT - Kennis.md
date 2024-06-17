@@ -22,7 +22,7 @@ Website (van 8 pagina's) en bijbehorende bestanden meenemen om te tonen
 
 ## Netwerken & datacommunicatie
 * [[Berekenen IP]] (zonder RKM)
-* Onderdelen van een netwerk
+* Onderdelen van een netwerk ([[Basis van netwerken]])
 	* ([[Modem]])
 	* [[Router]] of [[Router|Standaardgateway]]
 	* [[Switch]]

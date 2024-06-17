@@ -7,7 +7,6 @@ hr {
 
 h1 {
     font-size: 1.8rem;
-    font-family: "Fredoka";
 }
 
 .page article>h1 {
@@ -17,29 +16,32 @@ h1 {
 h2 {
     font-size: 1.4rem;
     font-weight: 600;
-    font-family: "Fredoka";
     color: #ff8100;
 }
 
 h3 {
     font-size: 1.2rem;
+    font-family: "Open Sans";
     font-weight: 800;
     color: #4a86e7;
 }
 
 h4 {
     color: #00979d;
+    font-family: "Open Sans";
 }
 
 h4,
 h5,
 h6 {
     font-size: 1rem;
+    font-family: "Open Sans";
     font-weight: 800;
     color: #ec629c;
 }
 
 h1, h2, h3, h4, h5, h6 {
+    font-family: "Open Sans";
     margin-bottom: .5rem;
 }
 

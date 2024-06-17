@@ -4,6 +4,7 @@
 Netwerken! - Notities over alles te doen met netwerken.
 
 %% Begin Waypoint %%
+- [[568b norm]]
 - [[Access-Point]]
 - [[Basis van netwerken]]
 - [[Berekenen IP]]
