@@ -15,7 +15,7 @@ git clone <url>
 
 # Repo starten / afhalen
 ## Init
-Dit commando wordt gebruikt om een nieuw Git-repository aan te maken in een bestaande map. 
+Dit commando wordt gebruikt om [[Lokale git repo maken|een nieuwe Git-repository aan te maken]] in een bestaande map. 
 * Hiermee wordt een .git submap gemaakt waarin alle Git-gerelateerde informatie voor dat project wordt opgeslagen.
 
 ``` Bash

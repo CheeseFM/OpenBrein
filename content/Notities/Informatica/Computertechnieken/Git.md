@@ -14,8 +14,14 @@ Waarin andere systemen op één centrale server werken (denk aan het versiebehee
 # Repository
 'De map met alle code in' - Dit is de ontwikkelaarsomgeving waar je al je code inzet. Dit staat lokaal op je computer maar er bestaan ook:
 
-### * Repo's op afstand (Remote repo's)
+## * Repo's op afstand (Remote repo's)
 Platformen zoals Github, Gitlab, Bitbucket, ... bieden hosting voor een Git server aan. Zo kan je (meestal gratis) vanaf eender welke plaats met internet je code aanpassen en wijzigingen doorvoeren. Het is simpelweg een opslagserver met git integratie.
+
+# Staging
+Na een bestand toegevoegd wordt aan een git repository zal ze in de staging area gezet, klaar om ge-commit worden en permanent vastgelegd te worden in de geschiedenis van de repo
+
+![[Pasted image 20240616130940.png]]
+
 
 # Commits
 Een commit is het vastleggen van alle wijzigingen die je hebt gedaan. Je voegt meestal ook een beschrijven bericht toe van wat je hebt verandert. 
@@ -35,11 +41,6 @@ Wanneer je die commits wilt doorvoeren op een remote repo doe je een push. Ze za
 Het omgekeerde hiervan is de pull, het zal alle wijzigingen van je remote op je lokale git repo toepassen. 
 
 ![[Pasted image 20240616142834.png]]
-
-# Staging
-Na een verandering gedaan is (push) wordt die automatisch in een 'staging area' gebracht. Hier gaat de hoofdontwikkelaar kijken of de verandering doorgevoerd mag worden aan het project. Voor een grafische omgeving kan Github gebruikt worden om het gemakkelijker te maken.
-
-![[Pasted image 20240616130940.png]]
 
 ## Branching, forking en merging
 In git kan je een repository op verschillende manieren manipuleren. We nemen het voorbeeld van een browser.

@@ -6,6 +6,7 @@ Alle basics in de informatica, gemaakt zodat ik het niet constant opnieuw uitleg
 
 %% Begin Waypoint %%
 - [[Bestand of folder aanmaken]]
+- [[Bestand openen met Visual Studio Code]]
 - [[Een (doel)map of bestand vinden]]
 - [[Een bestand openen met specifieke software]]
 - [[Een snelkoppeling aanmaken]]
