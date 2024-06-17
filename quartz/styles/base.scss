@@ -20,7 +20,7 @@ section {
 }
 
 .text-highlight {
-  background-color: #ebcb8b88;
+  background-color: #fff23688;
   padding: 0 0.1rem;
   border-radius: 5px;
 }
@@ -263,6 +263,7 @@ h4,
 h5,
 h6,
 thead {
+  color: var(--gray)
   font-family: var(--headerFont);
   font-weight: revert;
   margin-bottom: 0;
