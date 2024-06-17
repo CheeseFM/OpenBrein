@@ -1,7 +1,7 @@
+- 2024-06-17 at 21h23 · [[Remote repo clonen en wijzigingen pushen]]
 - 2024-06-17 at 21h15 · [[Lokale repo pushen naar Github]]
 - 2024-06-17 at 21h13 · [[Informatica]]
 - 2024-06-17 at 21h13 · [[Computertechnieken]]
-- 2024-06-17 at 21h13 · [[Remote repo clonen en wijzigingen pushen]]
 - 2024-06-17 at 21h13 · [[Vanaf computer repo maken en pushen]]
 - 2024-06-17 at 21h13 · [[Bestand tracken met Git]]
 - 2024-06-17 at 21h13 · [[Github repo aanmaken]]
