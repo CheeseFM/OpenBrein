@@ -27,7 +27,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        showTags: false, // whether to show tags in the graph
+      },
+      globalGraph: {
+        showTags: false, // whether to show tags in the graph
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
   ],
 }
