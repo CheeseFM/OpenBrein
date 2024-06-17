@@ -1,7 +1,7 @@
 ---
 title: Thuispagina
 ---
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Steun me op Ko-fi', '#ec629c', 'K3K3YXMEH');kofiwidget2.draw();</script> 
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Steun me op Ko-fi', '#ee3a93', 'K3K3YXMEH');kofiwidget2.draw();</script> 
 
 *Welkom in mijn notities, ook wel eens tweede hersenen genoemd 🧠 - Hier publiceer ik alles dat ik maak een Wiki formaat voor jou gemak!*
 
@@ -48,13 +48,13 @@ Deze volledige webpagina wordt geschreven door één persoon. Hoewel ik mijn bes
 
 # Praktische info
 ---
-### ☎️ Contact
+## ☎️ Contact
 Voor suggesties, kritiek of hulp kan je me contacteren via mijn [mail](mailto:jelle@openbrein.org), sociale media of telefoonnummer als je die hebt!
 
-### 📤 Gebruiken van mijn notities
+## 📤 Gebruiken van mijn notities
 Ik geloof zwaar in het openbaren en publiceren van eigen notities. Jij mag ook mijn figuren en notities in eigen werken gebruiken als je me correct vermeld - **Gebruiken voor commerciële doeleinden is niet toegelaten.**
 
-### 💰 Steun me
+## 💰 Steun me
 Als je mijn notities handig vind en je wil een kleine geste doen, dan kan je me altijd iets sturen via Ko-fi! **Het is 100% vrijwillig** en je bent vrij om te geven wat je maar wil. 
 
 ---
