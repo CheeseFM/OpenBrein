@@ -1,3 +1,5 @@
+- 2024-06-17 at 18h24 · [[Website maken]]
+- 2024-06-17 at 18h04 · [[Elektronica]]
 - 2024-06-17 at 17h51 · [[index]]
 - 2024-06-17 at 17h50 · [[Kleurencodes]]
 - 2024-06-17 at 14h40 · [[CSS]]
@@ -5,6 +7,4 @@
 - 2024-06-17 at 14h07 · [[Examens ICT - Kennis]]
 - 2024-06-17 at 13h52 · [[Informatica]]
 - 2024-06-17 at 13h52 · [[Computertechnieken]]
-- 2024-06-17 at 11h06 · [[Website maken]]
 - 2024-06-17 at 11h06 · [[Programmeren]]
-- 2024-06-17 at 11h06 · [[HTML]]
