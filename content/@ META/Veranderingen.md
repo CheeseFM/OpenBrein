@@ -1,3 +1,5 @@
+- 2024-06-18 at 14h09 · [[📂 Recente veranderingen]]
+- 2024-06-18 at 14h08 · [[18-06-2024]]
 - 2024-06-17 at 22h07 · [[Berekenen IP]]
 - 2024-06-17 at 21h48 · [[Examens ICT - Kennis]]
 - 2024-06-17 at 21h48 · [[568b norm]]
@@ -6,5 +8,3 @@
 - 2024-06-17 at 21h40 · [[UDP]]
 - 2024-06-17 at 21h40 · [[TCP - IP model]]
 - 2024-06-17 at 21h40 · [[Psycholoog tegemoetkoming CM]]
-- 2024-06-17 at 21h40 · [[Invoer- en uitvoerapparaten]]
-- 2024-06-17 at 21h40 · [[Github repo clonen]]
