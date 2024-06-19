@@ -1,4 +1,4 @@
-- 2024-06-19 at 23h30 · [[Samenvatting EX2]]
+- 2024-06-19 at 23h56 · [[Samenvatting EX2]]
 - 2024-06-19 at 23h06 · [[📂 Recente veranderingen]]
 - 2024-06-18 at 14h08 · [[18-06-2024]]
 - 2024-06-17 at 22h07 · [[Berekenen IP]]

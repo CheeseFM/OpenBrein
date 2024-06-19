@@ -10,11 +10,11 @@
 
 # Hoofdstuk 2: Drie- en viergeleidernetten (Boek 1)
 ## Belang driefasenet
-## Voordelen driefasennet
+### Voordelen driefasennet
 > Bij een driefasig net kan men de energie verdelen over meerdere geleiders, waardoor de doorsnede van de geleiders kleiner kan worden genomen. Je zult nog leren dat krachtige motoren een driefasige spanning nodig hebben om te werken.
 > **2.1.1 Inleiding: belang van een driefasenet (p. 132)**
 
-## Toepassingen driefasenet
+### Toepassingen driefasenet
 > De energieverdeling van de elektrische centrales naar woningen, fabrieken, grote gebouwen gebeurt niet met een eenfasig net maar met een driefasig net. De verdeling of distributie van de elektrische energie gebeurt via bovengrondse of ondergrondse leidingen. Je kent ongetwijfeld de hoogspanningsluchtleidingen door akkers en velden. Daar zie je niet twee maar meerdere geleiders die de energie transporteren.
 > **2.1.1 Inleiding: belang van een driefasenet (p. 132)** 
 
