@@ -188,6 +188,56 @@ We hebben een spiegelschakeling driehoek - driehoek, geen bijgevoegde voorwaarde
 > **3.3.4 (p. 185)**
 
 ## Distributienetten
+### Soorten distributienetten
+>De eerste letter geeft de toestand aan van het verdeelnet ten opzichte van de aarde.
+>T: een punt van het verdeelnet is rechtstreeks verbonden met de aarde (T – terre);
+>I: het verdeelnet is geïsoleerd ten opzichte van de aarde ofwel is een punt van het net via een impedantie met de aarde verbonden (I: isolatie).
+>
+>De tweede letter geeft de toestand aan van de massa’s van de elektrische toestellen ten opzichte van de aarde. 
+>T: de massa’s zijn rechtstreeks met de aarde verbonden (T – terre);
+>N: de massa’s zijn verbonden met de geaarde geleider van het verdeelnet (N – nulgeleider).
+>
+>Als de tweede letter N is, geeft een derde en eventueel vierde letter S (S – separation) of C (C – combiné) de uitvoering aan van de nulgeleider en de beschermingsgeleider.
+>**3.4.1 (p. 196)**
+
+**Kort samengevat:**
+Er bestaan een aantal verschillende distributienetten gekenmerkt door een lettercombinatie van twee elementen, met een toevoeging van één of twee letters bij -N netten voor de specificatie van een nul- en/of beschermingsgeleider.
+
+### Netten kort samengevat
+#### TT
+Nulpunt van energieleveraar rechtstreeks geaard, massa van toestellen (consumenten) geaard met eigen aardelektrode of aarding lus
+>![[Pasted image 20240619165727.png]]
+>**Fig. 3.21 (p. 197)**
+
+#### IT
+Nulpunt van energieleveraar geaard met hoge impedantie. Als één aardingpunt wegvalt dan zal er een sein worden gegeven vooraleer er een tweede fout gebeurt en ze spanningsloos gezet wordt. (Zorgt ervoor dat er een backup is als energieleverancier vooraleer je installatie in beveiliging gaat, er kan tijdens de eerste fout nog aan gewerkt worden.)
+
+> ![[Pasted image 20240619165511.png]]
+> **Fig. 3.22 (p. 197)**
+
+De massa van de verbruiker of consument blijft nog altijd gewoon geaard met een eigen aardelektrode of aarding lus.
+
+> ![[Pasted image 20240619165538.png]]
+> **Fig. 3.22 (p. 197)**
+
+#### TN
+Een TN-net is een net waarvan de energieleveraar zijn nul geleider en/of beschermingsgeleider gedeeld is met de gebruikers.
+
+##### TN-C
+De functies v/d nul geleider en beschermingsgeleider worden door dezelfde geleider vervuld. De C komt van 'gecombineerd'
+
+>![[Pasted image 20240619170247.png]]
+>**Fig. 3.23 (p. 198)**
+
+##### TN-S
+Beschermingsgeleider en nul geleider zijn afzonderlijke geleiders. De S komt van 'seperation' of uit elkaar in het Nederlands.
+
+>![[Pasted image 20240619170444.png]]
+>**Fig. 3.24 (p. 198)**
+
+##### TN-C-S
+Wanneer het net overgaat van een gecombineerde nul geleider en beschermingsgeleider naar elk een geleider noemt men het net een TN-C-S-net.
+
 ## Vermogen bij een driefasennet
 ### Berekenen van het effectief driefasig vermogen bij een niet-evenwichtige belasting
 ### Meten van het effectief driefasig vermogen bij een niet-evenwichtige belasting
