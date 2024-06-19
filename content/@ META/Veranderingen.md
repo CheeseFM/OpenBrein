@@ -1,3 +1,4 @@
+- 2024-06-19 at 15h55 · [[Samenvatting EX2]]
 - 2024-06-18 at 14h09 · [[📂 Recente veranderingen]]
 - 2024-06-18 at 14h08 · [[18-06-2024]]
 - 2024-06-17 at 22h07 · [[Berekenen IP]]
@@ -7,4 +8,3 @@
 - 2024-06-17 at 21h43 · [[Netwerken]]
 - 2024-06-17 at 21h40 · [[UDP]]
 - 2024-06-17 at 21h40 · [[TCP - IP model]]
-- 2024-06-17 at 21h40 · [[Psycholoog tegemoetkoming CM]]
