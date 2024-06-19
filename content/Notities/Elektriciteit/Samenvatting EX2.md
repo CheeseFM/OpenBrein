@@ -75,12 +75,12 @@ De lijnspanning tussen UF2 en UF1 kan je uitrekenen door 'UL1-2 = 2 · cos 30° 
 > De Δ-schakeling is een schakeling waarbij het einde van de ene wikkeling verbonden is met het begin van de volgende wikkeling.
 > **2.3.1 (p. 158)**
 
-## Kunnen tekenen met de lijnstromen, – spanningen en fasestromen
+### Kunnen tekenen met de lijnstromen, – spanningen en fasestromen
 > ![[Pasted image 20240619154700.png]]
 > **Fig. 2.22 (p. 158)**
 
 ### Verband tussen lijnspanning en fasespanning; lijnstroom en fasestroom
-### Verband tussen fasestroom en lijnstroom
+#### Verband tussen fasestroom en lijnstroom
 > ![[Pasted image 20240619155248.png]]
 > **Fig. 2.24 (p. 163)**
 
@@ -89,7 +89,7 @@ Zoals het verband tussen de fase- en lijnspanning bij de stromen van de sterscha
 > IL = √3 ∙ IF
 > **2.3.3 (p. 163)**
 
-### Verband tussen fasespanning en lijnspanning
+#### Verband tussen fasespanning en lijnspanning
 De fasespanning en lijnspanning zijn gelijk bij de driehoekschakeling.
 
 > UL = UF
