@@ -365,3 +365,30 @@ Figuur a: Driehoek; Figuur b: Ster
 > **Fig 3.14 (p. 187)**
 
 # Hoofdstuk 9: De eenfasige synchrone motor (Boek 3)
+
+## Algemene samenstelling
+Bestaat uit een rotor en een stator.
+
+## Eenfasige inductiemotor met fasesplitsing
+Een eenfasige inductiemotor heeft niet genoeg faseverschuiving t.o.v. de nulleider om zelf te starten zoals een driefasige motor.
+### Capacitieve aanloopfase
+Door een condensator toe te voegen aan de eenfasige motor introduceert men een faseverschuiving. Vanaf wanneer de motor een kick heeft gekregen en in beweging is zet de centrifugaalschakelaar de parallel geschakelde spoel uit en zal de motor beginnen met draaien op de enkele fase.
+
+> ![[Pasted image 20240619231235.png]]
+> **Fig 9.5 (p. 134)**
+
+### Aanlooprelais
+Zelfde principe als de capacitieve aanloopfase maar dan met een ingebouwde tijdrelais die na een bepaalde tijd afslaat.
+
+> ![[Pasted image 20240619232534.png]]
+> **Fig 9.7 (p. 134)**
+
+## Driefasige motor op éénfasig net
+Door een condensator toe te passen kan men een fasverschuiving introduceren op het eenfasennet waardoor men een driefasige motor kan aansturen.
+
+> ![[Pasted image 20240619232800.png]]
+> **Fig 1.14 (p. 143)**
+
+Deze kan gewisseld worden tussen de L en de N lijn voor de richting te veranderen.
+> ![[Pasted image 20240619232910.png]]
+> **Fig. 9.15 (p. 143)**

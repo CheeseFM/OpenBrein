@@ -1,4 +1,5 @@
-- 2024-06-18 at 14h09 · [[Veranderingen]]
+- 2024-06-19 at 23h03 · [[Samenvatting EX2]]
+- 2024-06-19 at 23h03 · [[Veranderingen]]
 - 2024-06-18 at 14h07 · [[18-06-2024]]
 - 2024-06-18 at 08h21 · [[Berekenen IP]]
 - 2024-06-18 at 08h21 · [[568b norm]]
@@ -7,4 +8,3 @@
 - 2024-06-18 at 08h21 · [[Github repo clonen]]
 - 2024-06-18 at 08h21 · [[Docker basis installatie]]
 - 2024-06-18 at 08h21 · [[VNC server op Pi]]
-- 2024-06-18 at 08h21 · [[Vanaf computer repo maken en pushen]]
