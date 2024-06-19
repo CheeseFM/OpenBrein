@@ -158,7 +158,7 @@ We hebben een spiegeling van ster - ster. Geen bijgevoegde voorwaarden.
 We hebben een ster t.o.v. driehoekschakeling, bijgevoegde voorwaarden worden toegepast.
 
 > ![[Pasted image 20240619162246.png]]
-> **Fig. 3.8. (p. 183)**
+> **Fig. 3.8 (p. 183)**
 
 #### Niet evenwichtig
 > Een beperkte niet-evenwichtige belasting is toegelaten. Bij een dergelijk net zal men toch proberen de belasting zo evenwichtig mogelijk te verdelen.
@@ -239,17 +239,129 @@ Beschermingsgeleider en nul geleider zijn afzonderlijke geleiders. De S komt van
 Wanneer het net overgaat van een gecombineerde nul geleider en beschermingsgeleider naar elk een geleider noemt men het net een TN-C-S-net.
 
 ## Vermogen bij een driefasennet
+>Als je het vermogen beschouwt dat door de driefasige verbruikers wordt opgenomen, dan is dat gelijk aan de som van de vermogens die door elk van de drie samenstellende verbruikers wordt opgenomen.
+>
+>Zoals bij een eenfasig net kun je ook bij een driefasenet het actieve vermogen P, het reactieve vermogen Q en het schijnbare vermogen S onderscheiden.
+>**3.5.1 (p.199)**
+
+> Algemeen gelden voor driefasige netten dan volgende formules:
+> 	P = P1 + P2 + P3 in watt (1),
+> 	Q = Q1 + Q2 + Q3 in var (2),
+> 	S = S1 + S2 + S3 in VA (3)
+> **3.5.1 (p.199)**
+
 ### Berekenen van het effectief driefasig vermogen bij een niet-evenwichtige belasting
+Bij een niet-evenwichtige belasting is elk fasevermogen anders. We moeten ze dus allemaal apart gaan berekenen.
+
+> PF1 = UF1 · IF1 · cos φ1,
+> PF2 = UF2 · IF2 · cos φ2,
+> PF 3 = UF3 · IF3 · cos φ3
+> **3.5.2 (p. 200)**
+
+Om onze volledige vermogen te bekomen moeten we nog onze individuele fasen optellen.
+
+> P = UF1 · IF1 · cos φ1 + UF2 · IF2 · cos φ2 + UF3 · IF3 · cos φ3
+> **3.5.2 (p. 200)**
+
+#### Afgeleide formules voor lijnspanning
+
+>![[Pasted image 20240619172229.png]]
+>**3.5.2 (p. 201)**
+
 ### Meten van het effectief driefasig vermogen bij een niet-evenwichtige belasting
+Door op elke lijn een spanning te meten en die op te tellen kan je tot je effectief driefasen vermogen komen. 
+
+> ![[Pasted image 20240619172839.png]]
+> **Fig. 3.25 (p. 201)**
+
+#### Driewattmetermethode
+In het geval van geen nul geleider maken we er zelf één door de uitgaande spanning van alle wattmeters aan elkaar te hangen.
+
+>![[Pasted image 20240619172437.png]]
+>**Fig. 3.26 (p. 202)**
+
+#### Aronschakeling
+Je kan ook een combinatie van twee vermogensmeters gebruiken verbonden met i.p.v. aan elkaar zoals in '[[#Driewattmetermethode]]', aan een enkele fase.
+
+> ![[Pasted image 20240619172954.png]]
+> **Fig. 3.27 (p.202) **
+
 ### Berekenen van het effectief driefasig vermogen bij een evenwichtige belasting
+Aangezien de drie fasespanningen gelijk zijn kunnen we gewoon één fasespanning berekenen (indien we die niet gekregen hebben) en maal drie doen.
+
+> P = 3 · PF 
+> **3.5.3 (p. 211)**
+
+#### Omgevormde formule lijnspanning
+
+>P = √3 · UL · IL · cos φ
+>**3.5.3 (p. 211)**
+
 ### Meten van het effectief driefasig vermogen bij een evenwichtige belasting
-### Berekenen van het schijnbaar driefasig vermogen bij een evenwichtige en niet evenwichtige belasting
+We meten één keer en doen het maal drie. Net zoals bij het berekenen
+
+>![[Pasted image 20240619174046.png]]
+>**Fig. 3.30 (p. 211)**
+
+#### Meten zonder nulgeleider
+Om te meten zonder nulgeleider moeten we er zelf één maken door éénzelfde waarde weerstand met de verschillende fasen verbinden en aan de uitgang van de spanningsmeting hangen.
+
+>![[Pasted image 20240619174346.png]]
+>**Fig. 3.31 (p. 212)**
+
+
+### Berekenen van het reactief vermogen bij een evenwichtige belasting
+Hetzelfde principe als 
+
+>![[Pasted image 20240619175046.png]]
+>**3.5.4 (p.213)**
+### Berekenen van het reactief vermogen bij een niet evenwichtige belasting
+
+>Q = √3 · UL · IL · sinφ
+>**3.5.5 (p. 214)**
+
+### Berekenen van het schijnbaar vermogen bij een evenwichtige belasting
+
+>![[Pasted image 20240619175417.png]]
+>**3.5.6 (p. 214)**
+
+### Berekenen van schijnbaar reactief vermogen bij een niet evenwichtige belasting
+
+>S = √3 · UL · IL
+>**3.5.7 (p. 214)**
+
 # Hoofdstuk 8: De driefasige asynchrone motor (Boek 3)
 ## Magnetisch draaiveld
+
+> Op het ogenblik t3 (figuur 8.11) vloeit een maximale stroom de tweede fasewikkeling binnen via klem V1 (kruisje in figuur 8.12 b).
+> 
+   Een stroom van halve maximale waarde vloeit de eerste en de derde fasewikkeling in via respectievelijk U2 en W2. 
+> 
+> Op het ogenblik t 3 , 120° na ogenblik t 1 , is het magnetisch veld 120° verdraaid in rechtse zin. 
+> 
+> Voor het ogenblik t5 , 120° na ogenblik t3 , is het magnetisch veld weer 120° verder verdraaid in rechtse zin (figuur 8.12 c).
+> **8.2.1 (p. 21)**
+
+>![[Pasted image 20240619183015.png]]
+>**8.2.1 (p. 21)**
+
 ## Werking driefasige asynchrone motor
+
+> Het is eenvoudig: uit de naam zelf kunnen we opmaken dat hier het inductieproces betrokken is. Wanneer we de statorwikkeling van stroom voorzien, wordt er een magnetische flux in de stator geproduceerd als gevolg van de stroom die door de spoel stroomt. De rotorwikkeling is zo ingericht dat elke spoel kortgesloten raakt. 
+> 
+> De flux van de stator snijdt de kortgesloten spoel in de rotor door. Als de rotorspoelen worden kortgesloten, zal er, volgens de wet van Faraday van elektromagnetische inductie, stroom door de spoel van de rotor gaan stromen. Wanneer de stroom door de rotorspoelen vloeit, wordt er een andere flux in de rotor gegenereerd. 
+> 
+> Nu zijn er twee fluxen: de ene is de statorflux en de andere is de rotorflux. De rotorflux zal achterblijven ten opzichte van de statorflux. Hierdoor zal de rotor een koppel voelen waardoor de rotor in de richting van het roterende magnetische veld gaat draaien. Dit is het werkingsprincipe van zowel eenfasige als driefasige inductiemotoren.
+> **Vertaald van https://www.electrical4u.com/induction-motor-types-of-induction-motor/**
+
+> Omdat de rotor niet synchroon loopt met het statordraaiveld, spreken we van een asynchrone motor.
+> **8.3.1 (p.29)**
+
+
 ## Aansluiten driefasige asynchrone motor
-3.3.5 Aansluiten van een driefasige motor
+Figuur a: Driehoek; Figuur b: Ster
+
+> ![[Pasted image 20240619190039.png]]
+> **Fig 3.14 (p. 187)**
 
 # Hoofdstuk 9: De eenfasige synchrone motor (Boek 3)
-
-
