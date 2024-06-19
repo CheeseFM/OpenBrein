@@ -43,6 +43,7 @@
 >**2.1.8 Evenwichtige en niet-evenwichtige belasting (p. 136)**
 
 ## Formule ogenblikkelijke waarde (Driefasennet)
+![[Pasted image 20240620003134.png]]
 ## Sterschakeling (p. 142)
 ### Definitie
 > De Y-schakeling of sterschakeling is een schakeling waarbij de eindpunten van de drie fasewikkelingen met elkaar verbonden zijn.
