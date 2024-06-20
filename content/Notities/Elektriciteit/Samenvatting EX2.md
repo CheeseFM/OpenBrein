@@ -102,8 +102,7 @@ Grotendeels enkel van belang bij niet evenwichtige belastingen. Deze zorgen voor
 > Bij een niet-evenwichtige belasting is de som van de ogenblikkelijke stromen niet nul; de nulgeleider moet aangebracht worden. Zonder nulgeleider zullen er circulatiestromen in de belasting optreden, waardoor de spanning over de verbruikers hoger of lager zal zijn dan de fasespanning. Over sommige verbruikers zal een te hoge spanning staan, waardoor ze stuk kunnen gaan. Over andere verbruikers zal een te lage spanning staan, waardoor ze niet of slecht zullen functioneren.
 > **3.1.1 (p. 179)**
 
-## Verbruikers geschakeld op een viergeleidersnet (Evenw. en Niet-evenw.)
-
+## Verbruikers geschakeld op een viergeleidersnet 
 ### Wat is een viergeleidernet
 > Een viergeleidernet bestaat uit drie lijndraden L1, L2, L3 en de nulgeleider N.
 > **2.2.5 (p. 154)**
