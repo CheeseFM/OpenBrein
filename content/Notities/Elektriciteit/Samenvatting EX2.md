@@ -134,8 +134,6 @@ Je berekent per fase je stroom door de spanning van je belasting te delen door d
 > ![[Pasted image 20240619161218.png]]
 > **Fig. 3.6. (p. 182)**
 
-
-
 ## Verbruikers geschakeld op een driegeleidersnet
 ### Belasting in ster op een driegeleidersnet in ster 
 #### Evenwichtig
@@ -311,7 +309,7 @@ Om te meten zonder nulgeleider moeten we er zelf één maken door éénzelfde wa
 
 
 ### Berekenen van het reactief vermogen bij een evenwichtige belasting
-Hetzelfde principe als 
+Hetzelfde principe als ervoren.
 
 >![[Pasted image 20240619175046.png]]
 >**3.5.4 (p.213)**
