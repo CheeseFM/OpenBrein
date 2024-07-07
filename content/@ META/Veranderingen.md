@@ -1,4 +1,4 @@
-- 2024-07-07 at 11h18 · [[Linux opzetten]]
+- 2024-07-07 at 11h45 · [[Linux opzetten]]
 - 2024-07-07 at 10h36 · [[Arch install]]
 - 2024-07-07 at 10h20 · [[Informatica]]
 - 2024-07-07 at 10h20 · [[Basis informatica]]

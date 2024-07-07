@@ -20,10 +20,15 @@ https://www.reddit.com/r/gnome/comments/1bmf9sf/night_theme_switcher_extension_r
 #!/bin/bash
 
 dconf write /org/gnome/shell/extensions/user-theme/name "'light-shell'"
+gsettings set org.gnome.desktop.interface color-scheme 'prefer-light'
 ```
 ## Dark theme
 ``` Bash
 #!/bin/bash
 
 dconf write /org/gnome/shell/extensions/user-theme/name "'Default'"
+gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
 ```
+
+# Just perfection
+* Werkoverzicht uit
