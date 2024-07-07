@@ -368,8 +368,7 @@ Figuur a: Driehoek; Figuur b: Ster
 Bestaat uit een rotor en een stator.
 
 ## Eenfasige inductiemotor met fasesplitsing
-Een eenfasige inductiemotor heeft niet genoeg faseverschuiving t.o.v. de nulleider om zelf te starten zoals een driefasige motor.
-### Capacitieve aanloopfase
+Een eenfasige inductiemotor heeft niet genoeg faseverschuiving t.o.v. de nulleider om zelf te starten zoals een driefasige motor.fase
 Door een condensator toe te voegen aan de eenfasige motor introduceert men een faseverschuiving. Vanaf wanneer de motor een kick heeft gekregen en in beweging is zet de centrifugaalschakelaar de parallel geschakelde spoel uit en zal de motor beginnen met draaien op de enkele fase.
 
 > ![[Pasted image 20240619231235.png]]

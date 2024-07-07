@@ -3,15 +3,14 @@
 ---
 
 # Software
-
+￼
 
 - [ ] Bestandstructuur in files
 - [ ] Document scannen automatisch naar een specifieke folder met shortcut
-- [ ] 80% limiet aanzetten
-- [ ] Meer ruimte aanzetten in scherm
-- [ ] Show app Library in Dock aanzetten
-- [ ] Goodnotes installeren en syncen met Drive
-- [ ] Orion
+- [x] 80% limiet aanzetten
+- [x] Meer ruimte aanzetten in scherm
+- [x] Show app Library in Dock aanzetten
+- [x] Goodnotes installeren en syncen met Driver
 - [ ] [[De ultieme headless Pi]]
 
 # Hardware

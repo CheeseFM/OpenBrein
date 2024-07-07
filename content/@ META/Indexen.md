@@ -1,7 +1,5 @@
 # Vakken 🏫
 * [[Informatica]]
-* [[Elektronica]]
-* [[Wiskunde]]
 
 # Productiviteit 🖼️
 * [[Zelfverbetering]]

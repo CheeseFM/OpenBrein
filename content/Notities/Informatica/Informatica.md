@@ -8,6 +8,8 @@ Welkom bij de onderwerppagina voor informatica. Vanaf hier kan je doorklikken na
 - **[[Basis informatica]]**
 - **[[Computertechnieken]]**
 - **Linux**
+	- [[Arch install]]
+	- [[Linux opzetten]]
 - **[[Netwerken]]**
 - **[[Programmeren]]**
 

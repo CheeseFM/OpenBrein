@@ -11,7 +11,10 @@ Op deze pagina zet ik alles rond zelf verbetering en dingen die ik bij de therap
 
 %% Begin Waypoint %%
 - [[! Werkpuntjes]]
+- [[Emoties maken ziek]]
+- [[Heb je je apparaat wel nodig]]
 - [[Jouw mentale batterij]]
+- [[Motivatie]]
 - [[Online hersenrot tegengaan]]
 - [[relaties in evenwicht houden]]
 - [[Wachten tot vraag voor je aanbod geeft]]
@@ -20,7 +23,6 @@ Op deze pagina zet ik alles rond zelf verbetering en dingen die ik bij de therap
 
 # Nog te maken notities
 * [[De reptiel, het beest en de mens in je hersenen]]
-* [[Heb je je computer echt nodig?]]
 * [[Brainfog]]
 * [[Uitstelgedrag]]
 * [[Compartmentalisatie]]
