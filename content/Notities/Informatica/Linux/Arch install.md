@@ -16,6 +16,11 @@ Tijdzone zetten `tzselect` en daarna 8, gevolgd door 5 en 1.
 
 `archinstall`
 
+`sudo pacman -S gnome gnome-tweaks`
+`sudo systemctl enable gdm`
+`sudo systemctl set-default graphical.target`
+`sudo reboot`
+
 `pacman -S network-manager-applet && sudo systemctl enable NetworkManager`
 
 https://bbs.archlinux.org/viewtopic.php?id=250490

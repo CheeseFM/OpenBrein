@@ -453,7 +453,7 @@ esac
 exit 0
 ```
 
-* Je kan het lijntje `su $VNCUSER -c '/usr/bin/vncserver-virtual :1 -geometry 1920x1080'` aanpassen naar welke resolutie je ook maar wilt. Voor een iPad 11 inch is dit bv. `2388x1668`.
+* Je kan het lijntje `su $VNCUSER -c '/usr/bin/vncserver-virtual :1 -geometry 1920x1080'` aanpassen naar welke resolutie je ook maar wilt. 
 
 ## Permissie instellen
 

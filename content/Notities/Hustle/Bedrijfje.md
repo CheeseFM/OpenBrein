@@ -7,6 +7,7 @@
 Ideeën voor later zelfstandig bedrijf
 * Pen testing
 * Elektriciteit / domotica
+* Bakkerij
 
 
 

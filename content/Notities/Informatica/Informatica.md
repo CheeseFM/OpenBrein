@@ -9,6 +9,7 @@ Welkom bij de onderwerppagina voor informatica. Vanaf hier kan je doorklikken na
 - **[[Computertechnieken]]**
 - **Linux**
 	- [[Arch install]]
+	- [[iwctl wifi verbinding opstellen]]
 	- [[Linux opzetten]]
 - **[[Netwerken]]**
 - **[[Programmeren]]**
