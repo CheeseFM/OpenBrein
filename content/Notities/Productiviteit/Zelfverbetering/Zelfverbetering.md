@@ -26,3 +26,4 @@ Op deze pagina zet ik alles rond zelf verbetering en dingen die ik bij de therap
 * [[Brainfog]]
 * [[Uitstelgedrag]]
 * [[Compartmentalisatie]]
+* [[Over-competitief zijn]]

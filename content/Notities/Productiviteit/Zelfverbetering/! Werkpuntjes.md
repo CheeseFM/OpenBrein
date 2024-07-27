@@ -3,7 +3,7 @@
 ---
 - [ ] Agressief worden als een aantal dingen fout gaan
 - [ ] Ook op slechte dagen gewoon normaal kunnen reageren en niet geïrriteerd
-- [ ] Beter slapen want ik ben altijd moe
+- [x] Beter slapen want ik ben altijd moe
 - [ ] Geen smartass willen zijn
 - [ ] Vriendelijk blijven wanneer mensen ambetant doen tegen mij want dit irriteert hun meer en ik doe dan ook niks fout
 - [ ] Met de rare vader geluiden stoppen (wanneer ik recht sta, ...)

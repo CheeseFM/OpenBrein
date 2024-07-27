@@ -11,7 +11,7 @@
 - [x] Meer ruimte aanzetten in scherm
 - [x] Show app Library in Dock aanzetten
 - [x] Goodnotes installeren en syncen met Driver
-- [ ] [[De ultieme headless Pi]]
+- [x] [[De ultieme headless Pi]]
 
 # Hardware
 - Magic Keyboard

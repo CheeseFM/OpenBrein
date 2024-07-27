@@ -8,8 +8,10 @@ Welkom bij de onderwerppagina voor informatica. Vanaf hier kan je doorklikken na
 - **[[Basis informatica]]**
 - **[[Computertechnieken]]**
 - **Linux**
+	- [[Appimage]]
 	- [[Arch install]]
 	- [[iwctl wifi verbinding opstellen]]
+	- [[Linux op chromebook]]
 	- [[Linux opzetten]]
 - **[[Netwerken]]**
 - **[[Programmeren]]**
