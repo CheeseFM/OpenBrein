@@ -6,19 +6,13 @@ title: Thuispagina
 *Welkom in mijn notities, ook wel eens tweede hersenen genoemd 🧠 - Hier publiceer ik alles dat ik maak een Wiki formaat voor jou gemak!*
 
 ---
-<iframe width="100%" height="400px" style="border:0px" src="Flexbox.html" title="W3Schools Free Online Web Tutorials"></iframe>
+<iframe width="100%" height="400px" style="border:0px" src="Flexbox.html" title="Flexbox links"></iframe>
 
 Ik volg de richting informatica, dus het grootste deel van mijn notities gaan rond computerwetenschappen draaien, maar mijn interesses liggen een beetje overal dus ga zeker eens op zoek! Ik hou ook van leren leren, alles te doen met het onderwijs en de sociale sector, elektriciteit, mechanica, elektronica, design, branding, wiskunde en nog zo veel meer!
 
 # Waar starten?
 ---
 Waar je wil! - Meestal als je hier bent weet je al wat je zoekt. Start met zoeken via de zoekbalk, recente veranderingen, grafiek en/of de backlinks om jouw weg te vinden!
-
-## 🔗Andere handige pagina's
-* [[Google Drive]] - Hier kan je mijn Google Drive zien met verslagen, eindwerken, grote samenvattingen en geannoteerde slides. Ik zet hier specifieke links per vak / type document zodat je vlug je weg kan vinden! 
-* [[Inspiraties voor OpenBrein]] - Een pagina met mijn grote helden die mij inspiratie gegeven hebben om dit avontuur te starten.
-* [[Attributie]] - Attributie voor het gebruiken van bepaalde bronnen in het maken van de website.
-* [[Huiswerk afspeellijsten]] - Afspeellijsten die ik heb gevonden of gemaakt om productief te zijn. Meestal zonder songteksten.
 
 ## 🗂️ Onderwerpen
 Je kan door mijn notities browsen door onderwerppagina's te volgen. Hier vind je de grote overkoepelende onderwerpen, waarin kleinere en kleinere.
@@ -58,6 +52,10 @@ Ik geloof zwaar in het openbaren en publiceren van eigen notities. Jij mag ook m
 
 ## 💰 Steun me
 Als je mijn notities handig vind en je wil een kleine geste doen, dan kan je me altijd iets sturen via Ko-fi! **Het is 100% vrijwillig** en je bent vrij om te geven wat je maar wil. 
+
+## 🔗Andere handige pagina's
+* [[Inspiraties voor OpenBrein]] - Een pagina met mijn grote helden die mij inspiratie gegeven hebben om dit avontuur te starten.
+* [[Attributie]] - Attributie voor het gebruiken van bepaalde bronnen in het maken van de website.
 
 ---
 
