@@ -1,4 +1,3 @@
-- 2024-08-01 at 14h38 · [[Geen reclame]]
 - 2024-08-01 at 12h14 · [[📂 Recente veranderingen]]
 - 2024-07-29 at 20h34 · [[Fusion 360 op linux]]
 - 2024-07-29 at 20h33 · [[Informatica]]
@@ -8,3 +7,4 @@
 - 2024-07-27 at 20h04 · [[Heb je je apparaat wel nodig]]
 - 2024-07-27 at 20h02 · [[Zelfverbetering]]
 - 2024-07-27 at 19h56 · [[! Werkpuntjes]]
+- 2024-07-27 at 16h36 · [[Appimage]]
