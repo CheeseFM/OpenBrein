@@ -10,6 +10,7 @@ Welkom bij de onderwerppagina voor informatica. Vanaf hier kan je doorklikken na
 - **Linux**
 	- [[Appimage]]
 	- [[Arch install]]
+	- [[Fedora bookmarks]]
 	- [[Fusion 360 op linux]]
 	- [[iwctl wifi verbinding opstellen]]
 	- [[Linux op chromebook]]
