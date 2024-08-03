@@ -1,4 +1,5 @@
-- 2024-08-03 at 15h08 · [[Landingspagina]]
+- 2024-08-03 at 15h14 · [[index]]
+- 2024-08-03 at 15h13 · [[Landingspagina]]
 - 2024-08-03 at 14h06 · [[Visual Studio apparaat thema volgen]]
 - 2024-08-03 at 14h06 · [[Informatica]]
 - 2024-08-03 at 14h06 · [[Programmeren]]
@@ -7,4 +8,3 @@
 - 2024-07-29 at 20h34 · [[Fusion 360 op linux]]
 - 2024-07-29 at 18h02 · [[iCloud Mail via SMTP instellingen]]
 - 2024-07-29 at 17h57 · [[Basis informatica]]
-- 2024-07-29 at 14h53 · [[Cisco pakket tracer download (2024)]]

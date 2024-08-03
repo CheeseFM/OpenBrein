@@ -6,6 +6,8 @@ title: Thuispagina
 *Welkom in mijn notities, ook wel eens tweede hersenen genoemd 🧠 - Hier publiceer ik alles dat ik maak een Wiki formaat voor jou gemak!*
 
 ---
+<iframe width="100%" height="400px" style="border:0px" src="Flexbox.html" title="W3Schools Free Online Web Tutorials"></iframe>
+
 Ik volg de richting informatica, dus het grootste deel van mijn notities gaan rond computerwetenschappen draaien, maar mijn interesses liggen een beetje overal dus ga zeker eens op zoek! Ik hou ook van leren leren, alles te doen met het onderwijs en de sociale sector, elektriciteit, mechanica, elektronica, design, branding, wiskunde en nog zo veel meer!
 
 # Waar starten?
