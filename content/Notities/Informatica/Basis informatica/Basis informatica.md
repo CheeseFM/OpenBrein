@@ -13,6 +13,6 @@ Alle basics in de informatica, gemaakt zodat ik het niet constant opnieuw uitleg
 - [[Extensie aanpassen]]
 - [[iCloud Mail via SMTP instellingen]]
 - [[Naam aanpassen]]
-- [[Snelko[[iCloud Mail via SMTP instellingen]]oegen aan Windows start]]
+- [[Snelkoppeling toevoegen aan Windows start]]
 
 %% End Waypoint %%
