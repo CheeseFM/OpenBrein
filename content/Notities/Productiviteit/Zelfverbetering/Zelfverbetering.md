@@ -18,6 +18,7 @@ Op deze pagina zet ik alles rond zelf verbetering en dingen die ik bij de therap
 - [[Online hersenrot tegengaan]]
 - [[relaties in evenwicht houden]]
 - [[Wachten tot vraag voor je aanbod geeft]]
+- [[Wanneer muziek en oortjes gebruiken]]
 
 %% End Waypoint %%
 
