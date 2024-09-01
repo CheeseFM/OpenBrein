@@ -101,9 +101,6 @@ Borstkas (Pecs)
 
 ## Stretches
 
-
-
-
 --- 
 # Toevoegingen
 - Visolie wordt soms als een behandeling voor kanker en hartproblemen voorgelegd op het internet maar is niet bewezen om iets te doen. De Omega3 erin komt ook niet door vissen maar de voeding die ze eten (algen). 
@@ -113,5 +110,5 @@ Borstkas (Pecs)
 - https://www.health.harvard.edu/blog/fish-oil-friend-or-foe-201307126467
 - https://www.youtube.com/watch?v=aADukThvjXQ
 - [[Step by Step Beginner Gym Guide - Trainer Winny]]
-- https://tdeecalculator.net/result.php?s=metric&g=male&age=18&kg=59&cm=181&act=1.2&bf=17&f=1
+- https://tdeecalculator.net/
 - https://www.mayoclinic.org/healthy-lifestyle/fitness/expert-answers/exercise/faq-20057916#:~:text=For%20most%20healthy%20adults%2C%20the,vigorous%20aerobic%20activity%20a%20week.
