@@ -6,7 +6,7 @@ title: Thuispagina
 *Welkom in mijn notities, ook wel eens tweede hersenen genoemd 🧠 - Hier publiceer ik alles dat ik maak een Wiki formaat voor jou gemak!*
 
 ---
-<iframe width="100%" style="border:0px; height:400px; rgba(0, 0, 0, 0)" src="Flexbox.html" title="Flexbox links"></iframe>
+<iframe width="100%" style="border:0px; height:400px;" src="Flexbox.html" title="Flexbox links"></iframe>
 
 Ik volg de richting informatica, dus het grootste deel van mijn notities gaan rond computerwetenschappen draaien, maar mijn interesses liggen een beetje overal dus ga zeker eens op zoek! Ik hou ook van leren leren, alles te doen met het onderwijs en de sociale sector, elektriciteit, mechanica, elektronica, design, branding, wiskunde en nog zo veel meer!
 
