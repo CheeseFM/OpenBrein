@@ -7,6 +7,8 @@ Welkom bij de onderwerppagina voor informatica. Vanaf hier kan je doorklikken na
 %% Begin Waypoint %%
 - **[[Basis informatica]]**
 - **[[Computertechnieken]]**
+- **Fusion**
+	- [[Iets namaken in Fusion]]
 - **Linux**
 	- [[Appimage]]
 	- [[Arch install]]
