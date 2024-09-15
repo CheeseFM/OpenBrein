@@ -4,4 +4,4 @@
 📅 Aangemaakt: 02-09-2024
 
 ---
-Oefeningen die bij het omzetten van brandstoffen naar bruikbare energie (en beweging) grotendeels geen zuurstof nodig hebben. Hierin zien we gewichtheffen als voorbeeld. Gekenmerkt door spieropbouw.
+Bodybuilding, sprinten en krachttraining zijn voorbeelden van anaerobische oefeningen. In tegendeel tot aerobische oefeningen houden ze korte maar krachtige oefeningen uit. Het is mogelijk dat bij sommige oefeningen (bv. Sprinten) het aerobische proces deeltelijks nog tegenkomt. Anaerobische oefeningen focussen zich op het opbouwen van spiermassa.
