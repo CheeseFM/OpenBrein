@@ -43,8 +43,9 @@ sudo dnf install java-21-openjdk
 7. Geef het een naam en klik op 'finish' ![[Pasted image 20240919225834.png]]
 8. Klik op het objecten icoontje zodat je je project te zien krijgt ![[Pasted image 20240919230058.png]]
 9. Klik met rechtermuisknop op het project en daarna 'open in Visual Paradigm' ![[Pasted image 20240919230142.png]]
-10. Laat eclipse de configuratiebestanden aanmaken door op 'ok' te klikken ![[Pasted image 20240919231553.png]] ![[Pasted image 20240919231615.png]]
-11. Herstart eclipse ![[Pasted image 20240919231635.png]]
+10. Als eclipse crasht, volg [[Eclipse wayland problemen]]
+11. Laat eclipse de configuratiebestanden aanmaken door op 'ok' te klikken ![[Pasted image 20240919231553.png]] ![[Pasted image 20240919231615.png]]
+12. Herstart eclipse ![[Pasted image 20240919231635.png]]
 
 ---
 # Bronnen

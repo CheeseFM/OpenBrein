@@ -10,6 +10,7 @@ Welkom bij de onderwerppagina voor computertechnieken. Hier staat alles over het
 - [[De BIOS]]
 - [[De ultieme headless Pi]]
 - [[Docker basis installatie]]
+- [[Eclipse wayland problemen]]
 - [[Git commando's]]
 - [[Git]]
 - [[Github repo aanmaken]]
