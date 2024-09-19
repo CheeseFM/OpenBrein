@@ -12,12 +12,12 @@ kanban-plugin: board
 
 ## Vandaag
 
-- [ ] [[Rijbewijs B]]
+- [ ] [[Gym]]
 
 
 ## Deze week
 
-- [ ] [[Gym]]
+- [ ] GoBike fixen
 
 
 ## Deze maand
@@ -25,8 +25,6 @@ kanban-plugin: board
 - [ ] Minder rap eten
 - [ ] Meer water drinken
 - [ ] Wandelroutes Loki
-- [ ] GoBike fixen
-- [ ] Koude douches
 
 
 ## Dit jaar
@@ -38,6 +36,7 @@ kanban-plugin: board
 - [ ] Leren tekenen
 - [ ] Selfhosted Openbrein
 - [ ] Cisco certificaat
+- [ ] [[Rijbewijs B]]
 
 
 ***

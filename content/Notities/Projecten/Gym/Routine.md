@@ -21,12 +21,13 @@ Focust op chest, schouders, triceps en benen
 - [[Bench press]] (Chest): 3 sets ,10 reps
 - [[Incline bench press]] (Chest): 3 sets, 10 reps
 - [[Overhead press]] (Schouders): 4 sets, 8 reps
-- [[Squat]] of [[Leg press]] (Benen): 4 sets, 8 reps
+- [[Squat]] of [[Leg press]] (Benen): 4 sets, 10 reps
 
 
 | A (kg) | Bench | Incline | Overhead | Leg |
 | ------ | ----- | ------- | -------- | --- |
-| Week 1 |       |         |          |     |
+| Week 1 | 5 x 2 | 5 x 2   | 18       | 39  |
+|        |       |         |          |     |
 
 ## Workout B
 Focust op rug, benen en biceps
