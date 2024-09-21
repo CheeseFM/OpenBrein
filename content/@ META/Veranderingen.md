@@ -1,3 +1,5 @@
+- 2024-09-20 at 23h26 · [[! Werkpuntjes]]
+- 2024-09-20 at 19h46 · [[Projecten]]
 - 2024-09-20 at 00h23 · [[Hogent software op Fedora Linux]]
 - 2024-09-20 at 00h22 · [[Eclipse wayland problemen]]
 - 2024-09-20 at 00h20 · [[Informatica]]
@@ -5,6 +7,4 @@
 - 2024-09-19 at 22h21 · [[Basis informatica]]
 - 2024-09-17 at 20h49 · [[📂 Recente veranderingen]]
 - 2024-09-17 at 20h49 · [[Routine]]
-- 2024-09-17 at 16h29 · [[Projecten]]
 - 2024-09-15 at 13h14 · [[Anaerobic]]
-- 2024-09-15 at 12h29 · [[Zelfverbetering]]
