@@ -1,5 +1,6 @@
-- 2024-09-23 at 19h18 · [[HoGent 2024 - 2025]]
-- 2024-09-23 at 19h16 · [[Besturingssystemen]]
+- 2024-09-23 at 19h24 · [[HoGent 2024 - 2025]]
+- 2024-09-23 at 19h22 · [[Linux]]
+- 2024-09-23 at 19h20 · [[Besturingssystemen]]
 - 2024-09-23 at 18h08 · [[Server]]
 - 2024-09-23 at 18h03 · [[Computer]]
 - 2024-09-23 at 18h03 · [[Scheduling]]
@@ -7,4 +8,3 @@
 - 2024-09-23 at 18h01 · [[Computer Systems]]
 - 2024-09-23 at 17h51 · [[Schil (Informatica)]]
 - 2024-09-23 at 17h50 · [[CLI]]
-- 2024-09-23 at 17h50 · [[GUI]]

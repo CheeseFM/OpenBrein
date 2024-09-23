@@ -1,5 +1,6 @@
-Alles te doen met Linux
+Linux is een [[open source]] [[Kernel|kernel]] gebaseerd op de [[UNIX]] commando's. Ze heeft een heel open filosofie waardoor iedereen vrijblijvend aan de code kan sleutelen en verder opbouwen. 
 
+# Notities te doen met Linux
 %% Begin Waypoint %%
 - [[Appimage]]
 - [[Arch install]]

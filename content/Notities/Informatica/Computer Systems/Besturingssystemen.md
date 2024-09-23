@@ -39,6 +39,6 @@ Sommige besturingssystemen hebben bepaalde licenties of kosten, ...
 - Unix
 	- BSD
 		- macOS
-	- Linux
+	- [[Linux]]
 		- ChromeOS
 		- Android
