@@ -23,6 +23,7 @@ Welkom bij de onderwerppagina voor computertechnieken. Hier staat alles over het
 - [[Kernel]]
 - [[Kwantum computers]]
 - **[[Linux]]**
+- [[Open source]]
 - [[Optische technologiën]]
 - [[Router]]
 - [[Scheduling]]
