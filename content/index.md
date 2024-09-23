@@ -17,7 +17,7 @@ Waar je wil! - Meestal als je hier bent weet je al wat je zoekt. Start met zoeke
 ## 🗂️ Onderwerpen
 Je kan door mijn notities browsen door onderwerppagina's te volgen. Hier vind je de grote overkoepelende onderwerpen, waarin kleinere en kleinere.
 
-![[Indexen]]
+![[HoGent 2024 - 2025]]
 
 ## 📈 Veranderingen
 Hier zie je alle recente veranderingen om door te kijken. Kan handig zijn!

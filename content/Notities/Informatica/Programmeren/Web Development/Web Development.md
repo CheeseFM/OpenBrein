@@ -303,6 +303,7 @@ Met het ‘div’ element kunnen we onze website opdelen in meerdere stukken.
 %% Begin Waypoint %%
 - [[CSS]]
 - [[Spacing]]
+- [[Veilige websites]]
 - [[Website maken]]
 
 %% End Waypoint %%

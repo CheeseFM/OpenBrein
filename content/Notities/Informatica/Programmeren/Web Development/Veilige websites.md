@@ -27,7 +27,7 @@ Hiervoor hebben we "certificaten" die je vertellen welke websites écht zijn en 
 
 # Hoe werken veilige websites?
 ## HTT.. wadde?
-### [[HTML]]
+### [[Web Development]]
 HTML of HyperText Markup Language is de taal gebruikt om websites te maken.
 * Het is minder een programmeertaal en meer een soort formatering. Net zoals je bv. in LaTeX, Markdown of Rich Text zou schrijven.
 

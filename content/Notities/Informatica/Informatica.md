@@ -6,18 +6,12 @@ Welkom bij de onderwerppagina voor informatica. Vanaf hier kan je doorklikken na
 
 %% Begin Waypoint %%
 - **[[Basis informatica]]**
-- **[[Computertechnieken]]**
-- **Fusion**
-	- [[Iets namaken in Fusion]]
-- **Linux**
-	- [[Appimage]]
-	- [[Arch install]]
-	- [[Fedora bookmarks]]
-	- [[Fusion 360 op linux]]
-	- [[iwctl wifi verbinding opstellen]]
-	- [[Linux op chromebook]]
-	- [[Linux opzetten]]
+- **[[Computer Systems]]**
+- **[[Cybersecurity]]**
+- **[[Databases]]**
+- **[[IT Fundamentals]]**
 - **[[Netwerken]]**
 - **[[Programmeren]]**
+- **[[Software Analysis]]**
 
 %% End Waypoint %%

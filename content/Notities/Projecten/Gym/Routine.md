@@ -37,6 +37,6 @@ Focust op rug, benen en biceps
 - [[Bicep curl]] (Biceps): 3 sets, 10 reps
 
 
-| B (kg) | Pullup | S Cable Row | Deadlift | Bicep |
-| ------ | ------ | ----------- | -------- | ----- |
-| Week 1 |        |             |          |       |
+| B (kg) | Pullup   | S Cable Row | Deadlift | Bicep |
+| ------ | -------- | ----------- | -------- | ----- |
+| Week 1 | 5 (keer) | 14          | 5x2      | 14    |
