@@ -13,5 +13,6 @@ Welkom bij de onderwerppagina voor informatica. Vanaf hier kan je doorklikken na
 - **[[Netwerken]]**
 - **[[Programmeren]]**
 - **[[Software Analysis]]**
+- [[Software licenties]]
 
 %% End Waypoint %%
