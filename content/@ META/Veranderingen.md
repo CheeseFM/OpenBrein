@@ -1,6 +1,6 @@
+- 2024-09-23 at 16h07 · [[HoGent 2024 - 2025]]
 - 2024-09-23 at 15h43 · [[Informatica]]
 - 2024-09-23 at 15h43 · [[Databases]]
-- 2024-09-23 at 15h42 · [[HoGent 2024 - 2025]]
 - 2024-09-23 at 15h31 · [[Programmeren]]
 - 2024-09-23 at 15h31 · [[Java]]
 - 2024-09-23 at 15h29 · [[Software Analysis]]

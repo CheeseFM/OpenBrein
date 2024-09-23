@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quick Links with Emojis</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .quick-links {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 20px;
+            max-width: 80%;
+        }
+
+        .quick-link {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            width: 120px;
+            height: 120px;
+            background-color: white;
+            border-radius: 15px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 15px;
+            transition: transform 0.3s ease;
+        }
+
+        .quick-link:hover {
+            transform: scale(1.1);
+        }
+
+        .quick-link h1 {
+            font-size: 40px;
+            margin: 0;
+            line-height: 1; /* Adjust to ensure the emoji centers well */
+        }
+
+        .quick-link p {
+            font-size: 14px;
+            color: #333;
+            margin-top: 10px;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        .accent {
+            background-color: #ec629c;
+            border-radius: 25px;
+            width: 80px;
+            height: 5px;
+            margin: 20px auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="accent"></div>
+
+    <div class="quick-links">
+        <a href="https://openbrein.org/Notities/Informatica/Computer-Systems/Computer-Systems">
+            <div class="quick-link">
+                <h1>🖥️</h1>
+                <p>Computer Systems</p>
+            </div>
+        </a>
+        <a href="https://openbrein.org/Notities/Informatica/IT-Fundamentals/IT-Fundamentals">
+            <div class="quick-link">
+                <h1>🧱</h1>
+                <p>IT Fundamentals</p>
+            </div>
+        </a>
+        <a href="https://openbrein.org/Notities/Informatica/Cybersecurity/Cybersecurity">
+            <div class="quick-link">
+                <h1>🔐</h1>
+                <p>Cybersecurity</p>
+            </div>
+        </a>
+        <a href="https://openbrein.org/Notities/Informatica/Programmeren/Java/Java">
+            <div class="quick-link">
+                <h1>🏝️</h1>
+                <p>Java</p>
+            </div>
+        </a>
+        <a href="https://openbrein.org/Notities/Informatica/Software-Analysis/Software-Analysis">
+            <div class="quick-link">
+                <h1>🔎</h1>
+                <p>Software Analysis</p>
+            </div>
+        </a>
+        <a href="https://openbrein.org/Notities/Informatica/Programmeren/Web-Development/Web-Development">
+            <div class="quick-link">
+                <h1>🕸️</h1>
+                <p>Web Development</p>
+            </div>
+        </a>
+        <a href="https://openbrein.org/Notities/Informatica/Databases/Databases">
+            <div class="quick-link">
+                <h1>💳</h1>
+                <p>Databases</p>
+            </div>
+        </a>
+    </div>
+</body>
+</html>
