@@ -1,7 +1,7 @@
 #onderwerpen 
 
 ---
-Hier staan alle notities voor het programmeren in verschillende talen.
+Programmeren is instructies schrijven voor elektronisch apparatuur, meestal een [[Computer]], [[Embedded systeem]] of Microcontroller
 
 %% Begin Waypoint %%
 - **[[Java]]**
