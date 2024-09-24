@@ -9,10 +9,10 @@ Welkom bij de onderwerppagina voor informatica. Vanaf hier kan je doorklikken na
 - **[[Computer Systems]]**
 - **[[Cybersecurity]]**
 - **[[Databases]]**
+- [[Doelstellingen 2024-2025]]
 - **[[IT Fundamentals]]**
 - **[[Netwerken]]**
 - **[[Programmeren]]**
 - **[[Software Analysis]]**
-- [[Software licenties]]
 
 %% End Waypoint %%

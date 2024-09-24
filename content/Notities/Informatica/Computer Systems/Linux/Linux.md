@@ -8,6 +8,7 @@ Linux is een [[open source]] [[Kernel|kernel]] gebaseerd op de [[UNIX]] commando
 - [[Eclipse wayland problemen]]
 - [[Fedora bookmarks]]
 - [[Fusion 360 op linux]]
+- [[Gnome overamplificatie]]
 - [[Hogent software op Fedora Linux]]
 - [[iwctl wifi verbinding opstellen]]
 - [[Linux op chromebook]]

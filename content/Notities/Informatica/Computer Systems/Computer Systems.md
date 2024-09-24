@@ -29,6 +29,7 @@ Welkom bij de onderwerppagina voor computertechnieken. Hier staat alles over het
 - [[Scheduling]]
 - [[Schil (Informatica)]]
 - [[Server]]
+- [[Software licenties]]
 - [[SSH verbinding]]
 - [[Versleuteling]]
 
