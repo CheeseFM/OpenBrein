@@ -4,7 +4,7 @@
 📅 Aangemaakt: 15-06-2024
 
 ---
-Git is een versiebeheersysteem gemaakt door Linus Torvalds om de [[open source]] ontwikkeling van [[Linux]] mogelijk te maken. Het zorgt ervoor dat je met meerdere ontwikkelaars tegelijkertijd aan (verschillende aspecten van) één project kan werken zonder elkaar in de weg te zitten.
+Git is een versiebeheersysteem gemaakt door Linus Torvalds om de [[Open source]] ontwikkeling van [[Linux]] mogelijk te maken. Het zorgt ervoor dat je met meerdere ontwikkelaars tegelijkertijd aan (verschillende aspecten van) één project kan werken zonder elkaar in de weg te zitten.
 
 # Kenmerken van Git
 ## Gedistribueerd 

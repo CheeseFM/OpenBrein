@@ -22,7 +22,7 @@ Je kan door mijn notities browsen door onderwerppagina's te volgen. Hier vind je
 ## 📈 Veranderingen
 Hier zie je alle recente veranderingen om door te kijken. Kan handig zijn!
 
-![[Veranderingen]]
+![[📂 Recente veranderingen]]
 
 ## 📊 Status
 Om aan bezoekers van de website (en mezelf) te laten weten waar ik zit met een notitie zet ik altijd een status tag erbij. 

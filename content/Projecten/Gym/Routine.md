@@ -26,7 +26,8 @@ Focust op chest, schouders, triceps en benen
 
 | A (kg) | Bench | Incline | Overhead | Leg |
 | ------ | ----- | ------- | -------- | --- |
-| Week 1 | 5 x 2 | 5 x 2   | 18       | 39  |
+| Week 1 | 5 x 2 | 5 x 2   | 18       | /   |
+| Week 2 | 5 x 2 | 5 x 2   | 18       | 75  |
 |        |       |         |          |     |
 
 ## Workout B

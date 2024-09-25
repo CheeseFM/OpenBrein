@@ -10,8 +10,7 @@ Ik wel mezelf stoppen van een nieuwe laptop te kopen met compromisen. Ik heb de 
 Aangezien ik enkel laptops koop die mij toch een goeie 5 à 10 jaar goed zouden zijn heb ik wel een degelijk prijsbereik van 0 - 2500, wat wel een high-end systeempje mag bekostigen.
 
 # Ontwerp
-Industrieel, uniforme randen, matzwart, gelijkmatige proporties. Ergens tussen Macbook (zonder de notch, ew.) en de Surface Laptop 7 (ew bovenste rand is veel te groot). 
-* Webcam in onderkant van scherm voor uniforme randen
+Industrieel, uniforme randen, matzwart, gelijkmatige proporties. Ergens tussen Macbook (zonder de notch, ew.) en de Surface Laptop 7 
 * Coating moet deels vingerprint weerstandig zijn want holy moet ik mijn laptop veel kuisen
 * Anodisatie op level van Macbook want mijn Surface verliest zijn mooi zwart velletje van de kleinste schart
 
