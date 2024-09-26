@@ -1,6 +1,8 @@
 ---
 title: Thuispagina
 ---
+[🏡 Chamilo](https://chamilo.hogent.be/#") [👋 Wallie](https://hogent.sharepoint.com/sites/IntranetStudenten) [📯 iBaMaFlex!](https://ibamaflex.hogent.be)
+
 Jelle's website vol notities en 'tof' leermateriaal 🔥
 
 ---
@@ -8,13 +10,6 @@ Jelle's website vol notities en 'tof' leermateriaal 🔥
 >Ik ben bezig met de site te vernieuwen. Gebruik via 'Vakken' tijdelijk zwaar afgeraden. 
 >
 >*-> [[Notities|Alfabetische indexeringspagina]] aangeraden indien nodig.*
-
-
-<iframe width="100%" style="border:0px; height:300px;" src="Flexbox.html" title="Flexbox links"></iframe>
-
-# [[Workflow noteren|Mijn workflow]]
---- 
-Ik neem handgeschreven notities in de les en herwerk ze na school in een getypte versie op deze website. Ze krijgen verschillende tags:  #kladversie, #uitgewerkt , #volwassen om aan te tonen hoe ver ik sta.
 
 
 # Waar starten?
@@ -40,6 +35,10 @@ Mijn website werkt ongeveer hetzelfde als een wiki waar je op gemarkeerde woorde
 
 ## 🔍 Zoekbalk
 
+
+# [[Workflow noteren|Mijn workflow]]
+--- 
+Ik neem handgeschreven notities in de les en herwerk ze na school in een getypte versie op deze website. Ze krijgen verschillende tags:  #kladversie, #uitgewerkt , #volwassen om aan te tonen hoe ver ik sta.
 
 # Praktische info
 ---
