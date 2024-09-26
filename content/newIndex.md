@@ -1,9 +1,9 @@
 Jelle's website vol notities en 'tof' leermateriaal 🔥
 
 ---
->[!info]
->Website heeft een kleine update gehad 🥰
-<iframe width="100%" style="border:0px; height:400px;" src="Flexbox.html" title="Flexbox links"></iframe>
+>[!warning]
+>Ik ben bezig met de site te vernieuwen. Gebruik via 'Vakken' zwaar afgeraden. 
+<iframe width="100%" style="border:0px; height:300px;" src="Flexbox.html" title="Flexbox links"></iframe>
 
 # [[Workflow noteren|Mijn workflow]]
 --- 
