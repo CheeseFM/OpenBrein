@@ -16,12 +16,10 @@ Jelle's website vol notities en 'tof' leermateriaal 🔥
 ---
 ## ✏️ Handgeschreven notities
 Handgeschreven lesnota's, soms nog niet verwerkt in notities op deze website, kan je vinden in [Mijn Google Drive](https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing) 
-
 ## 🗃️ Vakken
 Pagina's om jou (en mijn) leven gemakkelijker te maken, per vak. Hier staan de herwerkte getypte les-notities en nog eens de link naar het digitaal handgeschreven notitieblok van elk vak.
 
 ![[HoGent 2024-2025]]
-
 
 ## 📈 Veranderingen
 Hier zie je alle recente veranderingen om door te kijken. Kan handig zijn!
@@ -34,7 +32,7 @@ Mijn website werkt ongeveer hetzelfde als een wiki waar je op gemarkeerde woorde
 ![[Schermopnamevan2024-09-2619-44-23-ezgif.com-video-to-gif-converter.gif]]
 
 ## 🔍 Zoekbalk
-
+Je kan altijd de ingebouwde zoekbalk gebruiken (bovenaan op mobiel, linksboven op desktop) om specifieke notities te vinden.
 
 # [[Workflow noteren|Mijn workflow]]
 --- 
@@ -53,3 +51,4 @@ Ik geloof zwaar in het openbaren en publiceren van eigen notities. Jij mag ook m
 * [[Attributie]] - Attributie voor het gebruiken van bepaalde bronnen in het maken van de website.
 
 ---
+*Jelle De Vreeze* @ OpenBrein (Geen rechten voorbehouden)
