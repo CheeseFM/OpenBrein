@@ -1,6 +1,3 @@
-# Doelstellingen
-![[Doelstellingen 2024-2025#IT Fundamentals]]
-
 # Filmpjes (en examenvragen)
 https://youtube.com/playlist?list=PLuhWuD-eOibinLbklK6ALPfK49BaB2KD9&si=wXiclzAm5U1269HS
 

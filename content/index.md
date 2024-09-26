@@ -1,18 +1,14 @@
 ---
 title: Thuispagina
 ---
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Steun me op Ko-fi', '#ec629c', 'K3K3YXMEH');kofiwidget2.draw();</script> 
-
 *Welkom in mijn notities, ook wel eens tweede hersenen genoemd 🧠 - Hier publiceer ik alles dat ik maak een Wiki formaat voor jou gemak!*
 
 ---
-<iframe width="100%" style="border:0px; height:400px;" src="Flexbox.html" title="Flexbox links"></iframe>
 
-Ik volg de richting informatica, dus het grootste deel van mijn notities gaan rond computerwetenschappen draaien, maar mijn interesses liggen een beetje overal dus ga zeker eens op zoek! Ik hou ook van leren leren, alles te doen met het onderwijs en de sociale sector, elektriciteit, mechanica, elektronica, design, branding, wiskunde en nog zo veel meer!
 
 # Waar starten?
 ---
-Waar je wil! - Meestal als je hier bent weet je al wat je zoekt. Start met zoeken via de zoekbalk, recente veranderingen, grafiek en/of de backlinks om jouw weg te vinden!
+Waar je wil! - Meestal als je hier bent weet je al wat je zoekt. Start met zoeken via de zoekbalk, recente veranderingen, grafiek INVOEGEN
 
 ## 🗂️ Onderwerpen
 Je kan door mijn notities browsen door onderwerppagina's te volgen. Hier vind je de grote overkoepelende onderwerpen, waarin kleinere en kleinere.
@@ -27,11 +23,11 @@ Hier zie je alle recente veranderingen om door te kijken. Kan handig zijn!
 ## 📊 Status
 Om aan bezoekers van de website (en mezelf) te laten weten waar ik zit met een notitie zet ik altijd een status tag erbij. 
 
-* Voor documentatie
+**Voor documentatie**
 	* #bezig  - Als ik nog bezig ben met documentatie schrijven
 	* #afgerond  - Als de documentatie volledig uitgewerkt is en hoogstwaarschijnlijk geen aanpassingen komen.
 	* #wordt-constant-bijgewerkt  - Als de documentatie af is maar er nog dingen later kunnen worden toegevoegd.
-* Voor notities
+**Voor notities**
 	* #kladversie  - Wanneer ik net een notitie heb gemaakt en ze nog totaal niet volledig is
 	* #uitgewerkt  - Als een notitie herbekeken is en ze verder is uitgewerkt tot een 'goed genoeg' niveau.
 	* #volwassen - De notitie is herbekeken en op 'goed' niveau. Dit betekent niet dat ze volledig af is, want goede notities zijn nooit af.
@@ -49,9 +45,6 @@ Voor suggesties, kritiek of hulp kan je me contacteren via mijn [mail](mailto:je
 
 ## 📤 Gebruiken van mijn notities
 Ik geloof zwaar in het openbaren en publiceren van eigen notities. Jij mag ook mijn figuren en notities in eigen werken gebruiken als je me correct vermeld - **Gebruiken voor commerciële doeleinden is niet toegelaten.**
-
-## 💰 Steun me
-Als je mijn notities handig vind en je wil een kleine geste doen, dan kan je me altijd iets sturen via Ko-fi! **Het is 100% vrijwillig** en je bent vrij om te geven wat je maar wil. 
 
 ## 🔗Andere handige pagina's
 * [[Inspiraties voor OpenBrein]] - Een pagina met mijn grote helden die mij inspiratie gegeven hebben om dit avontuur te starten.
