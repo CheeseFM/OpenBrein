@@ -6,6 +6,10 @@ Jelle's website vol notities en 'tof' leermateriaal 🔥
 ---
 >[!warning] Werken van 26-09 tot 28-09
 >Ik ben bezig met de site te vernieuwen. Gebruik via 'Vakken' tijdelijk zwaar afgeraden. 
+>
+>*-> [[Notities|Alfabetische indexeringspagina]] aangeraden indien nodig.*
+
+
 <iframe width="100%" style="border:0px; height:300px;" src="Flexbox.html" title="Flexbox links"></iframe>
 
 # [[Workflow noteren|Mijn workflow]]
