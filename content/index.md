@@ -44,7 +44,7 @@ Ik neem handgeschreven notities in de les en herwerk ze na school in een getypte
 Voor suggesties, kritiek of hulp kan je me contacteren via mijn [mail](mailto:jelle@openbrein.org), sociale media of telefoonnummer als je die hebt!
 
 ## 📤 Gebruiken van mijn notities
-Ik geloof zwaar in het openbaren en publiceren van eigen notities. Jij mag ook mijn figuren en notities in eigen werken gebruiken als je dit wil. **Niet alle bijlagen zijn van mij alle rechten voorbehouden aan oorspronkelijke auteurs. (te vinden in 'Bronnen' aan de onderkant van de notitie.**
+Ik geloof zwaar in het openbaren en publiceren van eigen notities. Jij mag ook mijn figuren en notities in eigen werken gebruiken als je dit wil. **Niet alle bijlagen zijn van mij alle rechten voorbehouden aan oorspronkelijke auteurs. (te vinden in 'Bronnen' aan de onderkant van de notitie).**
 
 ## 🔗Andere handige pagina's
 * [[Inspiraties voor OpenBrein]] - Een pagina met mijn grote helden die mij inspiratie gegeven hebben om dit avontuur te starten.
