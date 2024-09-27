@@ -101,6 +101,7 @@ Alle notities die ik maak, alfabetisch, via het [[Zettelkasten|zettelkasten]] sy
 - [[VNC verbinding]]
 - [[WAN]]
 - [[Website maken]]
+- [[WinApps]]
 - [[Windows opzetten]]
 - [[Workflow noteren]]
 - [[Zettelkasten]]
