@@ -51,6 +51,9 @@ Ik geloof zwaar in het openbaren en publiceren van eigen notities. Jij mag ook m
 * [[Inspiraties voor OpenBrein]] - Een pagina met mijn grote helden die mij inspiratie gegeven hebben om dit avontuur te starten.
 * [[Attributie]] - Attributie voor het gebruiken van bepaalde bronnen in het maken van de website.
 
+>[!Warning] Aan personeel 🥰
+>Ik heb voor de lol de domeinnaam 'hogent.org' gekocht en aan deze website verbonden. Mochten jullie dit minder grappig vinden stuur, een mailtje naar [jelle@openbrein.org](mailto:jelle@openbrein.org)  
+
 ---
 *Jelle De Vreeze* @ OpenBrein (Geen rechten voorbehouden)
 
