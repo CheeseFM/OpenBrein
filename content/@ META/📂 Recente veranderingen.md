@@ -1,3 +1,4 @@
+- 2024-09-28 at 18h12 · [[index]]
 - 2024-09-28 at 14h33 · [[Web Development I]]
 - 2024-09-28 at 14h33 · [[Databases]]
 - 2024-09-28 at 14h32 · [[Object-oriented Software Development I]]
@@ -7,4 +8,3 @@
 - 2024-09-28 at 14h16 · [[Notities]]
 - 2024-09-28 at 13h55 · [[HoGent 2024-2025]]
 - 2024-09-28 at 13h40 · [[Cybersecurity]]
-- 2024-09-28 at 13h06 · [[Vak - Sjabloon]]
