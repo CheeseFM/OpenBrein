@@ -2,7 +2,7 @@
 
 ---
 # Voor elk semester
-Subpagina's maken in [[HoGent 2024-2025]] voor elk jaar met algemene doelstellingen, links naar bronmateriaal (chamilo, ...) en puntenverdeling.
+Subpagina's maken in [[HOGENT 2024-2025]] voor elk jaar met algemene doelstellingen, links naar bronmateriaal (chamilo, ...) en puntenverdeling.
 # Voor de les
 Bekijken wat we de volgende dag gaan zien zodat ik al een idee heb van wat er gaat gegeven worden. Noteren van kernpunten en doelstellingen van het hoofdstuk (of hoofdstukken) toebehorend tot de les zodat ik de notities in de les ergens rond kan oriënteren.
 

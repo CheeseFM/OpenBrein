@@ -19,7 +19,7 @@ Handgeschreven lesnota's, soms nog niet verwerkt in notities op deze website, ka
 ## 🗃️ Vakken
 Pagina's om jou (en mijn) leven gemakkelijker te maken, per vak. Hier staan de herwerkte getypte les-notities en nog eens de link naar het digitaal handgeschreven notitieblok van elk vak.
 
-![[HoGent 2024-2025]]
+![[HOGENT 2024-2025]]
 
 ## 📈 Veranderingen
 Hier zie je alle recente veranderingen om door te kijken. Kan handig zijn!
