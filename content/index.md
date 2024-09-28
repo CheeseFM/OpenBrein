@@ -29,7 +29,8 @@ Hier zie je alle recente veranderingen om door te kijken. Kan handig zijn!
 ## 🗒️ Andere notities
 Mijn website werkt ongeveer hetzelfde als een wiki waar je op gemarkeerde woorden kan klikken om een notitie te vinden over dat woord.
 
-![[Schermopnamevan2024-09-2619-44-23-ezgif.com-video-to-gif-converter.gif]]
+![[Wiki.gif]]
+
 
 ## 🔍 Zoekbalk
 Je kan altijd de ingebouwde zoekbalk gebruiken (bovenaan op mobiel, linksboven op desktop) om specifieke notities te vinden.
