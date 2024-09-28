@@ -1,13 +1,13 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-hr {
-    margin: 1rem auto;
-}
-
 h1 {
     font-size: 1.8rem;
-    font-weight: 900;
+    font-weight: 600;
+}
+
+h1.page-title {
+    font-weight: 700;
 }
 
 .page article>h1 {
