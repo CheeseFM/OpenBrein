@@ -76,6 +76,7 @@ Alle notities die ik maak, alfabetisch, via het [[Zettelkasten|zettelkasten]] sy
 - [[Proxy server]]
 - [[Psycholoog tegemoetkoming CM]]
 - [[public static void main]]
+- [[Quartz custom font]]
 - [[RealVNC verbinding op iOS]]
 - [[Remote origin toevoegen]]
 - [[Remote repo clonen en wijzigingen pushen]]

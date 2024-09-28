@@ -1,23 +1,11 @@
-import { i18n } from "../i18n"
-import { FullSlug, joinSegments, pathToRoot } from "../util/path"
-import { JSResourceToScriptElement } from "../util/resources"
-import { googleFontHref } from "../util/theme"
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+#kladversie 
 
-export default (() => {
-  const Head: QuartzComponent = ({ cfg, fileData, externalResources }: QuartzComponentProps) => {
-    const title = fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
-    const description =
-      fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description
-    const { css, js } = externalResources
+📅 Aangemaakt: 28-09-2024
 
-    const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
-    const path = url.pathname as FullSlug
-    const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
+---
+Ga naar `components > Head.tsx` en voeg je google font link toe onder de `cfg.theme.cdnCaching` blok code.
 
-    const iconPath = joinSegments(baseDir, "static/icon.png")
-    const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
-
+```
     return (
       <head>
         <title>{title}</title>
@@ -31,7 +19,6 @@ export default (() => {
           </>
         )}
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet"></link>
-        <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet"></link>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
@@ -50,6 +37,5 @@ export default (() => {
       </head>
     )
   }
+```
 
-  return Head
-}) satisfies QuartzComponentConstructor
