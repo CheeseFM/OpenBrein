@@ -52,7 +52,7 @@ Ik geloof zwaar in het openbaren en publiceren van eigen notities. Jij mag ook m
 * [[Attributie]] - Attributie voor het gebruiken van bepaalde bronnen in het maken van de website.
 
 >[!Warning] Aan personeel 🥰
->Ik heb voor de lol de domeinnaam 'hogent.org' gekocht en aan deze website verbonden. Mochten jullie dit minder grappig vinden stuur, een mailtje naar [jelle@openbrein.org](mailto:jelle@openbrein.org)  
+>Ik heb voor de lol de domeinnaam 'hogent.org' gekocht en aan deze website verbonden. Mochten jullie dit minder grappig vinden, stuur een mailtje naar [jelle@openbrein.org](mailto:jelle@openbrein.org)  
 
 ---
 *Jelle De Vreeze* @ OpenBrein (Geen rechten voorbehouden)
