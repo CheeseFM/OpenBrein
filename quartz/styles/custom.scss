@@ -140,3 +140,20 @@ blockquote.transclude .alias.internal>.popover>.popover-inner li,
 blockquote.transclude .alias.internal>.popover>.popover-inner a {
     color: var(--secondary);
 }
+
+li > .internal > .popover > .popover-inner p, 
+li > .internal > .popover > .popover-inner h1, 
+li > .internal > .popover > .popover-inner h2, 
+li > .internal > .popover > .popover-inner h3, 
+li > .internal > .popover > .popover-inner h4, 
+li > .internal > .popover > .popover-inner h5, 
+li > .internal > .popover > .popover-inner h6, 
+li > .internal > .popover > .popover-inner li, 
+li > .internal > .popover > .popover-inner a {
+    color: var(--secondary);
+}
+
+.popover-hint > .callout {
+    border-radius: 0;
+    border: 0;
+}
