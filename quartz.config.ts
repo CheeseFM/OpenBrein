@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Openbrein ",
+    pageTitle: "Openbrein ,
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -22,7 +22,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Montserrat",
+        header: "Montserrat Bold",
         body: "Montserrat",
         code: "IBM Plex Mono",
       },
