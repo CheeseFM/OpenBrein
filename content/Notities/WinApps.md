@@ -15,6 +15,8 @@
 10. Draai de WinApps installer `git clone https://github.com/winapps-org/winapps.git && cd winapps && ./setup.sh`
 11. Maak een .desktop bestand in `nano ~/.local/share/applications/windows-docker.desktop`
 
+VM staat in `/var/lib/docker/volumes/winapps_data/_data`
+
 --- 
 # Bronnen:
 - https://github.com/winapps-org/winapps?tab=readme-ov-file

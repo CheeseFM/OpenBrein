@@ -1,1 +1,39 @@
-https://hogeb.io/cybersecurity/
+>[!quote]
+>In deze cursus zoomen we in op de verschillende aspecten van cybersecurity. Wat doen hackers precies, en wat willen ze? Waarom is cybersecurity belangrijk? Wat kan ik zelf doen om mij te beschermen? En hoe bescherm je een IT-omgeving?
+
+Naast de praktijk (en bijhorende slides) bevat deze cursus ook een heel luik met praktijkopdrachten, waarin we zelf aan de slag gaan met enkele eenvoudige aanvallen, en technieken die kunnen helpen om hiertegen te beschermen.
+
+## Puntenverdeling
+
+| Onderdeel            | Percentage |
+| -------------------- | ---------- |
+| Examens schriftelijk | 100%       |
+
+| Onderdeel     | Studiepunten |
+| ------------- | ------------ |
+| Cybersecurity | 3            |
+## Toebehoren
+Slides, oefeningen en andere links naar benodigdheden.
+- [Chamilo (Introductie)](https://chamilo.hogent.be/index.php?application=Chamilo%5CApplication%5CWeblcms&go=CourseViewer&course=62511)
+- [Github (Slides & labo's)](https://hogenttin.github.io/cybersecurity/) 
+
+## Algemene doelstellingen
+- Kan basisbegrippen van cybersecurity toelichten
+- Kan de verschillende cryptografische methodes en hun toepassingen toelichten
+- Kan de typische werkwijze van cybercriminelen om vaak voorkomende beveiligingsrisico's en kwetsbaarheden (vulnerabilities) in IT-systemen uit te buiten toelichten
+- Kan mogelijke beveiligingsproblemen in een applicatie toelichten
+
+### Per hoofdstuk
+Geen beschikbaar
+
+# Notities
+---
+## Handgeschreven
+Het digitaal notaboek vind je *[hier](https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing)*. . 
+
+## Uitgetypt
+%% Begin Waypoint %%
+
+
+%% End Waypoint %%
+

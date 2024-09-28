@@ -1,8 +1,10 @@
 ---
 
 ---
+# Voor elk semester
+Subpagina's maken in [[HoGent 2024-2025]] voor elk jaar met algemene doelstellingen, links naar bronmateriaal (chamilo, ...) en puntenverdeling.
 # Voor de les
-Bekijken wat we de volgende dag gaan zien zodat ik al een idee heb van wat er gaat gegeven worden. Noteren van kernpunten en doelstellingen van het vak toebehorend tot de les zodat ik de notities in de les ergens rond kan oriënteren.
+Bekijken wat we de volgende dag gaan zien zodat ik al een idee heb van wat er gaat gegeven worden. Noteren van kernpunten en doelstellingen van het hoofdstuk (of hoofdstukken) toebehorend tot de les zodat ik de notities in de les ergens rond kan oriënteren.
 
 - Tijd: +/- 15 minuten
 - Wanneer: Vorige dag of voor school (flexibel) - Zolang het maar voor de les is.

@@ -96,7 +96,7 @@ p {
 ```
 
 ### Linken van bestanden
-Om je HTML aan te passen a.d.h.v. een extern CSS bestand moet je die eerst linken. We doen dit letterlijk a.d.h.v. het ‘link’. Dit zetten we in de '[[Web Development#Head|head]]'-sectie van het HTML bestand.
+Om je HTML aan te passen a.d.h.v. een extern CSS bestand moet je die eerst linken. We doen dit letterlijk a.d.h.v. het ‘link’. Dit zetten we in de '[[Web Development I#Head|head]]'-sectie van het HTML bestand.
 1. We starten natuurlijk met ‘link’ om een extern bestand (internet of opgeslagen op pc) te linken.
 2. Daarna zetten we het type van het bestand dat we willen linken, in ons is dit een CSS bestand ofwel een 'stylesheet'.
 3. Ten slotte zetten we de bestandsnaam van het css bestand, in ons geval is dit ‘styles.css’.
