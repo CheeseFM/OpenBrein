@@ -7,9 +7,9 @@ Jelle's website vol notities en 'tof' leermateriaal 🔥
 
 ---
 >[!info] Werken van 26-09 tot 28-09 (**Afgerond**)
->-> Nieuwe huisstijl (via https://www.hogent.be/dit-is-hogent/huisstijl/)
->-> Vakken toegevoegd met alle benodigde info en links
->-> Formattering van koppen en subkoppen voor leesbaarheid
+>- Nieuwe huisstijl (via https://www.hogent.be/dit-is-hogent/huisstijl/)
+>- Vakken toegevoegd met alle benodigde info en links
+>- Formattering van koppen en subkoppen voor leesbaarheid
 
 
 # Waar starten?
