@@ -9,6 +9,7 @@
 ## Toebehoren
 Slides, oefeningen en andere links naar benodigdheden.
 - [Documenten - Chamilo (Cursus & Oefeningen)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=64531&tool=Document)
+- [Lesopnames - Chamilo](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=64531&tool=LectureCapture)
 
 ## Algemene doelstellingen
 - Kan een gepast datatype definiëren en gebruiken in Java. 

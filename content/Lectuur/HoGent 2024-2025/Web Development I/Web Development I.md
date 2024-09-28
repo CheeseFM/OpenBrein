@@ -9,7 +9,6 @@
 | ------------------------------- | ------- | ------- | --- | --------- | ------------ | ---- |
 | Schriftelijk examen (op papier) | 100%    | 100%    | \|  |           | 4            | 100  |
 
-
 ## Toebehoren
 Slides, oefeningen en andere links naar benodigdheden.
 - [Github (Slides, Voorbeelden, Oefeningen & Oplossingen)](https://web-development-i.github.io/overview/)

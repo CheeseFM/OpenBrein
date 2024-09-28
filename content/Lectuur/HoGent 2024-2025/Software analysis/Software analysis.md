@@ -12,6 +12,7 @@
 ## Toebehoren
 Slides, oefeningen en andere links naar benodigdheden.
 - [Leerpaden - Chamilo (Slides, boek en oefeningen)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=62361&tool=LearningPath&browser=Table&tool_action=Browser)
+- [Lesopnames - Chamilo](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=62361&tool=LectureCapture)
 
 ## Algemene doelstellingen
 - Kan de basisbegrippen van UI omschrijven en toepassen.

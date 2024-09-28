@@ -11,7 +11,7 @@
 
 ## Toebehoren
 Slides, oefeningen en andere links naar benodigdheden.
-- [Leerpaden - Chamilo (Slides & Oefeningen)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=59249&tool=LearningPath&browser=Table&tool_action=Browser)
+- [Leerpaden - Chamilo (Slides, Lesopnames & Oefeningen)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=59249&tool=LearningPath&browser=Table&tool_action=Browser)
 
 ## Algemene doelstellingen
 - de werking van verschillende gangbare soorten computers​​ en de belangrijkste hardwarecomponenten toelichten.​​

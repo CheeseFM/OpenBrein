@@ -14,6 +14,7 @@
 Slides, oefeningen en andere links naar benodigdheden.
 - [Documenten - Chamilo (Slides & Cursus)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=59117&tool=Document&publication_category=335960&browser=Table&tool_action=Browser)
 - [Github (Workshops -> Oefeningen)](https://github.com/HOGENT-Databases/DB1-Workshops)
+- [Lesopnames - Chamilo](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=59117&tool=LectureCapture)
 
 ## Algemene doelstellingen
 - Kan de verschillende types databanken toelichten en kan die situeren tegenover de “klassieke” bestanden.
