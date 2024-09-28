@@ -3,16 +3,15 @@ title: OPENBREIN | Mijn notities, gepubliceerd online.
 ---
 [🏫 HOGENT](https://www.hogent.be) [🏡 Chamilo](https://chamilo.hogent.be/#") [👋 Wallie](https://hogent.sharepoint.com/sites/IntranetStudenten) [📯 iBaMaFlex!](https://ibamaflex.hogent.be) 
 
----
-Welkom op mijn website! Hierop zet ik mijn notities en samenvattingen online, en link ik je naar handige materie. 
-
-Tijdelijk (voor de komende 3+ jaar) studeer ik informatica en mijn notities zullen dit reflecteren. Daarom is deze site het meest gebruiksvriendelijk gemaakt voor mensen die iets in dezelfde trend studeren / interesses hebben. Andere navigatiemogelijkheden vind je bij '[[#Waar starten?]]'.
-
 >[!info] Werken van 26-09 tot 28-09 (Afgerond)
 >- Nieuwe huisstijl (via https://www.hogent.be/dit-is-hogent/huisstijl/)
 >- Vakken toegevoegd met alle benodigde info en links
 >- Formattering van koppen en subkoppen voor leesbaarheid
 
+---
+**Welkom op mijn website! Hierop zet ik mijn notities en samenvattingen online, en link ik je naar handige materie.** 
+
+Tijdelijk (voor de komende 3+ jaar) studeer ik informatica en mijn notities zullen dit reflecteren. Daarom is deze site het meest gebruiksvriendelijk gemaakt voor mensen die iets in dezelfde trend studeren / interesses hebben. Andere navigatiemogelijkheden vind je bij '[[#Waar starten?]]'.
 
 # Waar starten?
 ---
