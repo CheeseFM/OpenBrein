@@ -1,16 +1,50 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+hr {
+    margin: 0.75rem auto;
+}
+
+h1.page-title a {
+    font-weight: 900;
+    font-optical-sizing: auto;
+    font-size: 2.3rem;
+    line-height: 2rem;
+}
+
+.article-title {
+    font-size: 1.4rem;
+    font-weight: 900;
+}
+
+.page article > h1 {
+    font-size: 1.5rem;
+}
+
+.page-title {
+    max-width: 125px;
+}
+
 h1 {
-    font-size: 1.8rem;
-    font-weight: bold;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
 }
 
-h1.page-title,
-h1.page-title a  {
-    font-weight: bold;
+h2 {
+    font-size: 1.3rem;
+    margin-bottom: 0.25rem;
 }
 
-.page article>h1 {
-    font-size: 1.8rem;
+p {
+    margin-top: 0rem;
+    margin-bottom: 0.75rem;
 }
+
+.search p {
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .transclude h1 {
+    font-size: 1.3rem;
+  }

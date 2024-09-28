@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Openbrein",
+    pageTitle: "OPEN BREIN",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -34,8 +34,8 @@ const config: QuartzConfig = {
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
           secondary: "#000000",
-          tertiary: "rgb(240, 240, 240)",
-          highlight: "rgba(200, 200, 200, 0.20)",
+          tertiary: "rgb(0, 0, 0)",
+          highlight: "rgba(245, 245, 245)",
         },
         darkMode: {
           light: "#000000",
@@ -43,9 +43,9 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#FFFFF",
-          tertiary: "rgb(240, 240, 240)",
-          highlight: "rgba(200, 200, 200, 0.20)",
+          secondary: "#FFFFFF",
+          tertiary: "rgb(255, 255, 255)",
+          highlight: "rgba(20, 20, 20)",
         },
       },
     },
