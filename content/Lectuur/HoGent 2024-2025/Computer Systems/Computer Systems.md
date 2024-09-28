@@ -3,13 +3,9 @@
 
 ## Puntenverdeling
 
-| Onderdeel | 1e kans | 2e kans |
-| --------- | ------- | ------- |
-| Examens   | 100%    | 100%    |
-
-| Onderdeel        | Studiepunten |
-| ---------------- | ------------ |
-| Computer Systems | 4            |
+| Onderdeel | 1e kans | 2e kans | \|     | Onderdeel        | Studiepunten |
+| --------- | ------- | ------- | ------ | ---------------- | ------------ |
+| Examens   | 100%    | 100%    | **\|** | Computer Systems | 4            |
 
 ## Toebehoren
 Slides, oefeningen en andere links naar benodigdheden.
