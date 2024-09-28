@@ -1,6 +1,3 @@
-
-
-
 # Studiegids ([IbaMaFlex]())
 --- 
 ## Puntenverdeling (Link)

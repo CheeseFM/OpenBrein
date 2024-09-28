@@ -1,4 +1,4 @@
->[!quote]
+>[!quote] Chamilo documenten - Studiegids Cybersecurity
 >In deze cursus zoomen we in op de verschillende aspecten van cybersecurity. Wat doen hackers precies, en wat willen ze? Waarom is cybersecurity belangrijk? Wat kan ik zelf doen om mij te beschermen? En hoe bescherm je een IT-omgeving?
 >
 >Naast de praktijk (en bijhorende slides) bevat deze cursus ook een heel luik met praktijkopdrachten, waarin we zelf aan de slag gaan met enkele eenvoudige aanvallen, en technieken die kunnen helpen om hiertegen te beschermen.

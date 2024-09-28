@@ -1,4 +1,4 @@
->[!quote]
+>[!quote] Chamilo - Databases
 >Dit opleidingsonderdeel beoogt de studenten een inzicht te geven in de ontwikkeling van informatiesystemen. Meer bepaald het verzamelen, registreren en klasseren van informatie in een database en dit op een performante en duurzame manier. De studenten leren een conceptueel gegevensmodel maken en dit model omzetten naar een relationeel model.
 
 # Studiegids ([IbaMaFlex](https://bamaflexweb.hogent.be/BMFUIDetailxOLOD.aspx?b=5&c=1&a=180974))
