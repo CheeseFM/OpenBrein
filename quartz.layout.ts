@@ -5,7 +5,21 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'CheeseFM/OpenBrein',
+        // from data-repo-id
+        repoId: 'R_kgDOL9mo2A',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDOL9mo2M4Ci4or',
+      }
+    }),
+  ],
   footer: Component.Footer({
     links: {
       Mail: "mailto:jelle@openbrein.org",
