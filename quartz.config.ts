@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🧠 OpenBrein ",
+    pageTitle: "Openbrein ",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -22,8 +22,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Fredoka",
-        body: "Open Sans",
+        header: "Montserrat",
+        body: "Montserrat",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -33,18 +33,18 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#ec629c",
-          tertiary: "#ee3a93",
+          secondary: "#000000",
+          tertiary: "#ec629c",
           highlight: "rgba(236, 98, 156, 0.15)",
         },
         darkMode: {
-          light: "#161618",
+          light: "#000000",
           lightgray: "#141414",
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#ec629c",
-          tertiary: "#ee3a93",
+          secondary: "#FFFFF",
+          tertiary: "#ec629c",
           highlight: "rgba(236, 98, 156, 0.10)",
         },
       },
