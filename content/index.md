@@ -3,9 +3,11 @@ title: OPENBREIN | Mijn notities, gepubliceerd online.
 ---
 [🏫 HOGENT](https://www.hogent.be) [🏡 Chamilo](https://chamilo.hogent.be/#") [👋 Wallie](https://hogent.sharepoint.com/sites/IntranetStudenten) [📯 iBaMaFlex!](https://ibamaflex.hogent.be) 
 
-Jelle's website vol notities en 'tof' leermateriaal 🔥
-
 ---
+Welkom op mijn website! Hierop zet ik mijn notities en samenvattingen online, en link ik je naar handige materie. 
+
+Tijdelijk (voor de komende 3+ jaar) studeer ik informatica en mijn notities zullen dit reflecteren. Daarom is deze site het meest gebruiksvriendelijk gemaakt voor mensen die iets in dezelfde trend studeren / interesses hebben. Andere navigatiemogelijkheden vind je bij '[[#Waar starten?]]'.
+
 >[!info] Werken van 26-09 tot 28-09 (Afgerond)
 >- Nieuwe huisstijl (via https://www.hogent.be/dit-is-hogent/huisstijl/)
 >- Vakken toegevoegd met alle benodigde info en links
@@ -14,8 +16,6 @@ Jelle's website vol notities en 'tof' leermateriaal 🔥
 
 # Waar starten?
 ---
-## ✏️ Handgeschreven notities
-Handgeschreven lesnota's, soms nog niet verwerkt in notities op deze website, kan je vinden in [Mijn Google Drive](https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing) 
 ## 🗃️ Vakken
 Pagina's om jou (en mijn) leven gemakkelijker te maken, per vak. Hier staan de herwerkte getypte les-notities en nog eens de link naar het digitaal handgeschreven notitieblok van elk vak.
 
