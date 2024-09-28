@@ -1,3 +1,4 @@
+- 2024-09-28 at 22h13 · [[index]]
 - 2024-09-28 at 22h03 · [[Object-oriented Software Development I]]
 - 2024-09-28 at 22h03 · [[Databases]]
 - 2024-09-28 at 22h03 · [[Web Development I]]
@@ -5,6 +6,5 @@
 - 2024-09-28 at 22h03 · [[IT Fundamentals]]
 - 2024-09-28 at 22h03 · [[Cybersecurity]]
 - 2024-09-28 at 22h03 · [[Computer Systems]]
-- 2024-09-28 at 22h03 · [[index]]
 - 2024-09-28 at 22h03 · [[Workflow noteren]]
 - 2024-09-28 at 22h03 · [[HOGENT 2024-2025]]

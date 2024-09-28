@@ -6,10 +6,10 @@ title: OPENBREIN | Mijn notities, gepubliceerd online.
 Jelle's website vol notities en 'tof' leermateriaal 🔥
 
 ---
->[!warning] Werken van 26-09 tot 28-09
->Ik ben bezig met de site te vernieuwen. Gebruik via 'Vakken' tijdelijk zwaar afgeraden. 
->
->*-> [[Notities|Alfabetische indexeringspagina]] aangeraden indien nodig.*
+>[!info] Werken van 26-09 tot 28-09 (**Afgerond**)
+>-> Nieuwe huisstijl (via https://www.hogent.be/dit-is-hogent/huisstijl/)
+>-> Vakken toegevoegd met alle benodigde info en links
+>-> Formattering van koppen en subkoppen voor leesbaarheid
 
 
 # Waar starten?
