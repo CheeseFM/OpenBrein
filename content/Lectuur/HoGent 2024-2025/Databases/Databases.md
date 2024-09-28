@@ -1,20 +1,19 @@
 >[!quote]
+>Dit opleidingsonderdeel beoogt de studenten een inzicht te geven in de ontwikkeling van informatiesystemen. Meer bepaald het verzamelen, registreren en klasseren van informatie in een database en dit op een performante en duurzame manier. De studenten leren een conceptueel gegevensmodel maken en dit model omzetten naar een relationeel model.
 
+# Studiegids ([IbaMaFlex](https://bamaflexweb.hogent.be/BMFUIDetailxOLOD.aspx?b=5&c=1&a=180974))
+---
 ## Puntenverdeling
 
-| Onderdeel            | 1e kans | 2e kans |
-| -------------------- | ------- | ------- |
-| Examens              | 85%     | 100%    |
-| Permanente evaluatie | 15%     | 0%      |
-
-| Onderdeel | Studiepunten |
-| --------- | ------------ |
-|           |              |
+| Onderdeel            | 1e kans | 2e kans | \|  | Onderdeel | Studiepunten | Uren |
+| -------------------- | ------- | ------- | --- | --------- | ------------ | ---- |
+| Examens              | 85%     | 100%    | \|  | Databases | 4            | 100  |
+| Permanente evaluatie | 15%     | 0%      |     |           |              |      |
 
 ## Toebehoren
 Slides, oefeningen en andere links naar benodigdheden.
-- [Chamilo (Slides & Cursus)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=59117&tool=Document&publication_category=335960&browser=Table&tool_action=Browser)
-- [Github (Workshops)](https://github.com/HOGENT-Databases/DB1-Workshops)
+- [Documenten - Chamilo (Slides & Cursus)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=59117&tool=Document&publication_category=335960&browser=Table&tool_action=Browser)
+- [Github (Workshops -> Oefeningen)](https://github.com/HOGENT-Databases/DB1-Workshops)
 
 ## Algemene doelstellingen
 - Kan de verschillende types databanken toelichten en kan die situeren tegenover de “klassieke” bestanden.

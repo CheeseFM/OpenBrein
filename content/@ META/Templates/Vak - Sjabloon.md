@@ -1,14 +1,12 @@
 >[!quote]
 
-## Puntenverdeling
+# Studiegids ([IbaMaFlex]())
+--- 
+## Puntenverdeling (Link)
 
-| Onderdeel | 1e kans | 2e kans |
-| --------- | ------- | ------- |
-| Examens   |         |         |
-
-| Onderdeel        | Studiepunten |
-| ---------------- | ------------ |
-
+| Onderdeel | 1e kans | 2e kans | \|  | Onderdeel | Studiepunten | Uren |
+| --------- | ------- | ------- | --- | --------- | ------------ | ---- |
+|           |         |         | \|  |           |              |      |
 
 
 ## Toebehoren

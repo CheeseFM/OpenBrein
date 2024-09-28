@@ -1,15 +1,17 @@
 >[!quote]
 >Dit opleidingsonderdeel (olod) beoogt de studenten een inzicht te geven in de werking van een computer. Allereerst definiëren we wat een computer precies is. Vervolgens bekijken we de algemene werking van een besturingssysteem waarbij de basisvaardigheden van Linux worden aangeleerd. Tot slot doorgronden we de werking van een aantal elementaire logische schakelingen om over te gaan tot de interne structuur van enkele onderdelen binnenin een computer.
 
-## Puntenverdeling
+# Studiegids ([IbaMaFlex](https://bamaflexweb.hogent.be/BMFUIDetailxOLOD.aspx?b=5&c=1&a=180976))
+---
+## Puntenverdeling 
 
-| Onderdeel | 1e kans | 2e kans | \|     | Onderdeel        | Studiepunten |
-| --------- | ------- | ------- | ------ | ---------------- | ------------ |
-| Examens   | 100%    | 100%    | **\|** | Computer Systems | 4            |
+| Onderdeel | 1e kans | 2e kans | \|  | Onderdeel        | Studiepunten | Uren |
+| --------- | ------- | ------- | --- | ---------------- | ------------ | ---- |
+| Examens   | 100%    | 100%    | \|  | Computer Systems | 4            | 100  |
 
 ## Toebehoren
 Slides, oefeningen en andere links naar benodigdheden.
-- [Leerpaden Chamilo](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=59249&tool=LearningPath&browser=Table&tool_action=Browser)
+- [Leerpaden - Chamilo (Slides & Oefeningen)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=59249&tool=LearningPath&browser=Table&tool_action=Browser)
 
 ## Algemene doelstellingen
 - de werking van verschillende gangbare soorten computers​​ en de belangrijkste hardwarecomponenten toelichten.​​
