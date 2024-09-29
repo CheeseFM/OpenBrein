@@ -6,7 +6,7 @@
 ## Hangeschreven
 Het digitaal notaboek vind je *[hier](https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing)*. 
 
-## Uitgetypt
+## Uitgetypt per hoofdstuk
 %% Begin Waypoint %%
 - [[CS-H01]]
 - [[CS-H02]]
@@ -20,7 +20,6 @@ Het digitaal notaboek vind je *[hier](https://drive.google.com/drive/folders/19M
 | Onderdeel | 1e kans | 2e kans | \|  | Onderdeel        | Studiepunten | Uren |
 | --------- | ------- | ------- | --- | ---------------- | ------------ | ---- |
 | Examens   | 100%    | 100%    | \|  | Computer Systems | 4            | 100  |
-
 ## Toebehoren
 Slides, oefeningen en andere links naar benodigdheden.
 - [Leerpaden - Chamilo (Slides, Lesopnames & Oefeningen)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=59249&tool=LearningPath&browser=Table&tool_action=Browser)
