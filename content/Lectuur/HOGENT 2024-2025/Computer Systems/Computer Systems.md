@@ -28,6 +28,6 @@ Het digitaal notaboek vind je *[hier](https://drive.google.com/drive/folders/19M
 
 ## Uitgetypt
 %% Begin Waypoint %%
-
+- [[CS-H01]]
 
 %% End Waypoint %%
