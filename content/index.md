@@ -3,10 +3,8 @@ title: OPENBREIN | Mijn notities, gepubliceerd online.
 ---
 [🏫 HOGENT](https://www.hogent.be) [🏡 Chamilo](https://chamilo.hogent.be/#") [👋 Wallie](https://hogent.sharepoint.com/sites/IntranetStudenten) [📯 iBaMaFlex!](https://ibamaflex.hogent.be) 
 
->[!info] Werken van 26-09 tot 28-09 (Afgerond)
->- Nieuwe huisstijl (via https://www.hogent.be/dit-is-hogent/huisstijl/)
->- Vakken toegevoegd met alle benodigde info en links
->- Formattering van koppen en subkoppen voor leesbaarheid
+>[!tip] Functietoevoeging 29/09
+>Je kan nu reacties plaatsen onder notities a.d.h.v. Github Discussions!
 
 ---
 **Welkom op mijn website! Hierop zet ik mijn notities en samenvattingen online, en link ik je naar handige materie.** 

@@ -1,3 +1,4 @@
+- 2024-09-29 at 09h27 · [[index]]
 - 2024-09-29 at 08h50 · [[CS-H01]]
 - 2024-09-29 at 08h50 · [[Notities]]
 - 2024-09-29 at 08h50 · [['$desktopGrid' variabele kan niet worden gevonden]]
@@ -5,6 +6,5 @@
 - 2024-09-29 at 08h26 · [[Quartz Github Pages Node 'unsupported engine']]
 - 2024-09-29 at 08h11 · [[Computer Systems]]
 - 2024-09-29 at 00h28 · [[IT Fundamentals]]
-- 2024-09-29 at 00h12 · [[index]]
 - 2024-09-28 at 23h56 · [[HOGENT 2024-2025]]
 - 2024-09-28 at 23h10 · [[Web Development I]]
