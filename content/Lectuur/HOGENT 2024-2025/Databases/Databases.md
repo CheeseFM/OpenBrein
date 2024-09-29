@@ -1,18 +1,6 @@
 >[!quote] Chamilo - Databases
 >Dit opleidingsonderdeel beoogt de studenten een inzicht te geven in de ontwikkeling van informatiesystemen. Meer bepaald het verzamelen, registreren en klasseren van informatie in een database en dit op een performante en duurzame manier. De studenten leren een conceptueel gegevensmodel maken en dit model omzetten naar een relationeel model.
 
-# Notities
----
-## Handgeschreven
-Het digitaal notaboek vind je *[hier](https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing)*. . 
-
-## Uitgetypt per hoofdstuk
-Volgt de benamingscode `Afkorting-HoofdstukNummer` voor gemakkelijk browsen.
-%% Begin Waypoint %%
-- [[DB27-09-2024]]
-
-%% End Waypoint %%
-
 # Studiegids ([IbaMaFlex](https://bamaflexweb.hogent.be/BMFUIDetailxOLOD.aspx?b=5&c=1&a=180974))
 ---
 ## Puntenverdeling
@@ -41,3 +29,17 @@ Slides, oefeningen en andere links naar benodigdheden.
 ### Per hoofdstuk
 In [studiewijzer](https://chamilo.hogent.be/index.php?application=Chamilo%5CApplication%5CWeblcms&go=CourseViewer&course=59117&tool=LearningPath&tool_action=ComplexDisplay&publication=2399407&preview_content_object_id=7575128&learning_path_action=Viewer&child_id=367055) (Chamilo) leerpaden 
 
+
+<div class="notes-links">
+<h1>Notities</h1>
+<h2>Handgeschreven notities</h2>
+<p>Het digitaal notaboek vind je  <a href="https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing">hier</a>.</p>
+
+<h2>Uitgetypt per hoofdstuk</h2>
+<div class="waypoint">
+%% Begin Waypoint %%
+- [[DB27-09-2024]]
+
+%% End Waypoint %%
+</div>
+</div>
