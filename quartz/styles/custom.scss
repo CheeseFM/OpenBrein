@@ -26,27 +26,40 @@ hr {
 }
 
 h1 {
+    font-weight: 700;
     font-size: 1.5rem;
     margin-bottom: 0.5rem;
 }
 
 h2 {
+    font-weight: 600;
     font-size: 1.2rem;
-    margin-bottom: 0.25rem;
+    margin-bottom: .25rem;
 }
 
 h3,
 h4,
 h5,
 h6 {
-    font-size: 1rem;
-    margin-bottom: 0;
+    font-weight: 500;
+    font-size: 1.1rem;
+    margin-bottom: .35rem;
+    margin-top: 0.75rem;
 }
 
-p li {
-    margin-top: 0;
-    margin-bottom: 0.75rem;
-    font-size: .875rem;
+p {
+    margin-top: 0.55em;
+    font-size: 1rem;
+    color: var(--secondary);
+}
+
+li {
+    font-size: 1rem;
+    color: var(--secondary);
+}
+
+ul {
+    margin-top: 0.25rem;
 }
 
 .search p {
@@ -137,39 +150,11 @@ h1>a {
     color: var(--light);
 }
 
-.notities.callout p,
-.notities.callout h1,
-.notities.callout h2,
-.notities.callout h3,
-.notities.callout h4,
-.notities.callout h5,
-.notities.callout h6,
-.notities.callout li,
-.notities.callout a {
-    color: var(--light);
-    background-color: rgba(0, 0, 0, 0);
+.callout a {
+    font-size: 1rem;
 }
 
-.notities.callout {
-    background-color: var(--tertiary);
-}
-
-.notities.callout li a {
-    line-height: 2.5rem;
-    background-color: var(--light);
-    color: var(--secondary);
-    padding: .5rem 1rem;
+.callout {
+    border: 0;
     border-radius: 0;
-}
-
-.notities.callout li a:hover {
-    background-color: var(--lightgray);
-}
-
-.notities.callout>.callout-content>p {
-    margin-top: 0.25rem;
-}
-
-.notities.callout ul {
-    margin-top: 0.5rem;
 }
