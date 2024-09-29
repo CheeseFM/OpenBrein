@@ -32,14 +32,12 @@ In [studiewijzer](https://chamilo.hogent.be/index.php?application=Chamilo%5CAppl
 
 <div class="notes-links">
 <h1>Notities</h1>
-<h2>Handgeschreven notities</h2>
+<p class="header-nolink">Handgeschreven notities</p>
 <p>Het digitaal notaboek vind je  <a href="https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing">hier</a>.</p>
 
-<h2>Uitgetypt per hoofdstuk</h2>
+<p class="header-nolink">Uitgetypte notities per hoofdstuk:</p>
 <div class="waypoint">
 %% Begin Waypoint %%
-- [[DB27-09-2024]]
-
 %% End Waypoint %%
 </div>
 </div>
