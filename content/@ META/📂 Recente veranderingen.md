@@ -1,4 +1,5 @@
-- 2024-09-29 at 14h53 · [[Computer Systems]]
+- 2024-09-29 at 15h11 · [[Computer Systems]]
+- 2024-09-29 at 15h10 · [[CS-SG]]
 - 2024-09-29 at 14h49 · [[Cybersecurity]]
 - 2024-09-29 at 14h49 · [[Notities]]
 - 2024-09-29 at 14h48 · [[Vak - Sjabloon]]
@@ -7,4 +8,3 @@
 - 2024-09-29 at 13h12 · [[Software analysis]]
 - 2024-09-29 at 13h11 · [[Object-oriented Software Development I]]
 - 2024-09-29 at 13h11 · [[IT Fundamentals]]
-- 2024-09-29 at 13h11 · [[Databases]]
