@@ -38,6 +38,8 @@ In [studiewijzer](https://chamilo.hogent.be/index.php?application=Chamilo%5CAppl
 <p class="header-nolink">Uitgetypte notities per hoofdstuk:</p>
 <div class="waypoint">
 %% Begin Waypoint %%
+- [[DB-01]]
+
 %% End Waypoint %%
 </div>
 </div>

@@ -40,6 +40,8 @@ Via hoofdstukken van [cursus](https://chamilo.hogent.be/index.php?go=CourseViewe
 <p class="header-nolink">Uitgetypte notities per hoofdstuk:</p>
 <div class="waypoint">
 %% Begin Waypoint %%
+- [[ITF-00]]
+
 %% End Waypoint %%
 </div>
 </div>

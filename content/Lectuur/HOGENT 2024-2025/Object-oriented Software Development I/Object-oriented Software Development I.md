@@ -35,6 +35,9 @@ In theorieboek [op Chamilo](https://chamilo.hogent.be/index.php?go=course_viewer
 <p class="header-nolink">Uitgetypte notities per hoofdstuk:</p>
 <div class="waypoint">
 %% Begin Waypoint %%
+- [[JA26-09-2024]]
+- [[OOSDI-00]]
+
 %% End Waypoint %%
 </div>
 </div>

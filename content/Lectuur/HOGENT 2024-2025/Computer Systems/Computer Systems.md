@@ -28,6 +28,9 @@ In [studiewijzer bij leerpaden](https://chamilo.hogent.be/index.php?application=
 <p class="header-nolink">Uitgetypte notities per hoofdstuk:</p>
 <div class="waypoint">
 %% Begin Waypoint %%
+- [[CS-H01]]
+- [[CS-H02]]
+
 %% End Waypoint %%
 </div>
 </div>
