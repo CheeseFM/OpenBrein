@@ -6,7 +6,8 @@
 ## Handgeschreven
 Het digitaal notaboek vind je *[hier](https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing)*. . 
 
-## Uitgetypt
+## Uitgetypt per hoofdstuk
+Volgt de benamingscode `Afkorting-HoofdstukNummer` voor gemakkelijk browsen.
 %% Begin Waypoint %%
 
 
@@ -16,9 +17,9 @@ Het digitaal notaboek vind je *[hier](https://drive.google.com/drive/folders/19M
 --- 
 ## Puntenverdeling (Link)
 
-| Onderdeel                       | 1e kans | 2e kans | \|  | Onderdeel | Studiepunten | Uren |
-| ------------------------------- | ------- | ------- | --- | --------- | ------------ | ---- |
-| Schriftelijk examen (op papier) | 100%    | 100%    | \|  |           | 4            | 100  |
+| Onderdeel                       | 1e kans | 2e kans | \|  | Onderdeel         | Studiepunten | Uren |
+| ------------------------------- | ------- | ------- | --- | ----------------- | ------------ | ---- |
+| Schriftelijk examen (op papier) | 100%    | 100%    | \|  | Web Development I | 4            | 100  |
 
 ## Toebehoren
 Slides, oefeningen en andere links naar benodigdheden.

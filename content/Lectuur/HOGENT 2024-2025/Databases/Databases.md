@@ -6,7 +6,8 @@
 ## Handgeschreven
 Het digitaal notaboek vind je *[hier](https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing)*. . 
 
-## Uitgetypt
+## Uitgetypt per hoofdstuk
+Volgt de benamingscode `Afkorting-HoofdstukNummer` voor gemakkelijk browsen.
 %% Begin Waypoint %%
 - [[DB27-09-2024]]
 
