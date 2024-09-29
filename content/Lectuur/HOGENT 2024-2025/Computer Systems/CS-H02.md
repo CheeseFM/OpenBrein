@@ -38,11 +38,37 @@ De 'GUI' of Graphical User Interface (nl. Grafische gebruikersinterface) heeft d
 
 
 ## Keuze besturingssysteem
+Belangrijkste 3 moderne besturingssystemen:
+- Windows: Gebaseerd op NT, gebaseerd op DOS
+- macOS: Gebaseerd op BSD, gebaseerd op UNIX
+- Linux: Gebaseerd op UNIX
 
-## Linux distros
+![[Pasted image 20240929191459.png]]
+
+Keuze hangt OS af van:
+- Rol: Server of desktop?
+- Functie: Welke software wil je draaien? (Games -> Windows, Ontwikkeling -> Linux, mac, ...)
+- Levenscyclus: 
+- Stabiliteit: Getest? Béta? ... (bv. Gewone versie via Lange termijn ondersteuning )
+- (Achterwaartse) compatibiliteit: Kan je software draaien gemaakt voor 'oudere' versies van het besturingssysteem (bv. Windows 7 applicaties op 11)
+- Kost: Jaarlijkse licenties, draait enkel op specifieke hardware (macOS), gratis?
+
+## Linux distro's
+- Red hat: 
+	- RHEL: Server distro van Red Hat met ondersteuning (betalend)
+	- Fedora: Desktop versie Red Hat
+- Suse
+- Debian
+- Android
+- Raspbian
 
 ## (Open Source) Software licenties
-
+- EULA: End User License Agreement
+	- Juridisch document die (digitaal) ondertekend moet worden bij installeren software.
+- GPLv2: GNU General Public License version 2 
+	- Licentie die broncode voor iedereen beschikbaar maakt, waarmee (onafhankelijke) ontwikkelaars wijzigingen kunnen aanbrengen (onder dezelfde licentie).
+- FOSS: Free and Open Source Software
+	- Software waarvan iedereen de broncode kan bekijken, wijzigen en zelf opnieuw kan verspreiden in (hun eigen) producten.
 
 # Bronnen
 ---

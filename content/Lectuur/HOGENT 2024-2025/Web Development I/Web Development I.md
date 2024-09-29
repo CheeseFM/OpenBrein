@@ -29,7 +29,7 @@ Op de [Github thuispagina](https://web-development-i.github.io/overview/) bij el
 <h2>Uitgetypt per hoofdstuk</h2>
 <div class="waypoint">
 %% Begin Waypoint %%
-- [[WBDVI-00]]
+
 
 %% End Waypoint %%
 </div>

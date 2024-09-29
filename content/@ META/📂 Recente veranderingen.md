@@ -1,3 +1,5 @@
+- 2024-09-29 at 19h07 · [[CS-H02]]
+- 2024-09-29 at 18h27 · [[index]]
 - 2024-09-29 at 17h50 · [[Object-oriented Software Development I]]
 - 2024-09-29 at 17h50 · [[Web Development I]]
 - 2024-09-29 at 17h50 · [[WBDVI-00]]
@@ -6,5 +8,3 @@
 - 2024-09-29 at 17h49 · [[OOSDI-00]]
 - 2024-09-29 at 17h49 · [[IT Fundamentals]]
 - 2024-09-29 at 17h49 · [[Cybersecurity]]
-- 2024-09-29 at 17h49 · [[ITF-00]]
-- 2024-09-29 at 17h49 · [[Databases]]
