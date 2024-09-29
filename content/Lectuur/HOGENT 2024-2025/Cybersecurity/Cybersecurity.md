@@ -3,6 +3,17 @@
 >
 >Naast de praktijk (en bijhorende slides) bevat deze cursus ook een heel luik met praktijkopdrachten, waarin we zelf aan de slag gaan met enkele eenvoudige aanvallen, en technieken die kunnen helpen om hiertegen te beschermen.
 
+# Notities
+---
+## Handgeschreven
+Het digitaal notaboek vind je *[hier](https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing)*. . 
+
+## Uitgetypt
+%% Begin Waypoint %%
+
+
+%% End Waypoint %%
+
 # Studiegids ([IbaMaFlex]())
 ---
 ## Puntenverdeling
@@ -24,15 +35,4 @@ Slides, oefeningen en andere links naar benodigdheden.
 
 ### Per hoofdstuk
 Geen beschikbaar
-
-# Notities
----
-## Handgeschreven
-Het digitaal notaboek vind je *[hier](https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing)*. . 
-
-## Uitgetypt
-%% Begin Waypoint %%
-
-
-%% End Waypoint %%
 

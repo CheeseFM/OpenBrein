@@ -1,6 +1,18 @@
 >[!quote] Leerpaden Chamilo - Doel en plaats van de cursus in het curriculum
 >Dit opleidingsonderdeel (olod) beoogt de studenten een inzicht te geven in de werking van een computer. Allereerst definiëren we wat een computer precies is. Vervolgens bekijken we de algemene werking van een besturingssysteem waarbij de basisvaardigheden van Linux worden aangeleerd. Tot slot doorgronden we de werking van een aantal elementaire logische schakelingen om over te gaan tot de interne structuur van enkele onderdelen binnenin een computer.
 
+# Notities
+---
+## Handgeschreven
+Het digitaal notaboek vind je *[hier](https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing)*. 
+
+## Uitgetypt
+%% Begin Waypoint %%
+- [[CS-H01]]
+- [[CS-H02]]
+
+%% End Waypoint %%
+
 # Studiegids ([IbaMaFlex](https://bamaflexweb.hogent.be/BMFUIDetailxOLOD.aspx?b=5&c=1&a=180976))
 ---
 ## Puntenverdeling 
@@ -20,15 +32,3 @@ Slides, oefeningen en andere links naar benodigdheden.
 
 ### Per hoofdstuk
 In [studiewijzer bij leerpaden](https://chamilo.hogent.be/index.php?application=Chamilo%5CApplication%5CWeblcms&go=CourseViewer&course=59249&tool=LearningPath&tool_action=ComplexDisplay&publication=2396043&preview_content_object_id=4830731&learning_path_action=Viewer&child_id=141723) (Chamilo)
-
-# Notities
----
-## Handgeschreven
-Het digitaal notaboek vind je *[hier](https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing)*. 
-
-## Uitgetypt
-%% Begin Waypoint %%
-- [[CS-H01]]
-- [[CS-H02]]
-
-%% End Waypoint %%

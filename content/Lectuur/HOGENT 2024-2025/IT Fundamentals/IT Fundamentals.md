@@ -1,3 +1,13 @@
+# Notities
+---
+## Handgeschreven
+Het digitaal notaboek vind je *[hier](https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing)*. . 
+
+## Uitgetypt
+%% Begin Waypoint %%
+
+
+%% End Waypoint %%
 # Studiegids ([IbaMaFlex]())
 --- 
 ## Puntenverdeling
@@ -26,14 +36,5 @@ Slides, oefeningen en andere links naar benodigdheden.
 ### Per hoofdstuk
 Via hoofdstukken van [cursus](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=63194&tool=Document&publication_category=332715&browser=Table&tool_action=Viewer&publication=2377449). 
 
-# Notities
----
-## Handgeschreven
-Het digitaal notaboek vind je *[hier](https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing)*. . 
 
-## Uitgetypt
-%% Begin Waypoint %%
-
-
-%% End Waypoint %%
 

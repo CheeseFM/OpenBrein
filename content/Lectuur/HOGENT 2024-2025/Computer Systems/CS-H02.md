@@ -10,6 +10,19 @@
 # Notities
 --- 
 ## Wat is een besturingssysteem
+Een besturingssysteem of 'OS' is software die op een computerapparaat draait om de hardware en softwarecomponenten te beheren.
+
+### Shell
+De gebruikersinterface van het besturingssysteem.
+
+### Kernel
+De software die communicatie tussen hardware en software bevordert en de hulpbronnen beheert. (Waaronder ...)
+
+#### Scheduling
+Een besturingssysteem maakt gebruikt van 'scheduling', een soort takenrooster die bepaald welke services worden uitgevoerd, aan welke gebruikers en wanneer.
+
+### Hardware
+Het fysieke deel van de computer, inclusief onderliggende elektronica.
 
 ## GUI vs. CLI
 
