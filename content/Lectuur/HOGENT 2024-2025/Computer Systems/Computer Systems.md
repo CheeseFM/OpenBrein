@@ -8,11 +8,14 @@ Het digitaal notaboek vind je *[hier](https://drive.google.com/drive/folders/19M
 
 ## Uitgetypt per hoofdstuk
 Volgt de benamingscode `Afkorting-HoofdstukNummer` voor gemakkelijk browsen.
+
+<div>
 %% Begin Waypoint %%
 - [[CS-H01]]
 - [[CS-H02]]
 
 %% End Waypoint %%
+</div>
 
 # Studiegids ([IBaMaFlex](https://bamaflexweb.hogent.be/BMFUIDetailxOLOD.aspx?b=5&c=1&a=180976))
 ---
