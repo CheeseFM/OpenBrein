@@ -25,6 +25,17 @@ Een besturingssysteem maakt gebruikt van 'scheduling', een soort takenrooster di
 Het fysieke deel van de computer, inclusief onderliggende elektronica.
 
 ## GUI vs. CLI
+Twee types bovenliggende 'Schillen'
+### CLI
+De 'CLI' of Command Line Interface (nl. Commando Regel Interface) heeft de gebruiker tekst en een invoervak om het besturingssysteem en bovenliggende software te manipuleren.
+
+![[Pasted image 20240923174959.png]]
+
+### GUI
+De 'GUI' of Graphical User Interface (nl. Grafische gebruikersinterface) heeft de gebruiker elementen weer om op een visuele manier (meestal met vensters, cursors, menus, ...) om software en het algemene besturingssysteem te manipuleren.
+
+![[Pasted image 20240923174741.png]]
+
 
 ## Keuze besturingssysteem
 
