@@ -8,7 +8,7 @@ title: OPENBREIN | Mijn notities, gepubliceerd online.
 
 ---
 **Welkom op mijn website! Hierop zet ik mijn notities en samenvattingen online, en link ik je naar handige materie.** 
-
+	
 Tijdelijk (voor de komende 3+ jaar) studeer ik informatica en mijn notities zullen dit reflecteren. Daarom is deze site het meest gebruiksvriendelijk gemaakt voor mensen die iets in dezelfde trend studeren / interesses hebben.
 
 # Waar starten?
