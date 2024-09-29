@@ -43,8 +43,7 @@ h6 {
     margin-bottom: 0;
 }
 
-p
-li {
+p li {
     margin-top: 0;
     margin-bottom: 0.75rem;
     font-size: .875rem;
@@ -138,31 +137,39 @@ h1>a {
     color: var(--light);
 }
 
-blockquote.transclude .alias.internal>.popover>.popover-inner p,
-blockquote.transclude .alias.internal>.popover>.popover-inner h1,
-blockquote.transclude .alias.internal>.popover>.popover-inner h2,
-blockquote.transclude .alias.internal>.popover>.popover-inner h3,
-blockquote.transclude .alias.internal>.popover>.popover-inner h4,
-blockquote.transclude .alias.internal>.popover>.popover-inner h5,
-blockquote.transclude .alias.internal>.popover>.popover-inner h6,
-blockquote.transclude .alias.internal>.popover>.popover-inner li,
-blockquote.transclude .alias.internal>.popover>.popover-inner a {
-    color: var(--secondary);
+.notities.callout p,
+.notities.callout h1,
+.notities.callout h2,
+.notities.callout h3,
+.notities.callout h4,
+.notities.callout h5,
+.notities.callout h6,
+.notities.callout li,
+.notities.callout a {
+    color: var(--light);
+    background-color: rgba(0, 0, 0, 0);
 }
 
-li > .internal > .popover > .popover-inner p, 
-li > .internal > .popover > .popover-inner h1, 
-li > .internal > .popover > .popover-inner h2, 
-li > .internal > .popover > .popover-inner h3, 
-li > .internal > .popover > .popover-inner h4, 
-li > .internal > .popover > .popover-inner h5, 
-li > .internal > .popover > .popover-inner h6, 
-li > .internal > .popover > .popover-inner li, 
-li > .internal > .popover > .popover-inner a {
-    color: var(--secondary);
+.notities.callout {
+    background-color: var(--tertiary);
 }
 
-.popover-hint > .callout {
+.notities.callout li a {
+    line-height: 2.5rem;
+    background-color: var(--light);
+    color: var(--secondary);
+    padding: .5rem 1rem;
     border-radius: 0;
-    border: 0;
+}
+
+.notities.callout li a:hover {
+    background-color: var(--lightgray);
+}
+
+.notities.callout>.callout-content>p {
+    margin-top: 0.25rem;
+}
+
+.notities.callout ul {
+    margin-top: 0.5rem;
 }
