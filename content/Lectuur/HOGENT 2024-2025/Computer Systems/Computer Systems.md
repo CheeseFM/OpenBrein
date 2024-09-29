@@ -3,22 +3,22 @@
 
 # Notities
 ---
-<div>
-## Hangeschreven
-Het digitaal notaboek vind je *[hier](https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing)*. 
+<div class="notes-links">
+<h2>Handgeschreven notities</h2>
+<p>Het digitaal notaboek vind je  <a hreft="https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing">hier</a>.</p>
 
-## Uitgetypt per hoofdstuk
-Volgt de benamingscode `Afkorting-HoofdstukNummer` voor gemakkelijk browsen.
+<h2>Uitgetypt per hoofdstuk</h2>
+<p>Volgt de benamingscode <code>Afkorting-HoofdstukNummer </code> voor gemakkelijk browsen. </p>
 
-<div>
+<div class="waypoint">
 %% Begin Waypoint %%
 - [[CS-H01]]
 - [[CS-H02]]
-- [[CS-TEST]]
 
 %% End Waypoint %%
 </div>
 </div>
+
 # Studiegids ([IBaMaFlex](https://bamaflexweb.hogent.be/BMFUIDetailxOLOD.aspx?b=5&c=1&a=180976))
 ---
 ## Puntenverdeling 
