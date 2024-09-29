@@ -1,4 +1,5 @@
-- 2024-09-29 at 16h58 · [[Computer Systems]]
+- 2024-09-29 at 17h00 · [[Computer Systems]]
+- 2024-09-29 at 16h59 · [[CS-TEST]]
 - 2024-09-29 at 16h29 · [[Web Development I]]
 - 2024-09-29 at 16h28 · [[Software analysis]]
 - 2024-09-29 at 16h28 · [[Object-oriented Software Development I]]
@@ -7,4 +8,3 @@
 - 2024-09-29 at 16h28 · [[Cybersecurity]]
 - 2024-09-29 at 16h11 · [[Vak - Sjabloon]]
 - 2024-09-29 at 14h49 · [[Notities]]
-- 2024-09-29 at 13h24 · [[CS-H02]]

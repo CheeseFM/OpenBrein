@@ -3,6 +3,7 @@
 
 # Notities
 ---
+<div>
 ## Hangeschreven
 Het digitaal notaboek vind je *[hier](https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing)*. 
 
@@ -13,10 +14,11 @@ Volgt de benamingscode `Afkorting-HoofdstukNummer` voor gemakkelijk browsen.
 %% Begin Waypoint %%
 - [[CS-H01]]
 - [[CS-H02]]
+- [[CS-TEST]]
 
 %% End Waypoint %%
 </div>
-
+</div>
 # Studiegids ([IBaMaFlex](https://bamaflexweb.hogent.be/BMFUIDetailxOLOD.aspx?b=5&c=1&a=180976))
 ---
 ## Puntenverdeling 
