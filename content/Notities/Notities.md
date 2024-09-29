@@ -1,6 +1,7 @@
 Alle notities die ik maak, alfabetisch, via het [[Zettelkasten|zettelkasten]] systeem.
 
 %% Begin Waypoint %%
+- [['$desktopGrid' variabele kan niet worden gevonden]]
 - [[568b norm]]
 - [[Access-Point]]
 - [[Analoog digitale conversie]]
@@ -36,6 +37,7 @@ Alle notities die ik maak, alfabetisch, via het [[Zettelkasten|zettelkasten]] sy
 - [[Extensie aanpassen]]
 - [[Fedora bookmarks]]
 - [[Forward proxy]]
+- [[Fout 'Highlight' variabele quartz]]
 - [[Fusion 360 op linux]]
 - [[Git commando's]]
 - [[Git]]
@@ -77,7 +79,7 @@ Alle notities die ik maak, alfabetisch, via het [[Zettelkasten|zettelkasten]] sy
 - [[Psycholoog tegemoetkoming CM]]
 - [[public static void main]]
 - [[Quartz custom font]]
-- [[Quartz Github Pages Node 'unsupported engine]]
+- [[Quartz Github Pages Node 'unsupported engine']]
 - [[RealVNC verbinding op iOS]]
 - [[Remote origin toevoegen]]
 - [[Remote repo clonen en wijzigingen pushen]]
