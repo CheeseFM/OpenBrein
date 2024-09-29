@@ -21,7 +21,7 @@ Error: Process completed with exit code 1.
 ```
 
 # Oplossing fout
-Kijk naar de voorbeeld workflow in de documentatie (https://quartz.jzhao.xyz/hosting) en/of pas direct je workflow file aan met de `Required` versie via de foutmelding.
+Kijk naar de voorbeeld workflow in de documentatie (https://quartz.jzhao.xyz/hosting) en kopieer de nieuwe versie.
 
 ## Vorige workflow file
 ```YAML
@@ -70,26 +70,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
-```
-
-## Aanpassing
-```
-jobs:
-  build:
-    runs-on: ubuntu-22.04
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0 # Fetch all history for git info
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-      - name: Install Dependencies
-        run: npm ci
-      - name: Build Quartz
-        run: npx quartz build
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: public
 ```

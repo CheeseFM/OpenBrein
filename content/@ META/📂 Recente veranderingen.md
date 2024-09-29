@@ -1,4 +1,4 @@
-- 2024-09-29 at 08h24 · [[Quartz Github Pages Node 'unsupported engine]]
+- 2024-09-29 at 08h26 · [[Quartz Github Pages Node 'unsupported engine]]
 - 2024-09-29 at 08h18 · [[Notities]]
 - 2024-09-29 at 08h14 · [[CS-H01]]
 - 2024-09-29 at 08h11 · [[Computer Systems]]
