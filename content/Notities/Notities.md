@@ -77,6 +77,7 @@ Alle notities die ik maak, alfabetisch, via het [[Zettelkasten|zettelkasten]] sy
 - [[Psycholoog tegemoetkoming CM]]
 - [[public static void main]]
 - [[Quartz custom font]]
+- [[Quartz Github Pages Node 'unsupported engine]]
 - [[RealVNC verbinding op iOS]]
 - [[Remote origin toevoegen]]
 - [[Remote repo clonen en wijzigingen pushen]]

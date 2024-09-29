@@ -1,4 +1,6 @@
-- 2024-09-29 at 08h11 · [[CS-H01]]
+- 2024-09-29 at 08h24 · [[Quartz Github Pages Node 'unsupported engine]]
+- 2024-09-29 at 08h18 · [[Notities]]
+- 2024-09-29 at 08h14 · [[CS-H01]]
 - 2024-09-29 at 08h11 · [[Computer Systems]]
 - 2024-09-29 at 00h28 · [[IT Fundamentals]]
 - 2024-09-29 at 00h12 · [[index]]
@@ -6,5 +8,3 @@
 - 2024-09-28 at 23h10 · [[Web Development I]]
 - 2024-09-28 at 23h10 · [[Databases]]
 - 2024-09-28 at 23h08 · [[Cybersecurity]]
-- 2024-09-28 at 22h03 · [[Object-oriented Software Development I]]
-- 2024-09-28 at 22h03 · [[Software analysis]]
