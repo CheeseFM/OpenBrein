@@ -33,9 +33,12 @@ In theorieboek [op Chamilo](https://chamilo.hogent.be/index.php?go=course_viewer
 <p>Het digitaal notaboek vind je  <a href="https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing">hier</a>.</p>
 
 <p class="header-nolink">Uitgetypte notities per les:</p>
+<p>Ik heb het per les gezet omdat je dit OLOD grotendeels leert door te doen.</p>
 <div class="waypoint">
 %% Begin Waypoint %%
-- [[JA26-09-2024]]
+- [[OSD-L01]]
+- [[OSD-L02]]
+- [[OSD-L03]]
 
 %% End Waypoint %%
 </div>

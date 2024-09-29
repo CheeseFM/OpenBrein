@@ -1,8 +1,12 @@
 #kladversie 
 
-📅 Aangemaakt: 25-09-2024
+📅 Aangemaakt: 26-09-2024
 
 ---
+
+![[Basis configuratie Java Project]]
+
+
 ```Java
 package cui;
 
@@ -10,7 +14,7 @@ import java.util.Scanner; // Gebruik maken van scanner object uit .util biblioth
 
 public class Calc {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { // Start programma
 		// int getal1; -> Variabele declareren in Java
 		// getal1 = 26; -> Initialisatie (Eerste toekenning van waarde)
 		// int getal2 = 23; -> Declaratie en initialisatie tegelijk
@@ -40,3 +44,4 @@ public class Calc {
 
 }
 ```
+

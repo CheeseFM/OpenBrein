@@ -1,7 +1,6 @@
 Alle notities die ik maak, alfabetisch, via het [[Zettelkasten|zettelkasten]] systeem.
 
 %% Begin Waypoint %%
-- [['$desktopGrid' variabele kan niet worden gevonden]]
 - [[568b norm]]
 - [[Access-Point]]
 - [[Analoog digitale conversie]]
@@ -33,7 +32,6 @@ Alle notities die ik maak, alfabetisch, via het [[Zettelkasten|zettelkasten]] sy
 - [[Een snelkoppeling aanmaken]]
 - [[Elektronica]]
 - [[Embedded systeem]]
-- [[Escape sequences]]
 - [[Extensie aanpassen]]
 - [[Fedora bookmarks]]
 - [[Forward proxy]]
@@ -50,7 +48,6 @@ Alle notities die ik maak, alfabetisch, via het [[Zettelkasten|zettelkasten]] sy
 - [[Hogent software op Fedora Linux]]
 - [[HTML]]
 - [[iCloud Mail via SMTP instellingen]]
-- [[Invoer van gebruiker via CLI]]
 - [[Invoer- en uitvoerapparaten]]
 - [[iwctl wifi verbinding opstellen]]
 - [[Kernel]]
@@ -74,10 +71,8 @@ Alle notities die ik maak, alfabetisch, via het [[Zettelkasten|zettelkasten]] sy
 - [[OSI model]]
 - [[Pagina openen in nieuw tablad]]
 - [[Pi OS installeren]]
-- [[Printen naar CLI]]
 - [[Proxy server]]
 - [[Psycholoog tegemoetkoming CM]]
-- [[public static void main]]
 - [[Quartz custom font]]
 - [[Quartz Github Pages Node 'unsupported engine']]
 - [[RealVNC verbinding op iOS]]
@@ -98,6 +93,7 @@ Alle notities die ik maak, alfabetisch, via het [[Zettelkasten|zettelkasten]] sy
 - [[TCP]]
 - [[UDP]]
 - [[Vanaf computer repo maken en pushen]]
+- [[Variabele Quartz '$desktopGrid' kan niet worden gevonden]]
 - [[Veilige websites]]
 - [[Versleuteling]]
 - [[Visual Studio apparaat thema volgen]]

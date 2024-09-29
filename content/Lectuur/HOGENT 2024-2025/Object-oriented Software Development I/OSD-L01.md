@@ -3,10 +3,11 @@
 📅 Aangemaakt: 24-09-2024
 
 ---
+
 ``` Java
 package cui;
 
-public class Wereld {
+public class Wereld { // Start programma
 	public static void main(String[] args) {
 		// Druk hallo wereld af op console
 		System.out.println("hallo wereld hoi hoi!!!!!");
@@ -34,4 +35,14 @@ hallo wereld hoi hoi!!!!!
 Jan          Jansens
 Piet         Pieters
 5
+```
+
+# Escape sequences
+
+```
+\n -> Volgende lijn
+\" -> Quotes worden weergegeven
+\\ -> Backslash wordt weergegeven
+\t -> Witruimte (tab)
+%% kan je een % weergeven
 ```

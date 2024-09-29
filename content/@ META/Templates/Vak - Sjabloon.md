@@ -17,7 +17,7 @@ Slides, oefeningen en andere links naar benodigdheden.
 - 
 
 ### Per hoofdstuk
-In slides via leerpad 
+In (x) via z (voeg link in) 
 
 <div class="notes-links">
 <h1>Notities</h1>

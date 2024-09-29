@@ -34,6 +34,7 @@ Geen beschikbaar
 <p class="header-nolink">Uitgetypte notities per hoofdstuk:</p>
 <div class="waypoint">
 %% Begin Waypoint %%
+- [[CYBR-01-LABO]]
 - [[CYBR-01]]
 
 %% End Waypoint %%

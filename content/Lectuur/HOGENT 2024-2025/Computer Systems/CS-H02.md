@@ -26,7 +26,7 @@ Het fysieke deel van de computer, inclusief onderliggende elektronica.
 
 ## GUI vs. CLI
 Twee types bovenliggende 'Schillen'
-### CLI
+### [[CLI]]
 De 'CLI' of Command Line Interface (nl. Commando Regel Interface) heeft de gebruiker tekst en een invoervak om het besturingssysteem en bovenliggende software te manipuleren.
 
 ![[Pasted image 20240923174959.png]]
