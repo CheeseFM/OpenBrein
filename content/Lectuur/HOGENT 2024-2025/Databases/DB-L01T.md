@@ -1,5 +1,5 @@
 # H1: Inleiding
-Databanktechnologie wordt gebruikt bij opslagenterugophalenvan informatie (data)
+Databanktechnologie wordt gebruikt bij opslagen terug ophalen van informatie (data)
 (bv. Sensoren, biometrie, GPS, loonberekening, ...)
 
 Probleem:
