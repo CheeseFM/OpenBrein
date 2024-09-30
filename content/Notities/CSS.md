@@ -136,3 +136,174 @@ Om te illustreren wanneer we welk type CSS gebruiken zet ik hier een tabel neer 
 # CSS en styling
 ## Stylen met `classes`
 Naast specifieke HTML elementen aanpassen kunnen we ook een klasse aanmaken om dezelfde stijl op verschillende elementen repetitief toe te passen. 
+
+### Structuur
+Om een klasse te definiëren en linken ga je:
+- In CSS een willekeurige (logische) naam typen die je aan je klasse wilt geven met een punt ervoor.
+- In HTML link je hem door bij je element het attribuut ‘class’ te gebruiken gevolgd door de naam van je klasse. 
+
+```HTML
+<p class=’mijnklasse’></p>
+```
+
+```CSS
+.mijnklasse {
+
+}
+```
+
+## Stylen met `ids`
+Nadat je je elementen gestyled hebt met klassen of selecteren kan je unieke elementen nog eens apart aanpassen.
+- Stel je hebt een paragraaf die je een in het vet wilt zetten, dan kan je dit doen met IDs
+
+```HTML
+<p id=”uniekparagraaf”></p>
+```
+
+```CSS
+#uniekparagraaf {
+}
+
+```
+
+# Boxmodel
+Een layout van een webpagina bestaat uit html-objecten en hun positie tegenover elkaar. Eén manier om deze positie aan te passen is margins en padding. 
+- Ze lijken gelijkaardig in functie, witruimte toevoegen tussen bepaalde elementen, maar hebben andere eigenschappen.
+
+![[Pasted image 20240930205407.png]]
+
+We starten met de paragraaf ‘Dit is een paragraaf’. Hier rond zetten we een zwarte border om straks duidelijk te maken wat margins en padding doen. 
+
+>[!warning]
+>De rand (border) is niet de padding of margins. We hebben het over de witruimte die wordt gecreëerd. Ze is enkel demonstratief.
+
+```HTML
+<p>Dit is een paragraaf</p>
+```
+
+```CSS
+p {
+
+    border: 1px solid black;
+
+}
+```
+
+![[Pasted image 20240930205515.png]]
+
+## Padding
+Met padding gaan we de rand rond de content witruimte toevoegen. 
+- Dit kunnen we in het algemeen rond het element doen, maar ook individueel boven, onder, rechts of links doen.
+
+### Voorbeeld 1: Tekst
+In dit geval gaan we aan ons paragraaf witruimte toevoegen.
+
+```CSS
+p {
+    border: 1px solid black;
+    padding: 4px;
+}
+```
+
+
+| Voor styling                         | Na styling                           |
+| ------------------------------------ | ------------------------------------ |
+| ![[Pasted image 20240930205515.png]] | ![[Pasted image 20240930205629.png]] |
+
+
+### Voorbeeld 2: Afbeelding
+Nu gebruiken we het voorbeeld van een foto om te tonen hoe padding daar werkt.
+
+```CSS
+p {
+    border: 1px solid black;
+    padding: 4px;
+}
+```
+
+| Voor styling                         | Na styling                           |
+| ------------------------------------ | ------------------------------------ |
+| ![[Pasted image 20240930205756.png]] | ![[Pasted image 20240930205819.png]] |
+## Margins
+Met margins gaan we de rand tussen dit element en de rondliggende elementen veranderen. 
+- Alweer kunnen we dit algemeen rond het element doen, maar ook individueel boven, onder, rechts of links.
+
+
+```HTML
+<div>
+  <p>Ik wou dat ik margins had.(</p>
+  <p class="margins">Ik heb margins!</p>
+</div>
+
+```
+
+```CSS
+p {
+    border: 1px solid black;
+}
+
+.margins {
+    margin: 5px;
+}
+
+div {
+    border: 2px solid red;
+}
+
+```
+
+![[Pasted image 20240930210007.png]]
+
+## Syntax
+Je kan op verschillende manieren padding en margins in HTML toepassen. Hieronder vind je verschillende manieren om ze toe te passen.
+
+### Lange notatie
+
+| Code                                | Uitleg                                                                                                          |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| `margin`<br>`padding`<br>           | Algemene margin of padding aanpassen, kan beide positief of negatief zijn, uitgedrukt in pixels of percentages. |
+| `margin-top`<br>`padding-top`       | Margin of padding voor boven het element aanpassen.                                                             |
+| `margin-bottom`<br>`padding-bottom` | Margin of padding  voor onder het element aanpassen.                                                            |
+| `margin-left`<br>`padding-left`     | Margin of padding voor rechts van het element aanpassen.                                                        |
+| `margin-right`<br>`padding-right`   | Margin of padding voor links van het element aanpassen.                                                         |
+### Korte notatie
+Om niet voor elke kleine verandering een nieuw CSS stukje aan te maken kunnen we allemaal in één stuk zetten.
+
+#### Verschillende margins of padding
+```CSS
+p {
+    margin-top: 10px;
+    margin-right: 8px;
+    margin-bottom: 2px;
+    margin-left: 6px;
+}
+```
+
+wordt
+
+```CSS
+p {
+    margin: 10px 8px 2px 6px
+}
+```
+
+#### Zelfde bodem en zelfde zij margins of padding
+```CSS
+p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+```
+
+wordt
+
+```CSS
+p {
+    padding: 10px 8px
+}
+```
+
+>[!info]
+>Dit is voor beide margins en padding allebei toepasselijk. 

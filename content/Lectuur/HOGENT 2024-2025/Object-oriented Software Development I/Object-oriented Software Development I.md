@@ -6,6 +6,9 @@
 | ----------------------------------- | ------- | ------- | --- | --------- | ------------ | ---- |
 | Schriftelijk examen (PC, Open boek) | 100%    | 100%    | \|  | OOSD1     | 7            | 175  |
 
+>[!info] 
+>Examens zijn volledig praktisch en er zal geen theorie gevraagd worden.
+
 ## Toebehoren
 Slides, oefeningen en andere links naar benodigdheden.
 - [Documenten - Chamilo (Cursus & Oefeningen)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=64531&tool=Document)

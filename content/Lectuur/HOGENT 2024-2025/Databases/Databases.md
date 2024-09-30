@@ -40,7 +40,6 @@ In [studiewijzer](https://chamilo.hogent.be/index.php?application=Chamilo%5CAppl
 %% Begin Waypoint %%
 - [[DB-H01]]
 - [[DB-H02]]
-- [[DB-L01T]]
 
 %% End Waypoint %%
 </div>
