@@ -35,7 +35,7 @@ Applicatieontwikkelaar: schrijft databankprogramma’s/databankapplicaties
 
 Eindgebruikers: gebruikt databankapplicaties en voert op die manier databankacties uit
 
-Databankmodel = Een schema
+Datamodel = Een schema
 - Beschrijving databankstructuur
 - Specificaties v/d elementen, hun relaties, beperkingen en eigenschappen
 - Opgestelt tijdens ontwerp
@@ -72,11 +72,11 @@ De drie lagen architectuur
 Gegevensonafhakelijkheid: Men wil dat wijzigingen niet te veel impact hebben op de applicaties
 
 Ongestructureerde en gestructureerde gegevens:
-- Ong. : 
+- Ges. : 
 	- Kunnen in een logisch datamodelvoorgesteld worden
 	- Integriteitsregels kunnen opgesteld en afgedwongen worden
 	 -> naam, geboortejaar, geboorteplaats van een kunstenaar
-- Ges.
+- Ong.
 	- kunnen niet op een zinvolle manier worden geïnterpreteerd door een applicatie 
 	-> gesprekken op socialmedia, e-mails
 - Semi-ges
@@ -98,7 +98,7 @@ Cataloog: Schatkist van DBMS
 # H2: Conceptueel model
 Het ontwerpen van een databank bestaat uit 4 fases:
 - Fase1 = Verzamelen en analyseren van de functionele/ inhoudelijkevereisten
-- Fase2 = Conceptueelontwerp•
+- Fase2 = Conceptueelontwerp
 - Fase3 = Logischontwerp
 - Fase4 = Fysiekontwerp
 
