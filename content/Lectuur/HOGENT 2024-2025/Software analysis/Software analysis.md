@@ -33,7 +33,7 @@ In [slides via leerpad](https://chamilo.hogent.be/index.php?go=CourseViewer&appl
 <p class="header-nolink">Uitgetypte notities per hoofdstuk:</p>
 <div class="waypoint">
 %% Begin Waypoint %%
-
+- [[SA-H02]]
 
 %% End Waypoint %%
 </div>

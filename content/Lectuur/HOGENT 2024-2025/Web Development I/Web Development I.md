@@ -1,13 +1,13 @@
 >[!quote] Intro - Github 
 >Het OLOD Web Development I heeft als doel eenvoudige websites te maken door gebruik te maken van HTML5 en CSS. 
 
-# Studiegids ([IbaMaFlex](https://bamaflexweb.hogent.be/BMFUIDetailxOLOD.aspx?b=5&c=1&a=180973))
+# Studiegids ([IbaMaFlex](https://bamaflexweb.hogent.be/BMFUIDetailxOLOD.aspx?b=5&c=1&a=180978))
 --- 
-## Puntenverdeling (Link)
+## Puntenverdeling 
 
-| Onderdeel                       | 1e kans | 2e kans | \|  | Onderdeel         | Studiepunten | Uren |
-| ------------------------------- | ------- | ------- | --- | ----------------- | ------------ | ---- |
-| Schriftelijk examen (op papier) | 100%    | 100%    | \|  | Web Development I | 4            | 100  |
+| Onderdeel            | 1e kans | 2e kans | \|  | Onderdeel         | Studiepunten | Uren |
+| -------------------- | ------- | ------- | --- | ----------------- | ------------ | ---- |
+| Schriftelijk examen  | 100%    | 100%    | \|  | Web Development I | 4            | 100  |
 
 ## Toebehoren
 Slides, oefeningen en andere links naar benodigdheden.
