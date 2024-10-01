@@ -23,4 +23,4 @@ Je kan paswoorden niet geëncrypteerd opslaan aangezien deze encryptie kraakbaar
 
 # Bronnen
 ---
-- ()
+- https://hogenttin.github.io/cybersecurity/h1/password-manager-en-totp/password-manager-en-totp/
