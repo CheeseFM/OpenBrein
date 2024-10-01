@@ -1,3 +1,6 @@
+- 2024-10-01 at 19h26 · [[CYBR-H02]]
+- 2024-10-01 at 19h12 · [[Cybersecurity]]
+- 2024-10-01 at 19h11 · [[CYBR-H01-LAB2]]
 - 2024-10-01 at 16h42 · [[OSD-L04]]
 - 2024-10-01 at 14h17 · [[Object-oriented Software Development I]]
 - 2024-09-30 at 22h07 · [[SA-H02]]
@@ -5,6 +8,3 @@
 - 2024-09-30 at 21h20 · [[Web Development I]]
 - 2024-09-30 at 21h09 · [[DB-H02]]
 - 2024-09-30 at 21h07 · [[CSS]]
-- 2024-09-30 at 20h50 · [[WBDV-INL]]
-- 2024-09-30 at 20h40 · [[Databases]]
-- 2024-09-30 at 19h58 · [[DB-H01]]
