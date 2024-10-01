@@ -42,6 +42,7 @@ In theorieboek [op Chamilo](https://chamilo.hogent.be/index.php?go=course_viewer
 - [[OSD-L01]]
 - [[OSD-L02]]
 - [[OSD-L03]]
+- [[OSD-L04]]
 
 %% End Waypoint %%
 </div>
