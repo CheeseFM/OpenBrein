@@ -37,6 +37,10 @@ Je kan altijd de ingebouwde zoekbalk gebruiken (bovenaan op mobiel, linksboven o
 --- 
 Ik neem handgeschreven notities in de les en herwerk ze na school in een getypte versie op deze website. Ze krijgen verschillende tags:  #kladversie, #uitgewerkt , #volwassen om aan te tonen hoe ver ik sta.
 
+# Toekomstdoelen
+---
+Ik zou het geweldig vinden om van OpenBrein een platform te maken waartoe iedereen zijn notities kan uploaden om toegang te krijgen tot andere notities. Een systeem waar je elkaar kan beoordelen en bijkrikken indien nodig. 
+
 # Praktische info
 ---
 ## ☎️ Contact

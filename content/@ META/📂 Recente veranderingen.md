@@ -1,3 +1,4 @@
+- 2024-10-01 at 20h59 · [[index]]
 - 2024-10-01 at 19h50 · [[CYBR-H02]]
 - 2024-10-01 at 19h49 · [[Passphrase]]
 - 2024-10-01 at 19h48 · [[Notities]]
@@ -7,4 +8,3 @@
 - 2024-10-01 at 19h46 · [[Hash]]
 - 2024-10-01 at 19h43 · [[Password managers]]
 - 2024-10-01 at 19h43 · [[2FA]]
-- 2024-10-01 at 19h42 · [[Cybersecurity kubus]]
