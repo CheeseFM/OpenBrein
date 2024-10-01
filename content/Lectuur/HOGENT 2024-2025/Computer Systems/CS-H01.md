@@ -13,25 +13,25 @@
 # Notities
 --- 
 ## Computer v.s. Embedded system
-Een computer:
+Een [[computer]]:
 - Heeft geen duidelijk doel (=multifunctioneel)
 - Je kan ze programmeren (=functie geven)
 -> Bv. Een laptop
 
-Embedded systeem
+[[Embedded systeem]]
 - Heeft een duidelijk doel
 - Is meestal voorgeprogrammeerd en ingebouwd
 -> Bv. Een wasmachine
 
 ## Hedendaagse technologie
-De meest gebruikte soort technologie is digitale elektronica.
+De meest gebruikte soort technologie is [[Digitaal|digitale]] [[elektronica]].
 
 ## Digitale elektronica
-- Elektronica: Technologie die gebruikt maakt van elektrische signalen om informatie en/of energie te verwerken
+- [[Elektronica]]: Technologie die gebruikt maakt van elektrische signalen om informatie en/of energie te verwerken
 - Digitaal: Maakt gebruik van discrete discontinue waarden (gehele getallen, bv. 1 en 2, maar niet 0,23848283...) -> Je kan het tellen!
-- Binair: Maakt gebruik van twee waarden (bv. 0 & 1)
+- [[Binair]]: Maakt gebruik van twee waarden (bv. 0 & 1)
 
-## Analoog v.s. Digitaal
+## [[Analoog]] v.s. Digitaal
 ### Analoog
 Alle (spanning-s of stroomwaarde) tussen twee bepaalde grenzen heeft een betekenis.
 ![[Pasted image 20240929124433.png]]
@@ -54,7 +54,7 @@ Je kan je digitale computer (telefoon) gebruiken om verschillende taken te doen 
 Redundantie, encryptie en compressie zijn eenvoudiger om toe te passen op digitale gegevens dan analoge.
 
 ## Experimentele technologieën
-### Optische technologie
+### [[Optische technologiën|Optische technologie]]
 Technologische werking a.d.h.v. lichtsignalen
 
 | Voordelen              | Nadelen                               |
@@ -65,7 +65,7 @@ Technologische werking a.d.h.v. lichtsignalen
 -  Modern gebruik: Hybridetechnologieën (Digitaal -> Optisch)
 -> Bv. Internet over glasvezel
 
-### Kwantumtechnologie
+### [[Kwantum computers|Kwantumtechnologie]]
 Technologische werking a.d.h.v. kwantumdeeltjes 
 - Opslag en bewerkingen a.d.h.v. Qubits die tegelijk 0, 1 en 0 & 1 zijn wat resulteert in een waarde van 2 bits.
 

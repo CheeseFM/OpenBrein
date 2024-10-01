@@ -9,7 +9,7 @@
 
 # Notities
 --- 
-## Wat is een besturingssysteem
+## Wat is een [[Besturingssystemen|besturingssystemen]]
 Een besturingssysteem of 'OS' is software die op een computerapparaat draait om de hardware en softwarecomponenten te beheren.
 
 ### Shell
@@ -31,7 +31,7 @@ De 'CLI' of Command Line Interface (nl. Commando Regel Interface) heeft de gebru
 
 ![[Pasted image 20240923174959.png]]
 
-### GUI
+### [[GUI]]
 De 'GUI' of Graphical User Interface (nl. Grafische gebruikersinterface) heeft de gebruiker elementen weer om op een visuele manier (meestal met vensters, cursors, menus, ...) om software en het algemene besturingssysteem te manipuleren.
 
 ![[Pasted image 20240923174741.png]]
@@ -62,7 +62,7 @@ Keuze hangt OS af van:
 - Android
 - Raspbian
 
-## (Open Source) Software licenties
+## (Open Source) [[Software licenties]]
 - EULA: End User License Agreement
 	- Juridisch document die (digitaal) ondertekend moet worden bij installeren software.
 - GPLv2: GNU General Public License version 2 

@@ -20,4 +20,6 @@ Digitale installaties zijn veel gemakkelijker om te maken aangezien het enkel 0 
 Je kan dezelfde hardware gebruiken (denk maar aan een desktop) om geluid, beeld, invoer, ... te geven aan een programma.
 
 ## Klein en draagbaar
-Telefoons zijn veel draagbaarder dan de joekels van kasten gemaakt voor (analoge) muziekproductie door miniaturisatie en evolutie door veelzijdig gebruik.![[Pasted image 20240923172033.png]]
+Telefoons zijn veel draagbaarder dan de joekels van kasten gemaakt voor (analoge) muziekproductie door miniaturisatie en evolutie door veelzijdig gebruik.
+![[Pasted image 20240923172033.png]]
+

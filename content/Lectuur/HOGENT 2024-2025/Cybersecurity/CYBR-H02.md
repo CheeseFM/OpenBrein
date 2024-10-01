@@ -18,12 +18,12 @@ Is persoonlijk, bv. Vind je het oké om een zwakheid in het rooster systeem te e
 - Meestal komt wetgeving na een incident.
 ### Voorbeelden van internationale en nationale 
 #### Europa
-NIS 
+[[NIS]] 
 - Eerste EU-brede wetgeving rond cybersecurity
 - Ging moeizaam
 - (Ingevoerd in 2016)
 
-NIS2 directives
+[[NIS2]] directives
 - Meer verduidelijking
 - Hoe omgaan met snelle technologische vernieuwingen
 - Meer samenwerking tussen lidstaten (bij grote bedreigingen)
@@ -55,4 +55,4 @@ Ethisch hacken toegelaten, mag als:
 
 # Bronnen
 ---
-- 
+- https://hogenttin.github.io/cybersecurity-slides/h2.html#/
