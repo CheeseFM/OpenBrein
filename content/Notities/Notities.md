@@ -17,6 +17,7 @@ Alle notities die ik maak, alfabetisch, via het [[Zettelkasten|zettelkasten]] sy
 - [[Bestand tracken met Git]]
 - [[Besturingssystemen]]
 - [[Binair]]
+- [[Chromium op Fedora (via COPR)]]
 - [[Cisco pakket tracer download (2024)]]
 - [[CLI]]
 - [[Computer]]
