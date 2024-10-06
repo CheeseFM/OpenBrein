@@ -39,11 +39,11 @@ In theorieboek [op Chamilo](https://chamilo.hogent.be/index.php?go=course_viewer
 <p>Ik heb het per les gezet omdat je dit OLOD grotendeels leert door te doen.</p>
 <div class="waypoint">
 %% Begin Waypoint %%
-- [[OSD-L01]]
-- [[OSD-L02]]
-- [[OSD-L03]]
-- [[OSD-L04]]
-- [[OSD-L05]]
+- [[OSD1-L01]]
+- [[OSD1-L02]]
+- [[OSD1-L03]]
+- [[OSD1-L04]]
+- [[OSD1-L05]]
 
 %% End Waypoint %%
 </div>
