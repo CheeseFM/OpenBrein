@@ -30,6 +30,7 @@ Op de [Github thuispagina](https://web-development-i.github.io/overview/) bij el
 <div class="waypoint">
 %% Begin Waypoint %%
 - [[WBDV-H01]]
+- [[WBDV-H02]]
 
 %% End Waypoint %%
 </div>

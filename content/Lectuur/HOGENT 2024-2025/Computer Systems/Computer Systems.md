@@ -31,6 +31,7 @@ In [studiewijzer bij leerpaden](https://chamilo.hogent.be/index.php?application=
 %% Begin Waypoint %%
 - [[CS-H01]]
 - [[CS-H02]]
+- [[CS-H03]]
 
 %% End Waypoint %%
 </div>

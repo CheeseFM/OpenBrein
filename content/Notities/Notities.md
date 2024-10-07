@@ -89,6 +89,7 @@ Alle notities die ik maak, alfabetisch, via het [[Zettelkasten|zettelkasten]] sy
 - [[Remote origin toevoegen]]
 - [[Remote repo clonen en wijzigingen pushen]]
 - [[Reverse proxy]]
+- [[Root (bestanden)]]
 - [[Router]]
 - [[Scheduling]]
 - [[Schil (Informatica)]]
