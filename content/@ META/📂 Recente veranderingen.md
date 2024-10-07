@@ -1,5 +1,6 @@
-- 2024-10-07 at 14h13 · [[Computer Systems]]
-- 2024-10-07 at 14h12 · [[CS-H03]]
+- 2024-10-07 at 15h14 · [[CS-LINUX]]
+- 2024-10-07 at 14h34 · [[CS-H03]]
+- 2024-10-07 at 14h33 · [[Computer Systems]]
 - 2024-10-07 at 14h12 · [[WBDV-H02]]
 - 2024-10-07 at 09h16 · [[Root (bestanden)]]
 - 2024-10-07 at 09h09 · [[Notities]]
@@ -7,4 +8,3 @@
 - 2024-10-04 at 15h42 · [[Object-oriented Software Development I]]
 - 2024-10-04 at 12h24 · [[DB-H03]]
 - 2024-10-04 at 11h30 · [[UXPlay via VLC]]
-- 2024-10-04 at 11h12 · [[AV Decoding Fedora]]

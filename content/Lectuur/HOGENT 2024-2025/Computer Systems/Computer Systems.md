@@ -32,6 +32,7 @@ In [studiewijzer bij leerpaden](https://chamilo.hogent.be/index.php?application=
 - [[CS-H01]]
 - [[CS-H02]]
 - [[CS-H03]]
+- [[CS-LINUX]]
 
 %% End Waypoint %%
 </div>
