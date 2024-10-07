@@ -52,3 +52,46 @@ Ze bestaat uit
 - Een dollarteken om aan te geven dat de interpreter klaar is voor ingave.
 
 # Commandostructuur
+## Wat is een commando?
+Een oproep in de vorm van tekst naar een softwareprogramma dat uitgevoerd wordt in de CLI en een actie op de computer uitvoerd.
+
+## Opbouw commando
+Een commando wordt opgebouwd uit de roepnaam, haar opties en argumenten. 
+
+We nemen het voorbeeld van `ls`, een commando om de inhoud van een (huidige) map te tonen.
+
+```Bash
+ls -lh Documents
+```
+
+- De roepnaam `ls` vraagt naar de software
+- `Documents` is de map die we willen inspecteren, ofwel het 'argument'
+- `-lh`  bestaat uit twee verschillende opties:
+	- `-l`: Toont uitgebreidere informatie
+	- `-h`: Maakt het leesbaarder voor mensen
+
+### Opties
+Voor nieuwere commando's kan het zijn dat er een langere versie bestaat
+- i.p.v. `-h` voor leesbaarheid te gebruiken, kan men de engelse term `--human-readable` gebruiken (nl. Leesbaar voor mensen)
+- Pas op, je moet wel een dubbel koppelteken gebruiken zodat er geen verwarring ontstaat voor de interpreter `--`
+
+Kortere opties kan je aan elkaar zetten bv. `-lhvf`, langere versies moet je altijd apart zetten `--human-readable --long --verbose`
+
+### Argumenten
+Er kunnen soms meerdere argumenten gebruikt worden in een commando, zoals:
+
+```Bash
+mv /tekstbestand.txt /mapMetTekstbestanden/tekstbestand.txt
+```
+
+Waarin je eerst het doelbestand selecteert, waarna de doelmap waarnaartoe je het bestand wil verzetten (het `mv` commando)
+
+Ook kunnen opties argumenten hebben
+
+```Bash
+usermod -aG voetballer Doku
+```
+
+- De optie `-aG` ofwel 'append group' (nl. Toevoegen aan groep) heeft twee argumenten
+	- De groep waaraan de gebruiker wordt toegevoegd -> `voetballer`
+	- De gebruiker die toegevoegd wordt aan de groep -> `Doku`
