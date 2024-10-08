@@ -99,6 +99,7 @@ Alle notities die ik maak, alfabetisch, via het [[Zettelkasten|zettelkasten]] sy
 - [[Spacing]]
 - [[SSH verbinding]]
 - [[Statisch IP instellen op Windows]]
+- [[Stefaan Samyn LORE]]
 - [[Switch]]
 - [[TCP - IP model]]
 - [[TCP]]

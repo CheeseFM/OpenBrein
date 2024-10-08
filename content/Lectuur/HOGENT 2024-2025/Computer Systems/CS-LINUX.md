@@ -95,3 +95,39 @@ usermod -aG voetballer Doku
 - De optie `-aG` ofwel 'append group' (nl. Toevoegen aan groep) heeft twee argumenten
 	- De groep waaraan de gebruiker wordt toegevoegd -> `voetballer`
 	- De gebruiker die toegevoegd wordt aan de groep -> `Doku`
+
+## Geschiedenis
+Alle uitgevoerde commando's worden in de geschiedenislijst opgeslagen. Deze kan je vinden in je thuismap als `.bash_history` of door het commando `history` uit te voeren.
+
+**Voorbeeld** (`.bash_history`)
+```bash
+    6  git pull
+    7  ls
+    8  git status
+    9  git init
+   10  git add 
+   11  clear
+   12  cd ..
+   13  rm -rf Quartz/
+   14  mkdir Quartz
+   15  ls
+   16  cd Quartz/
+   17  ls
+   18  mkdir OpenBrein
+   19  ls -lhvf
+   20  cd OpenBrein
+   21  git init
+```
+
+### Met de pijtljes
+Door de pijtljes omhoog en omlaag te duwen op je toetsenbord kan je door de geschiedenis browsen.
+
+### Met de uitroeptekens
+- `!6` voert het vijfde uitgevoerde commando uit (in ons geval `git pull`)
+- `!ls` voert het laatste zelfde type commando uit (in ons geval `ls -lhfv`)
+- `!!` voert het laatste ingevoerd commando uit.
+
+### Met shortcuts
+Door `Ctrl + R` te typen kan je zoeken in je geschiedenis.
+
+# Variabelen
