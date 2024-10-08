@@ -1,6 +1,6 @@
-- 2024-10-08 at 14h57 · [[Stefaan Samyn LORE]]
+- 2024-10-08 at 15h17 · [[Stefaan Samyn LORE]]
+- 2024-10-08 at 15h17 · [[OSD1-L06]]
 - 2024-10-08 at 14h57 · [[Notities]]
-- 2024-10-08 at 13h55 · [[OSD1-L06]]
 - 2024-10-08 at 13h55 · [[Object-oriented Software Development I]]
 - 2024-10-08 at 07h46 · [[CS-LINUX]]
 - 2024-10-07 at 14h34 · [[CS-H03]]
