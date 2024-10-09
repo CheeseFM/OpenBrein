@@ -130,4 +130,4 @@ Door de pijtljes omhoog en omlaag te duwen op je toetsenbord kan je door de gesc
 ### Met shortcuts
 Door `Ctrl + R` te typen kan je zoeken in je geschiedenis.
 
-# Variabelen
+## Variabelen

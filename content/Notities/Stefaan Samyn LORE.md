@@ -6,3 +6,5 @@
 - Gaf vroeger brei les?
 - Rookt
 - "Jammer" - Iets lukt niet voor student
+- Oud (heeft pauze nodig)
+- "Oepsie" - Ongeluk
