@@ -3,10 +3,6 @@ title: Openbrein | Mijn notities, gepubliceerd online.
 ---
 [🏫 HOGENT](https://www.hogent.be) [🏡 Chamilo](https://chamilo.hogent.be/#") [👋 Wallie](https://hogent.sharepoint.com/sites/IntranetStudenten) [📯 iBaMaFlex!](https://ibamaflex.hogent.be) 
 
->[!tip] Functietoevoeging 29/09
->- Je kan nu reacties plaatsen onder notities a.d.h.v. Github Discussions!
->- Duidelijker notitie dialoog bij elk vak
-
 ---
 **Welkom op mijn website! Hierop zet ik mijn notities en samenvattingen online, en link ik je naar handige materie.** 
 
