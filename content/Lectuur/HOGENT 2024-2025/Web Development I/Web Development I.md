@@ -31,6 +31,7 @@ Op de [Github thuispagina](https://web-development-i.github.io/overview/) bij el
 %% Begin Waypoint %%
 - [[WBDV-H01]]
 - [[WBDV-H02]]
+- [[WBDV-H03]]
 
 %% End Waypoint %%
 </div>

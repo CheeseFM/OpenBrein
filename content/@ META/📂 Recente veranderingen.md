@@ -1,3 +1,5 @@
+- 2024-10-10 at 21h05 · [[WBDV-H03]]
+- 2024-10-10 at 13h42 · [[Web Development I]]
 - 2024-10-10 at 08h35 · [[OS1-L07]]
 - 2024-10-09 at 19h17 · [[Object-oriented Software Development I]]
 - 2024-10-09 at 19h13 · [[SA-H03]]
@@ -6,5 +8,3 @@
 - 2024-10-09 at 11h25 · [[Projecten]]
 - 2024-10-09 at 10h40 · [[Notities]]
 - 2024-10-09 at 09h33 · [[index]]
-- 2024-10-08 at 18h33 · [[CS-LINUX]]
-- 2024-10-08 at 15h17 · [[OSD1-L06]]
