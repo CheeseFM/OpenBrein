@@ -1,3 +1,5 @@
+- 2024-10-09 at 19h20 · [[OS1-L07]]
+- 2024-10-09 at 19h17 · [[Object-oriented Software Development I]]
 - 2024-10-09 at 19h13 · [[SA-H03]]
 - 2024-10-09 at 15h34 · [[Software analysis]]
 - 2024-10-09 at 15h29 · [[CYBR-H02]]
@@ -6,5 +8,3 @@
 - 2024-10-09 at 09h33 · [[index]]
 - 2024-10-08 at 18h33 · [[CS-LINUX]]
 - 2024-10-08 at 15h17 · [[OSD1-L06]]
-- 2024-10-08 at 13h55 · [[Object-oriented Software Development I]]
-- 2024-10-07 at 14h34 · [[CS-H03]]
