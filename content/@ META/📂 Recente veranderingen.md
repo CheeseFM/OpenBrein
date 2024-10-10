@@ -1,4 +1,4 @@
-- 2024-10-09 at 19h20 · [[OS1-L07]]
+- 2024-10-10 at 08h35 · [[OS1-L07]]
 - 2024-10-09 at 19h17 · [[Object-oriented Software Development I]]
 - 2024-10-09 at 19h13 · [[SA-H03]]
 - 2024-10-09 at 15h34 · [[Software analysis]]
