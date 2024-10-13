@@ -6,6 +6,11 @@
 - Nut kennen van een behoeftenanalyse
 - Verschillende soorten behoeften kunnen benoemen en uitleggen
 - Nut kennen van een usecase diagram
+- Opstellen van een usecase diagram op basis van een context
+- Nut kennen van een activitydiagram
+- Opstellen van een activitydiagram op basis van een usecase scenario
+- Nut kennen van testscenario’s
+- Opstellen van testscenario’s op basis van een usecase scenario
 
 # Notities
 --- 
@@ -115,6 +120,69 @@ We kunnen ook kijken of het non-functioneel ook goed is?
 Vanaf we de functionele vereisten vastgelegd hebben kunnen we verder met de rest van de boel.
 ![[Pasted image 20241009191214.png]]
 
+## Use case diagram
+Visualiseert de [[#Use cases|use cases]] in een diagram. Ze heeft twee onderdelen:
+- De gebruiker
+- De functionele requirements
+
+![[Pasted image 20241012113827.png]]
+
+### Includes
+Soms omvatten bepaalde vereisten (bv. het zoeken van documenten) automatisch andere vereisten (een voorvertoning van documenten). 
+- Dit betekent dat het gedrag van de ene use case altijd een onderdeel is van de andere, en niet optioneel is.
+- We noteren dit a.d.h.v. een pijl en `<<include>>`
+![[Pasted image 20241012115640.png]]
+
+### Extend
+Sommige vereisten kunnen optioneel andere vereisten gebruiken (bv. het beheren van folders bereid het uploaden van documenten uit)
+- use case A voert use case B uit tijdens een alternatief verloop
+- We noteren dit a.d.h.v. een pijl en `<<extend>>`
+
+![[Pasted image 20241012115629.png]]
+
+## Activity diagram
+Stelt de verlopen voor van de use case voor in een diagram. 
+![[Pasted image 20241012120901.png]]
+
+### Onderdelen
+Zoals gezien op vorige foto bestaat de use-case diagram uit enkele vaste elementen
+
+| Foto                                 | Onderdeel     | Omschrijving                                                                                 |
+| ------------------------------------ | ------------- | -------------------------------------------------------------------------------------------- |
+| ![[Pasted image 20241012120709.png]] | Initial node  | De start van onze use-case                                                                   |
+| ![[Pasted image 20241012120725.png]] | Activity      | Activiteit die het systeem onderneemt (bv. Het systeem registreert de abonnee als aangemeld) |
+| ![[Pasted image 20241012120647.png]] | Decision node | Je neemt een alternatief pad afhankelijk van de beslissing.                                  |
+| ![[Pasted image 20241012120641.png]] | Merge node    | Je voegt twee paden samen in één pad (flow)                                                  |
+| ![[Pasted image 20241012120715.png]] | Final node    | Het einde van een pad (+ mogelijke acties genomen na einde)                                  |
+
+## Testscenarios
+### Nut
+Je wil zeker zijn dat de software doet wat jij verwacht, dus gaan we de software testen.
+- Hieruit kunnen we ook alternatieve verlopen opstellen bij mogelijke ongeldige uitvoering van programma
+
+![[Pasted image 20241012121716.png]]
+
+### Tabel
+Om de testen te documenteren gaan we die in een tabel plaatsen met de vast structuur:
+- Naam
+- Activiteiten
+- Testcase
+- Data
+- Verwacht resultaat
+- Gekregen (reëel) resultaat
+- Status
+
+**Goede testcase**
+
+| Naam      | Acitiviteiten                                       | Testcase                                                   | Data                                                  | Verwacht       | Reëel          | Status |
+| --------- | --------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------- | -------------- | -------------- | ------ |
+| Aanmelden | 1. Aanmelden kiezen<br>2. Login en paswoord ingeven | Bestaande abonnee:<br>- Geldige login<br>- Geldig paswoord | gebruiker: abonnee@gmail.com<br>paswoord: abonnee1234 | login geslaagd | login geslaagd | OK!    |
+
+**Slechte testcase**
+
+| Naam      | Acitiviteiten                                       | Testcase                                                     | Data                                                       | Verwacht                   | Reëel          | Status   |
+| --------- | --------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------- | -------------------------- | -------------- | -------- |
+| Aanmelden | 1. Aanmelden kiezen<br>2. Login en paswoord ingeven | Onbestaande abonnee:<br>- Geldige login<br>- Geldig paswoord | gebruiker: niet-abonnee@gmail.com<br>paswoord: abonnee1324 | foutmelding foutieve login | login geslaagd | NIET OK! |
 # Bronnen
 ---
 - [Slides - Chamilo Leerpaden](https://chamilo.hogent.be/index.php?application=Chamilo%5CApplication%5CWeblcms&go=CourseViewer&course=62361&tool=LearningPath&tool_action=ComplexDisplay&publication=2379863&preview_content_object_id=4839204&learning_path_action=Viewer&child_id=143859)

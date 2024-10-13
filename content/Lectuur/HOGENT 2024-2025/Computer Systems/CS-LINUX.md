@@ -131,3 +131,159 @@ Door de pijtljes omhoog en omlaag te duwen op je toetsenbord kan je door de gesc
 Door `Ctrl + R` te typen kan je zoeken in je geschiedenis.
 
 ## Variabelen
+Met variabelen in bash kan de gebruiker of shell gegevens opslaan. Er bestaan twee typen variabelen:
+- Omgevingsvariabelen: 
+
+### Lokale Variabele
+Zijn enkel beschikbaar in je huidige terminal of terminal-venstertje. Ze gaan verloren bij het sluiten van die shell.
+
+```Bash
+mijnvariabele=200
+```
+
+```Bash
+echo $mijnvariabele
+UITVOER: 200
+```
+
+Bij het opvragen van de variabele plaatsen we een dollarteken voor haar naam. Dit zorgt ervoor dat bash weet dat het om een variabele gaat. Bv.
+
+```bash
+echo "Deze boom is mijnvariabele"
+UITVOER: Deze boom is mijnvariabele
+```
+
+Maar
+
+```Bash
+echo "Deze boom is $mijnvariabele"
+UITVOER: Deze boom is 200
+```
+
+### Omgevingsvariabelen
+Zijn beschikbaar voor het volledige systeem maar gaan ook verloren bij het afsluiten van je sessie (terminalvenster, of bij server tty1, 2, ...)
+
+We maken altijd eerst een normale variabele aan en promoveren ze daarna naar een omgevingsvariabele met het commando `export`. 
+
+```Bash
+export mijnvariabele
+```
+
+Om nu te zien dat ze effectief een omgevingsvariabele is geworden kunnen we het `env` commando uitvoeren en de lijst met omgevingsvariabelen ophalen.
+
+**Fragment `env` commando (na uitvoeren export)**
+```Bash {4}
+...
+PATH=/home/cheese/.local/bin:/home/cheese/.local/bin:/home/cheese/.local/bin:/home/cheese/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin
+GDMSESSION=gnome
+BLACKBOX_THEMES_DIR=/home/cheese/.var/app/com.raggesilver.BlackBox/data/blackbox/schemes
+mijnvariabele=200
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+MAIL=/var/spool/mail/cheese
+TERM_PROGRAM=BlackBox
+...
+```
+
+a.d.h.v. `unset` kunnen we de omgevingsvariabele ontslaan naar een normale variabele.
+
+### Path variabele
+De `$PATH` variabele bevat waar het systeem gaat zoeken voor programma's.
+
+```Bash
+echo $PATH
+UITVOER:
+/home/cheese/.local/bin:/home/cheese/.local/bin:/home/cheese/.local/bin:/home/cheese/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin
+```
+
+### Omgevingsvariabelen vastzetten
+Zoals je ziet bij `$PATH` zal die altijd klaar staan zonder die zelf te moeten exporteren. 
+- Dit komt doordat die bij het opstarten automatisch wordt vastgelegd via het `.bashrc` bestandje
+
+## Bashrc
+Bij het opstarten wordt het bash-script `.bashrc` in de thuismap van de gebruiker uitgevoerd. Hierin kan je vanalles zetten maar basis staat er in:
+
+```Bash
+# .bashrc
+
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+    . /etc/bashrc
+fi
+
+# User specific environment
+if ! [[ "$PATH" =~ "$HOME/.local/bin:$HOME/bin:" ]]; then
+    PATH="$HOME/.local/bin:$HOME/bin:$PATH"
+fi
+export PATH
+
+# Uncomment the following line if you don't like systemctl's auto-paging feature:
+# export SYSTEMD_PAGER=
+
+# User specific aliases and functions
+if [ -d ~/.bashrc.d ]; then
+    for rc in ~/.bashrc.d/*; do
+        if [ -f "$rc" ]; then
+            . "$rc"
+        fi
+    done
+fi
+unset rc
+export PATH=/home/cheese/.local/bin:$PATH
+```
+
+- Je ziet bv. dat hier de declaratie van `PATH` wordt gedaan.
+
+## Aliassen
+Een lang commando kan omgezet worden in een verkorte 'alias'. Het commando `ls` is basis een alias voor `alias ls='ls --color=auto'` zodat jij mooie kleurtjes krijgt.
+- Je kan eender welk commando, inclusief onbestaande configureren als alias.
+
+**Lange, herhalende opties**
+Als we `ls` altijd uitvoeren met de opties `-lhvf` dan kunnen we dit in een alias voor ls zetten.
+
+**Voorbeeld 'Hello World!'**
+Met wat bash scripting kunnen we aliassen gebruiken om ons eigen 'commando's' aan te maken
+
+```bash
+alias helloworld='echo "Hello World!"'
+```
+
+```Bash
+helloworld
+UITVOER: Hello World!
+```
+
+
+Om een alias te verwijderen types we `unalias`
+
+>[!warning]
+>Zoals variabelen zijn aliassen per sessie, om ze altijd te kunnen gebruiken moet je ze in de `.bashrc` van je gebruiker zetten.
+
+## Aanhalingstekens
+### Enkel
+Enkele aanhalingstekens ( ' )voorkomen dat de shell alle speciale tekens "interpreteert" of uitbreidt. 
+![[Pasted image 20241013150424.png]]
+
+### Dubbele
+Dubbele aanhalingstekens ( " )voorkomen dat de shell sommige metatekens interpreteert, inclusief glob-tekens. (bv. `*`)
+
+![[Pasted image 20241013150435.png]]
+
+### Backtics
+Achterwaardse aanhalingstekens veroorzaken
+"opdrachtvervanging" waardoor een opdracht kan worden
+uitgevoerd binnen de regel van een andere opdracht.
+![[Pasted image 20241013150444.png]]
+
+### Escape
+Door `\`  te gebruiken kan je net zoals in elke programmeertaal een escape sequence invoeren. Het volgende teken zal worden niet worden geïnterpeteert en wordt gewoon weergegeven.
+
+## Meer commando's op één lijn
+Je kan in bash meerdere commando's uitvoeren a.d.h.v. één lijn. Je doet dit a.d.h.v. de volgende operatoren
+- `;` voer commando's uit ongeacht of het vorige commando is gelukt **(compound)**
+- `&&` voert commando's uit als het vorige gelukt is **(and)**
+- `||` voert enkel het volgende commando uit als het vorige niet gelukt is. **(or)**
+
+## Hulp vragen
+Kan via:
+- Uitlegpagina's (`man COMMANDO` -> bv. `man ls`)
+- 

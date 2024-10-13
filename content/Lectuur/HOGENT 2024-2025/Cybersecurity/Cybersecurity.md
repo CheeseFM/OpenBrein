@@ -1,3 +1,5 @@
+#Patroon
+
 >[!quote] Chamilo documenten - Studiegids Cybersecurity
 >In deze cursus zoomen we in op de verschillende aspecten van cybersecurity. Wat doen hackers precies, en wat willen ze? Waarom is cybersecurity belangrijk? Wat kan ik zelf doen om mij te beschermen? En hoe bescherm je een IT-omgeving?
 >

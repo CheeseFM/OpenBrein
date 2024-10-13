@@ -1,3 +1,4 @@
+#Patroon
 # Studiegids ([IbaMaFlex](https://bamaflexweb.hogent.be/BMFUIDetailxOLOD.aspx?b=5&c=1&a=180972))
 ---
 ## Puntenverdeling
@@ -39,13 +40,13 @@ In theorieboek [op Chamilo](https://chamilo.hogent.be/index.php?go=course_viewer
 <p>Ik heb het per les gezet omdat je dit OLOD grotendeels leert door te doen.</p>
 <div class="waypoint">
 %% Begin Waypoint %%
-- [[OS1-L07]]
 - [[OSD1-L01]]
 - [[OSD1-L02]]
 - [[OSD1-L03]]
 - [[OSD1-L04]]
 - [[OSD1-L05]]
 - [[OSD1-L06]]
+- [[OSD1-L07]]
 
 %% End Waypoint %%
 </div>

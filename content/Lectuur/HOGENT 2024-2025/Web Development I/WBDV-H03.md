@@ -8,7 +8,6 @@
 - Form controls
 - Toegankelijkheid
 
-​
 
 # Notities
 --- 

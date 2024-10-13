@@ -1,3 +1,4 @@
+#Patroon
 # Studiegids ([IbaMaFlex](https://bamaflexweb.hogent.be/BMFUIDetailxOLOD.aspx?b=5&c=1&a=180973))
 --- 
 ## Puntenverdeling (Link)

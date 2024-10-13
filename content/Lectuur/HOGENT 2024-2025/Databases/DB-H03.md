@@ -14,7 +14,7 @@ Men kan een aflevering van een serie niet uniek identificeren zonder de naam van
 Is bestaansafhankelijk van 1 of meerdere andere entiteittypes en heeft die entiteittypes nodig om zich te kunnen identificeren. 
 - De kandidaatsleutelattribuuttypes van het zwakke entiteittype vormt een partiële kandidaatsleutel. De volledige sleutel wordt gevormd door haar relatie met een andere entiteittype -> Ze is bestaansafhankelijk
 
-Zwakke entiteitsrelaties bouwen we op met een stippellijn
+Zwakke entiteitsrelaties bouwen we op met een stippellijn.
 
 ## Upgedate gang van opstellen ERD
 1. Entiteitstype

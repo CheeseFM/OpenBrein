@@ -1,3 +1,5 @@
+#Lineair 
+
 >[!quote] Intro - Github 
 >Het OLOD Web Development I heeft als doel eenvoudige websites te maken door gebruik te maken van HTML5 en CSS. 
 

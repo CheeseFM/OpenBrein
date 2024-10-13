@@ -28,7 +28,7 @@ Focust op chest, schouders, triceps en benen
 | ------ | ----- | ------- | -------- | --- |
 | Week 1 | 5 x 2 | 5 x 2   | 18       | /   |
 | Week 2 | 5 x 2 | 5 x 2   | 18       | 75  |
-|        |       |         |          |     |
+| Week 3 | 5 x 2 | 5 x 2   | 25.2     | 85  |
 
 ## Workout B
 Focust op rug, benen en biceps

@@ -1,3 +1,5 @@
+#Lineair
+
 >[!quote] Chamilo - Databases
 >Dit opleidingsonderdeel beoogt de studenten een inzicht te geven in de ontwikkeling van informatiesystemen. Meer bepaald het verzamelen, registreren en klasseren van informatie in een database en dit op een performante en duurzame manier. De studenten leren een conceptueel gegevensmodel maken en dit model omzetten naar een relationeel model.
 
@@ -33,7 +35,7 @@ In [studiewijzer](https://chamilo.hogent.be/index.php?application=Chamilo%5CAppl
 <div class="notes-links">
 <h1>Notities</h1>
 <p class="header-nolink">Handgeschreven notities</p>
-<p>Het digitaal notaboek vind je  <a href="https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing">hier</a>.</p>
+<p>Oefeningen en vlugge notities  <a href="https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing">hier</a>.</p>
 
 <p class="header-nolink">Uitgetypte notities per hoofdstuk:</p>
 <div class="waypoint">
@@ -41,6 +43,7 @@ In [studiewijzer](https://chamilo.hogent.be/index.php?application=Chamilo%5CAppl
 - [[DB-H01]]
 - [[DB-H02]]
 - [[DB-H03]]
+- [[DB-H04]]
 
 %% End Waypoint %%
 </div>
