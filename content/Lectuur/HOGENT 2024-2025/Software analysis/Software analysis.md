@@ -36,6 +36,7 @@ In [slides via leerpad](https://chamilo.hogent.be/index.php?go=CourseViewer&appl
 %% Begin Waypoint %%
 - [[SA-H02]]
 - [[SA-H03]]
+- [[SA-H04]]
 
 %% End Waypoint %%
 </div>

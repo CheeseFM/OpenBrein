@@ -40,6 +40,7 @@ Geen beschikbaar
 - [[CYBR-H01-LAB2]]
 - [[CYBR-H01]]
 - [[CYBR-H02]]
+- [[CYBR-H03]]
 
 %% End Waypoint %%
 </div>
