@@ -1,9 +1,14 @@
 ---
 title: Openbrein | Mijn notities, gepubliceerd online.
 ---
-[🏫 HOGENT](https://www.hogent.be) [🏡 Chamilo](https://chamilo.hogent.be/#") [👋 Wallie](https://hogent.sharepoint.com/sites/IntranetStudenten) [📯 iBaMaFlex!](https://ibamaflex.hogent.be) 
+D[🏫 HOGENT](https://www.hogent.be) [🏡 Chamilo](https://chamilo.hogent.be/#") [👋 Wallie](https://hogent.sharepoint.com/sites/IntranetStudenten) [📯 iBaMaFlex!](https://ibamaflex.hogent.be) 
 
 ---
+
+>[!info]
+>Ja gasten sorry ma kan dit niet meer serieus nemen, mijn notities zullen kwalitatief wa lager liggen. Komt wel goed komt wel goed 
+>**^ Team Openbrein**
+
 **Welkom op mijn website! Hierop zet ik mijn notities en samenvattingen online, en link ik je naar handige materie.** 
 
 Tijdelijk (voor de komende 3+ jaar) studeer ik informatica en mijn notities zullen dit reflecteren. Daarom is deze site het meest gebruiksvriendelijk gemaakt voor mensen die iets in dezelfde trend studeren / interesses hebben.
