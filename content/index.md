@@ -5,9 +5,10 @@ title: Openbrein | Mijn notities, gepubliceerd online.
 
 ---
 
->[!info]
->Ja gasten sorry ma kan dit niet meer serieus nemen, mijn notities zullen kwalitatief wa lager liggen. Komt wel goed komt wel goed 
->**^ Team Openbrein**
+>[!info] **17 t.e.m. 20 okt** 
+>Systeem wordt volledig herwerkt - info volgt
+>*^ Team Openbrein* 
+>
 
 **Welkom op mijn website! Hierop zet ik mijn notities en samenvattingen online, en link ik je naar handige materie.** 
 
