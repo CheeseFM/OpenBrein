@@ -33,7 +33,7 @@ Focust op chest, schouders, triceps en benen
 ## Workout B
 Focust op rug, benen en biceps
 - [[Pullup]] (Rug): 3 sets, 10 reps
-- [[Seated cable row]] (Rug): 3 sets, 10 reps
+- [[Seated row]] (Rug): 3 sets, 10 reps
 - [[Deadlift]] (Rug, benen): 4 sets, 8 reps
 - [[Bicep curl]] (Biceps): 3 sets, 10 reps
 

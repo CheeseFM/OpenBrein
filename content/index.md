@@ -5,7 +5,7 @@ title: Openbrein | Mijn notities, gepubliceerd online.
 
 ---
 
->[!info] **17 t.e.m. 20 okt** 
+>[!info] **20 t.e.m. 27 okt** 
 >Systeem wordt volledig herwerkt - info volgt
 >*^ Team Openbrein* 
 >
