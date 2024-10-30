@@ -44,6 +44,7 @@ In [studiewijzer](https://chamilo.hogent.be/index.php?application=Chamilo%5CAppl
 - [[DB-H02]]
 - [[DB-H03]]
 - [[DB-H04]]
+- [[DB-H05]]
 
 %% End Waypoint %%
 </div>

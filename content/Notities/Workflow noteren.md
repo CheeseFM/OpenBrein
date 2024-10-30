@@ -11,10 +11,13 @@ Bekijken wat we de volgende dag gaan zien zodat ik al een idee heb van wat er ga
 - Waar: Maakt niet uit
 
 # Tijdens de les
-Handgeschreven notities op de tablet, nu ben ik het [[Cornell systeem]] aan het uitproberen waarvan ik de 'samenvatting' grotendeels vervang met de leerplandoelstellingen 
+Handgeschreven notities, nu ben ik het [[Cornell systeem]] aan het uitproberen waarvan ik de 'samenvatting' grotendeels vervang met de leerplandoelstellingen 
 
-# Na school (+/- 30 - 60 min)
-Herbekijken notities genomen in de les en verschoon ik ze door ze uit te typen en linken te leggen met al gekende en nieuwe onderwerpen.
+- Hoe: Goodnotes (6) op een iPad
 
-- Hoe: Via Obsidian en het [[Zettelkasten]] systeem
+# Na school (+/- 15 - 30 min)
+Herbekijken notities genomen in de les en verschoon ik ze door met kleuren te werken en mijn geschrift leesbaarder te maken. Ook voeg ik diagrammen toe indien toepasselijk of maak ik ze leesbaarder
+
 - Waar: Thuis of in de bib
+
+# Voor de examens
