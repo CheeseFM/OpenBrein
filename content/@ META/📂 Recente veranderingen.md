@@ -1,3 +1,4 @@
+- 2024-11-01 at 13h29 · [[index]]
 - 2024-11-01 at 13h25 · [[HOGENT 2024-2025]]
 - 2024-11-01 at 13h11 · [[Computer Systems]]
 - 2024-11-01 at 13h10 · [[Cybersecurity]]
@@ -5,6 +6,5 @@
 - 2024-11-01 at 13h10 · [[IT Fundamentals]]
 - 2024-11-01 at 13h09 · [[Software analysis]]
 - 2024-11-01 at 13h09 · [[Object-oriented Software Development I]]
-- 2024-11-01 at 12h15 · [[index]]
 - 2024-11-01 at 12h12 · [[Workflow noteren]]
 - 2024-11-01 at 12h07 · [[Projecten]]

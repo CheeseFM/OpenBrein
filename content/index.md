@@ -6,7 +6,9 @@ title: Openbrein | Mijn notities, gepubliceerd online.
 ---
 
 >[!info] **30 t.e.m. 31 okt** 
-> [[Workflow noteren]] aangepast, alle notities & samenvattingen te vinden per vak.
+> - [[Workflow noteren]] aangepast, alle notities & samenvattingen te vinden per vak.
+> - Shortcuts toegevoegd aan [[HOGENT 2024-2025]]
+> - Pagina's aangepast voor verduidelijking
 >*^ Team Openbrein* 
 >
 
