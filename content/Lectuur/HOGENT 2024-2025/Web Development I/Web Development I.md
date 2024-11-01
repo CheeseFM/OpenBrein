@@ -28,7 +28,7 @@ Op de [Github thuispagina](https://web-development-i.github.io/overview/) bij el
 <h2>Handgeschreven notities</h2>
 <p>Het digitaal notaboek vind je  <a href="https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing">hier</a>.</p>
 
-<h2>Uitgetypt per hoofdstuk</h2>
+<h2>Samenvattingen</h2>
 <div class="waypoint">
 %% Begin Waypoint %%
 - [[WBDV-H01]]

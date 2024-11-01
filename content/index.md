@@ -6,7 +6,7 @@ title: Openbrein | Mijn notities, gepubliceerd online.
 ---
 
 >[!info] **30 t.e.m. 31 okt** 
->Systeem wordt volledig herwerkt - info volgt
+> [[Workflow noteren]] aangepast, alle notities & samenvattingen te vinden per vak.
 >*^ Team Openbrein* 
 >
 

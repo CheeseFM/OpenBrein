@@ -21,9 +21,7 @@ kanban-plugin: board
 
 ## Deze maand
 
-- [ ] OpenBrein ADS
 - [ ] Wandelroutes Loki
-- [ ] Leren autorijden
 
 
 ## Dit jaar
@@ -33,7 +31,13 @@ kanban-plugin: board
 - [ ] Leren tekenen
 - [ ] Selfhosted Openbrein
 - [ ] Cisco certificaat
+- [ ] OpenBrein ADS
 - [ ] [[Rijbewijs B]]
+- [ ] Leren autorijden
+
+
+## Klaar
+
 
 
 ***
@@ -55,6 +59,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
 ```
 %%

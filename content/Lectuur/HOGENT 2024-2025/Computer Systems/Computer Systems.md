@@ -12,7 +12,7 @@
 | Examens   | 100%    | 100%    | \|  | Computer Systems | 4            | 100  |
 ## Toebehoren
 Slides, oefeningen en andere links naar benodigdheden.
-- [Leerpaden - Chamilo (Slides, Lesopnames & Oefeningen)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=59249&tool=LearningPath&browser=Table&tool_action=Browser)
+- [Chamilo (Slides, Lesopnames & Oefeningen)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=59249&tool=LearningPath&browser=Table&tool_action=Browser)
 - [Labo's -  NetAcad](https://www.netacad.com/courses/linux-essentials?courseLang=en-US&instance_id=23de3317-b3fb-4daa-9fac-2141136d2d66)
 
 ## Algemene doelstellingen
@@ -25,16 +25,15 @@ In [studiewijzer bij leerpaden](https://chamilo.hogent.be/index.php?application=
 
 <div class="notes-links">
 <h1>Notities</h1>
-<p class="header-nolink">Handgeschreven notities</p>
+<h2 class="header-nolink">Handgeschreven notities</h2>
 <p>Het digitaal notaboek vind je  <a href="https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing">hier</a>.</p>
 
-<p class="header-nolink">Uitgetypte notities per hoofdstuk:</p>
+<h2 class="header-nolink">Samenvattingen:</h2>
 <div class="waypoint">
 %% Begin Waypoint %%
 - [[CS-H01]]
 - [[CS-H02]]
 - [[CS-H03]]
-- [[CS-LINUX-VB01]]
 - [[CS-LINUX]]
 
 %% End Waypoint %%

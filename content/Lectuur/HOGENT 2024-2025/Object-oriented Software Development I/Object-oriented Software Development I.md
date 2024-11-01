@@ -12,8 +12,8 @@
 
 ## Toebehoren
 Slides, oefeningen en andere links naar benodigdheden.
-- [Documenten - Chamilo (Cursus & Oefeningen)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=64531&tool=Document)
-- [Lesopnames - Chamilo](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=64531&tool=LectureCapture)
+- [Chamilo (Cursus & Oefeningen)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=64531&tool=Document)
+- [Chamilo (Les opnames)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=64531&tool=LectureCapture)
 
 ## Algemene doelstellingen
 - Kan een gepast datatype definiëren en gebruiken in Java. 
@@ -33,22 +33,13 @@ In theorieboek [op Chamilo](https://chamilo.hogent.be/index.php?go=course_viewer
 
 <div class="notes-links">
 <h1>Notities</h1>
-<p class="header-nolink">Handgeschreven notities</p>
+<h2 class="header-nolink">Handgeschreven notities</h2>
 <p>Het digitaal notaboek vind je  <a href="https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing">hier</a>.</p>
 
-<p class="header-nolink">Uitgetypte notities per les:</p>
-<p>Ik heb het per les gezet omdat je dit OLOD grotendeels leert door te doen.</p>
+<h2 class="header-nolink">Samenvattingen:</h2>
 <div class="waypoint">
 %% Begin Waypoint %%
-- [[OSD1-L01]]
-- [[OSD1-L02]]
-- [[OSD1-L03]]
-- [[OSD1-L04]]
-- [[OSD1-L05]]
-- [[OSD1-L06]]
-- [[OSD1-L07]]
-- [[OSD1-L08]]
-- [[OSD1-L09]]
+
 
 %% End Waypoint %%
 </div>

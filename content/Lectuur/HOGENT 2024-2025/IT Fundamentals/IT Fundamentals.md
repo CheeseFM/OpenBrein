@@ -10,8 +10,8 @@
 
 ## Toebehoren
 Slides, oefeningen en andere links naar benodigdheden.
-- [Documenten - Chamilo (Cursussen, Lesnota's prof, Boek & Oefeningen)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=63194&tool=Document)
-- [Leerpaden - Chamilo (Extra leermateriaal en filmpjes)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=63194&tool=LearningPath&browser=Table&tool_action=Browser)
+- [Chamilo (Cursussen, Lesnota's prof, Boek & Oefeningen)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=63194&tool=Document)
+- [Chamilo (Extra leermateriaal en filmpjes)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=63194&tool=LearningPath&browser=Table&tool_action=Browser)
 - [IT FUN - YouTube (Examen en normale oefeningen uitgelegd door Prof)](https://youtube.com/playlist?list=PLuhWuD-eOibinLbklK6ALPfK49BaB2KD9&si=wXiclzAm5U1269HS)
 
 ## Algemene doelstellingen
@@ -30,6 +30,6 @@ Via hoofdstukken van [cursus](https://chamilo.hogent.be/index.php?go=CourseViewe
 
 <div class="notes-links">
 <h1>Notities</h1>
-<p class="header-nolink">Handgeschreven notities</p>
-<p>Het digitaal notaboek vind je  <a href="https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing">hier</a>, geen getypte notities aangezien dat het Wiskunde is en je dit gewoon moet oefenen.</p>
+<h2 class="header-nolink">Handgeschreven notities</h2>
+<p>Het digitaal notaboek vind je  <a href="https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing">hier</a>.</p>
 </div>

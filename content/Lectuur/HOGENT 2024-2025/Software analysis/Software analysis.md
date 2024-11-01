@@ -12,8 +12,8 @@
 
 ## Toebehoren
 Slides, oefeningen en andere links naar benodigdheden.
-- [Leerpaden - Chamilo (Slides, boek en oefeningen)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=62361&tool=LearningPath&browser=Table&tool_action=Browser)
-- [Lesopnames - Chamilo](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=62361&tool=LectureCapture)
+- [Chamilo (Slides, boek en oefeningen)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=62361&tool=LearningPath&browser=Table&tool_action=Browser)
+- [Chamilo (Les opnames)](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=62361&tool=LectureCapture)
 
 ## Algemene doelstellingen
 - Kan de basisbegrippen van UI omschrijven en toepassen.
@@ -28,10 +28,10 @@ In [slides via leerpad](https://chamilo.hogent.be/index.php?go=CourseViewer&appl
 
 <div class="notes-links">
 <h1>Notities</h1>
-<p class="header-nolink">Handgeschreven notities</p>
+<h2 class="header-nolink">Handgeschreven notities</h2>
 <p>Het digitaal notaboek vind je  <a href="https://drive.google.com/drive/folders/19MFfBkp48F4e63byHzHa5kYravR2JxWS?usp=sharing">hier</a>.</p>
 
-<p class="header-nolink">Uitgetypte notities per hoofdstuk:</p>
+<h2 class="header-nolink">Samenvattingen:</h2>
 <div class="waypoint">
 %% Begin Waypoint %%
 - [[SA-H02]]
