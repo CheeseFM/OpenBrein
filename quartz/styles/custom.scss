@@ -224,3 +224,7 @@ h1>a {
     font-size: 1.1rem;
     margin-bottom: .25rem;
 }
+
+a.external .external-icon>path {
+    fill: var(--light);
+}
