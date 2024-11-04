@@ -5,11 +5,8 @@ title: Openbrein | Mijn notities, gepubliceerd online.
 
 ---
 
->[!info] **30 t.e.m. 31 okt** 
-> - [[Workflow noteren]] aangepast, alle notities & samenvattingen te vinden per vak.
-> - Shortcuts toegevoegd aan [[HOGENT 2024-2025]]
-> - Pagina's aangepast voor verduidelijking
->*^ Team Openbrein* 
+>[!info] **Onze podcast** 
+> We hebben een [[podcast]] op spotify..
 >
 
 **Welkom op mijn website! Hierop zet ik mijn notities en samenvattingen online, en link ik je naar handige materie.** 
@@ -39,7 +36,7 @@ Je kan altijd de ingebouwde zoekbalk gebruiken (bovenaan op mobiel, linksboven o
 
 # [[Workflow noteren|Mijn workflow]]
 --- 
-Ik neem handgeschreven notities in de les en herwerk ze na school in een getypte versie op deze website. Ze krijgen verschillende tags:  #kladversie, #uitgewerkt , #volwassen om aan te tonen hoe ver ik sta.
+Ik neem handgeschreven notities in de les en herwerk ze tijdens de examens in een getypte versie op deze website. Ze krijgen verschillende tags:  #kladversie, #uitgewerkt , #volwassen om aan te tonen hoe ver ik sta.
 
 # Toekomstdoelen
 ---
