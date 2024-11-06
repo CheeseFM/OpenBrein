@@ -232,25 +232,24 @@ blockquote a.external .external-icon>path {
 #podcast {
     background-color: #ffc006;
     color: black;
+    position: relative;
+    overflow: hidden;
 }
 
-#podcast p {
+#podcast p,
+#podcast h1 {
     background-color: transparent;
     color: black;
 }
 
-.letter-groot {
+#podcast::before {
+    content: 'P';
     position: absolute;
-    top: 0;
-    left: 10px; /* Adjust this to position the letter more precisely */
-    font-size: 100px; /* Make this larger to match your desired look */
-    color: black; /* Transparent color for a subtle effect */
+    top: 10px; /* Adjust to move it vertically */
+    left: 10px; /* Adjust to move it horizontally */
+    font-size: 200px; /* Adjust for size */
+    color: rgba(0, 0, 0, 0.1); /* Transparent color for a subtle background effect */
     font-weight: bold;
-    z-index: -1; /* Puts it behind other text */
-}
+    z-index: 0; /* Ensure it stays behind other content */
+  }
 
-.bevat-letter {
-    position: relative;
-    padding: 20px;
-    overflow: hidden;
-}

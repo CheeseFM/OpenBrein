@@ -5,8 +5,7 @@ title: Openbrein | Mijn notities, gepubliceerd online.
 
 ---
 
-<div class="notes-links bevat-letter" id="podcast">
-<p class="letter-groot">P<p>
+<div class="notes-links" id="podcast">
 <h1>Podcast</h1>
 <p>Test</p>
 </div>
