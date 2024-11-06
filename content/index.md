@@ -6,7 +6,7 @@ title: Openbrein | Mijn notities, gepubliceerd online.
 <div class="notes-links" id="podcast">
 <h1>Breek de week</h1>
 <p>Onze podcast vanuit de Bib van HoGent</p>
-<a href="https://www.openbrein.org/podcast" class="primary">Luister</a> <a href="https://www.openbrein.org/podcast">Info</a>
+<a href="https://open.spotify.com/show/6vJCaFVLf7YeHpaTiXA38F?si=b70afe693f2e4e84" class="primary">Luister</a> <a href="https://www.openbrein.org/podcast">Info</a>
 </div>
 
 ---
