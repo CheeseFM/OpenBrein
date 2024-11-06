@@ -242,14 +242,14 @@ blockquote a.external .external-icon>path {
     color: black;
 }
 
-#podcast::before {
+#podcast ::before {
     content: 'P';
     position: absolute;
-    top: 10px; /* Adjust to move it vertically */
+    bottom: 65px; /* Adjust to move it vertically */
     left: 10px; /* Adjust to move it horizontally */
-    font-size: 200px; /* Adjust for size */
+    font-size: 150px; /* Adjust for size */
     color: rgba(0, 0, 0, 0.1); /* Transparent color for a subtle background effect */
-    font-weight: bold;
+    font-weight: 900;
     z-index: 0; /* Ensure it stays behind other content */
   }
 

@@ -6,7 +6,7 @@ title: Openbrein | Mijn notities, gepubliceerd online.
 ---
 
 <div class="notes-links" id="podcast">
-<h1>Podcast</h1>
+<h1>Breek de week</h1>
 <p>Test</p>
 </div>
 
