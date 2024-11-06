@@ -271,3 +271,13 @@ blockquote a.external .external-icon>path {
 #podcast a .external-icon>path {
     fill: black;
 }
+
+ #podcast a.primary,
+ #podcast a.primary.internal {
+    background-color: black;
+    color: white;
+}
+
+#podcast a.primary .external-icon>path {
+    fill: white;
+}
