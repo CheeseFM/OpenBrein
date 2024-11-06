@@ -5,9 +5,10 @@ title: Openbrein | Mijn notities, gepubliceerd online.
 
 ---
 
->[!info] **Onze podcast** 
-> We hebben een [[podcast]] op spotify..
->
+<div class="notes-links" id="podcast">
+<h1>Podcast</h1>
+<p>Test</p>
+</div>
 
 **Welkom op mijn website! Hierop zet ik mijn notities en samenvattingen online, en link ik je naar handige materie.** 
 
