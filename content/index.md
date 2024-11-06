@@ -7,7 +7,8 @@ title: Openbrein | Mijn notities, gepubliceerd online.
 
 <div class="notes-links" id="podcast">
 <h1>Breek de week</h1>
-<p>Test</p>
+<p>Onze podcast vanuit de Bib van HoGent</p>
+<a href="https://www.openbrein.org/podcast">Luister</a> <a href="https://www.openbrein.org/podcast">Info</a>
 </div>
 
 **Welkom op mijn website! Hierop zet ik mijn notities en samenvattingen online, en link ik je naar handige materie.** 

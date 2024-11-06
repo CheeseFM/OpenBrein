@@ -242,14 +242,18 @@ blockquote a.external .external-icon>path {
     color: black;
 }
 
-#podcast ::before {
-    content: 'P';
+#podcast h1::before {
+    content: 'B';
     position: absolute;
-    bottom: 65px; /* Adjust to move it vertically */
-    left: 10px; /* Adjust to move it horizontally */
+    top: -12px; /* Adjust to move it vertically */
+    left: 12px; /* Adjust to move it horizontally */
     font-size: 150px; /* Adjust for size */
     color: rgba(0, 0, 0, 0.1); /* Transparent color for a subtle background effect */
     font-weight: 900;
     z-index: 0; /* Ensure it stays behind other content */
   }
 
+.notes-links a.internal {
+    background-color: transparent;
+    margin: 0px;
+}
