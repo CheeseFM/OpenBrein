@@ -3,14 +3,13 @@ title: Openbrein | Mijn notities, gepubliceerd online.
 ---
 [🏫 HOGENT](https://www.hogent.be) [🏡 Chamilo](https://chamilo.hogent.be/#") [👋 Wallie](https://hogent.sharepoint.com/sites/IntranetStudenten) [📯 iBaMaFlex!](https://ibamaflex.hogent.be) 
 
----
-
 <div class="notes-links" id="podcast">
 <h1>Breek de week</h1>
 <p>Onze podcast vanuit de Bib van HoGent</p>
 <a href="https://www.openbrein.org/podcast" class="primary">Luister</a> <a href="https://www.openbrein.org/podcast">Info</a>
 </div>
 
+---
 **Welkom op mijn website! Hierop zet ik mijn notities en samenvattingen online, en link ik je naar handige materie.** 
 
 Tijdelijk (voor de komende 3+ jaar) studeer ik informatica en mijn notities zullen dit reflecteren. Daarom is deze site het meest gebruiksvriendelijk gemaakt voor mensen die iets in dezelfde trend studeren / interesses hebben.
