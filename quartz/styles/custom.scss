@@ -238,3 +238,19 @@ blockquote a.external .external-icon>path {
     background-color: transparent;
     color: black;
 }
+
+.letter-groot {
+    position: absolute;
+    top: 0;
+    left: 10px; /* Adjust this to position the letter more precisely */
+    font-size: 100px; /* Make this larger to match your desired look */
+    color: black; /* Transparent color for a subtle effect */
+    font-weight: bold;
+    z-index: -1; /* Puts it behind other text */
+}
+
+.bevat-letter {
+    position: relative;
+    padding: 20px;
+    overflow: hidden;
+}
