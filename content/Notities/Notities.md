@@ -68,6 +68,7 @@ Alle notities die ik maak, alfabetisch, via het [[Zettelkasten|zettelkasten]] sy
 - [[LXDE scherm schaling]]
 - [[Mijn droomlaptop]]
 - [[Moeilijke concepten uitleggen]]
+- [[mySQL fedora]]
 - [[Naam aanpassen]]
 - [[NGINX op docker]]
 - [[Nieuwe setup]]

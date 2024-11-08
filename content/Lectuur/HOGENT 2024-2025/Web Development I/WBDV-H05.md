@@ -221,9 +221,23 @@ background-color: inherit;
 >[!info]
 >Je kan zien of een property overerfbaar is of niet op de MDN docs. 
 
-## CSS values & units
+## CSS value (of data) types
+CSS waardes, niet te verwarren met CSS properties, zijn types die definiëren welke waarden er kunnen ingegeven worden als value voor een property 
+- bv. Je kan voord de property `width` geen `rgb(234, 231, 242)` (RGB kleur) invullen, maar wel ...
+- bv. `<length>`: Een numerieke waarde gevolgd door een eenheid 
+	- `1rem`, `24cm` `102px`, ... 
+
+
+>[!info]
+>CSS data types net verwarren met html omdat ze de `<>` bevatten. Ze hebben niks te doen met de semantiek van de website.
 
 ## Web fonts
+Fonts op een website kunnen enkel worden geladen indien ze beschikbaar zijn voor de browser, dit kan door bv:
+- Het font staat op de bezoeker's computer
+- Het zit standaard in de browser
+- Het font wordt door de website afgeleverd aan de browser van de bezoeker
+	- Direct via de webserver waarop de website draait (je zet het in de bestanden van je webserver, bv. `/src/fonts/eenfont.ttf`)
+	- Of via een externe C'
 
 # Bronnen
 ---
