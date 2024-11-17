@@ -65,6 +65,7 @@ Alle notities die ik maak, alfabetisch, via het [[Zettelkasten|zettelkasten]] sy
 - [[Lokale git repo maken]]
 - [[Lokale repo openen in VSC]]
 - [[Lokale repo pushen naar Github]]
+- [[Luminous shell css]]
 - [[LXDE scherm schaling]]
 - [[Mijn droomlaptop]]
 - [[Moeilijke concepten uitleggen]]

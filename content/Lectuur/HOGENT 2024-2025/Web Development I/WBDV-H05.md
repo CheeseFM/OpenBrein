@@ -241,4 +241,4 @@ Fonts op een website kunnen enkel worden geladen indien ze beschikbaar zijn voor
 
 # Bronnen
 ---
-- 
+- [Slides - Github](https://web-development-i.github.io/overview/)
