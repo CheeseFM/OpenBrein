@@ -87,24 +87,6 @@ h6 {
     color: var(--tertiary);
 }
 
-body {
-    counter-reset: h2counter;
-}
-article > h1 {
-    counter-reset: h2counter;
-}
-article > h2:before {
-    content: counter(h2counter) ".\0000a0\0000a0";
-    counter-increment: h2counter;
-    counter-reset: h3counter;
-}
-article > h3:before {
-    content: counter(h2counter) "." counter(h3counter) ".\0000a0\0000a0";
-    counter-increment: h3counter;
-}
-
-
-
 p {
     margin-top: 0.55em;
     font-size: 1rem;
