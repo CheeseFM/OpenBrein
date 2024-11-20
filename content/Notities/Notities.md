@@ -77,6 +77,7 @@ Alle notities die ik maak, alfabetisch, via het [[Zettelkasten|zettelkasten]] sy
 - [[NIS]]
 - [[NIS2]]
 - [[Oneplus recovery]]
+- [[Open brief]]
 - [[Open source]]
 - [[Optische technologiën]]
 - [[Opzetten iPad]]
