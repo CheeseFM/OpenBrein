@@ -32,6 +32,7 @@ Alle notities die ik maak, alfabetisch, via het [[Zettelkasten|zettelkasten]] sy
 - [[Docker basis installatie]]
 - [[Domain Name Server]]
 - [[Eclipse wayland problemen]]
+- [[Eduroam op Linux]]
 - [[Een (doel)map of bestand vinden]]
 - [[Een bestand openen met specifieke software]]
 - [[Een snelkoppeling aanmaken]]
