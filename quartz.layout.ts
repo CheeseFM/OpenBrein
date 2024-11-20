@@ -2,10 +2,10 @@ import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
 // components shared across all pages
-export const sharedPageComponents: SharedLayout = {),
+export const sharedPageComponents: SharedLayout = {
+  head: Component.Head(),
   header: [],
-  afterBody: [
-  ],
+  afterBody: [],
   footer: Component.Footer({
     links: {
       Mail: "mailto:jelle@openbrein.org",
