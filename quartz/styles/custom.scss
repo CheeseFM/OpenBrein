@@ -2,8 +2,8 @@
 
 // put your custom CSS here!
 hr {
-    margin: 0.75rem auto;
-    color: var(--gray);
+    margin: 0.5rem auto;
+    background-color: var(--gray);
 }
 
 .page-title a {
@@ -39,7 +39,8 @@ h2 {
     font-weight: 600;
     font-size: 1.2rem;
     margin-bottom: .25rem;
-    margin-top: 0rem;   
+    margin-top: 1rem;   
+    color: var(--tertiary);
 }
 
 h3,
@@ -50,17 +51,18 @@ h6 {
     font-size: 1.1rem;
     margin-bottom: .35rem;
     margin-top: 0.75rem;
+    color: var(--tertiary);
 }
 
 p {
     margin-top: 0.55em;
     font-size: 1rem;
-    color: var(--secondary);
+    color: var(--tertiary);
 }
 
 li {
     font-size: 1rem;
-    color: var(--secondary);
+    color: var(--tertiary);
 }
 
 ul {
@@ -289,15 +291,11 @@ blockquote a.external .external-icon>path {
 .sidebar.right,
 .sidebar.left {
     background-color:var(--lightgray);
-    width: 310px;
+    width: 320px;
 }
 
 body {
     background-color:var(--lightgray);
-}
-
-.center {
-    width: 870px;
 }
 
 article {
@@ -313,7 +311,6 @@ article {
 .search>.search-button>p {
     font-weight: 500;
     color: var(--light);
-    text-transform: lowercase;
 }
 
 .search>.search-button svg .search-path {
@@ -329,3 +326,4 @@ ul.overflow:after, ol.overflow:after {
 .toc.desktop-only {
     max-height: 60%;
 }
+
