@@ -1,4 +1,4 @@
-- 2024-11-20 at 09h50 · [[Eduroam op Linux]]
+- 2024-11-20 at 09h54 · [[Eduroam op Linux]]
 - 2024-11-20 at 09h40 · [[Notities]]
 - 2024-11-17 at 15h06 · [[WBDV-H07]]
 - 2024-11-17 at 14h55 · [[WBDV-H08]]
