@@ -262,7 +262,8 @@ Markeren van de naam van een auteur of bronwerk.
 <p><code>ls</code> is een voorbeeld van een commando in Linux.</p>
 ```
 
-<p><code>ls</code> is een voorbeeld van een commando in Linux.</p>
+`ls` is een voorbeeld van een commando in Linux.
+
 ### Time
 Om een tijdstip of datum aan te duiden.
 ```HTML
