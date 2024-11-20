@@ -1,4 +1,4 @@
-v# Doelstellingen
+# Doelstellingen
 ---
 - Logische indeling
 - Tekst markeren

@@ -1,3 +1,4 @@
+- 2024-11-20 at 16h18 · [[WBDV-H02]]
 - 2024-11-20 at 15h31 · [[Web Development I]]
 - 2024-11-20 at 15h31 · [[Software analysis]]
 - 2024-11-20 at 15h31 · [[Object-oriented Software Development I]]
@@ -7,4 +8,3 @@
 - 2024-11-20 at 15h31 · [[Computer Systems]]
 - 2024-11-20 at 15h28 · [[index]]
 - 2024-11-20 at 10h13 · [[Eduroam op Linux]]
-- 2024-11-20 at 09h40 · [[Notities]]

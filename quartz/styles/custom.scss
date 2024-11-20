@@ -15,6 +15,16 @@ hr {
     background-color: var(--gray);
 }
 
+p > h1,
+p > h2,
+p > h3,
+p > h4,
+p > h5,
+p > h6 {
+    margin-bottom: 2rem;
+}
+
+
 .page-title a {
     font-weight: 900;
     font-optical-sizing: auto;
@@ -39,16 +49,16 @@ hr {
 h1 {
     font-weight: 800;
     font-size: 1.5rem;
-    margin-bottom: 0.5rem;
-    margin-top: 0rem;
+    margin-bottom: 0rem;
+    margin-top: 1.5rem;
     color: var(--tertiary);
 }
 
 h2 {
     font-weight: 700;
     font-size: 1.2rem;
-    margin-bottom: .25rem;
-    margin-top: 1rem;   
+    margin-top: 1rem;
+    margin-bottom: 0.50rem;   
     color: var(--tertiary);
 }
 
@@ -58,10 +68,12 @@ h5,
 h6 {
     font-weight: 600;
     font-size: 1.1rem;
-    margin-bottom: .35rem;
-    margin-top: 0.75rem;
+    margin-bottom: .75rem;
+    margin-top: 0.35rem;
     color: var(--tertiary);
 }
+
+
 
 p {
     margin-top: 0.55em;
