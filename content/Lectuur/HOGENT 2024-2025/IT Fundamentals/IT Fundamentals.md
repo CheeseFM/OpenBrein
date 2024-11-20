@@ -1,4 +1,19 @@
 #Patroon
+
+<style>
+    article {
+        border: 0px !important;
+        padding: 0rem !important;
+    }
+    body {
+        background-color: var(--light) !important;
+    }
+    .sidebar.right,
+    .sidebar.left {
+        background-color:var(--light);
+    } 
+</style>
+
 # Studiegids ([IbaMaFlex]())
 --- 
 ## Puntenverdeling

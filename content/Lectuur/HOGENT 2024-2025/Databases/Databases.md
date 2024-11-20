@@ -1,5 +1,19 @@
 #Lineair
 
+<style>
+    article {
+        border: 0px !important;
+        padding: 0rem !important;
+    }
+    body {
+        background-color: var(--light) !important;
+    }
+    .sidebar.right,
+    .sidebar.left {
+        background-color:var(--light);
+    } 
+</style>
+
 >[!quote] Chamilo - Databases
 >Dit opleidingsonderdeel beoogt de studenten een inzicht te geven in de ontwikkeling van informatiesystemen. Meer bepaald het verzamelen, registreren en klasseren van informatie in een database en dit op een performante en duurzame manier. De studenten leren een conceptueel gegevensmodel maken en dit model omzetten naar een relationeel model.
 

@@ -1,5 +1,19 @@
 #Patroon
 
+<style>
+    article {
+        border: 0px !important;
+        padding: 0rem !important;
+    }
+    body {
+        background-color: var(--light) !important;
+    }
+    .sidebar.right,
+    .sidebar.left {
+        background-color:var(--light);
+    } 
+</style>
+
 >[!quote] Chamilo documenten - Studiegids Cybersecurity
 >In deze cursus zoomen we in op de verschillende aspecten van cybersecurity. Wat doen hackers precies, en wat willen ze? Waarom is cybersecurity belangrijk? Wat kan ik zelf doen om mij te beschermen? En hoe bescherm je een IT-omgeving?
 >

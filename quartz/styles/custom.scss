@@ -3,6 +3,7 @@
 // put your custom CSS here!
 hr {
     margin: 0.75rem auto;
+    color: var(--gray);
 }
 
 .page-title a {
@@ -30,12 +31,15 @@ h1 {
     font-weight: 700;
     font-size: 1.5rem;
     margin-bottom: 0.5rem;
+    margin-top: 0rem;
+    color: var(--tertiary);
 }
 
 h2 {
     font-weight: 600;
     font-size: 1.2rem;
     margin-bottom: .25rem;
+    margin-top: 0rem;   
 }
 
 h3,
@@ -189,7 +193,7 @@ h1>a {
 .notes-links {
     background-color: var(--tertiary);
     padding: 2rem;
-    padding-top: .5rem;
+    padding-top: 2rem;
 }
 
 .notes-links p {
@@ -280,4 +284,48 @@ blockquote a.external .external-icon>path {
 
 #podcast a.primary .external-icon>path {
     fill: white;
+}
+
+.sidebar.right,
+.sidebar.left {
+    background-color:var(--lightgray);
+    width: 310px;
+}
+
+body {
+    background-color:var(--lightgray);
+}
+
+.center {
+    width: 870px;
+}
+
+article {
+    background-color: var(--light);
+    padding: 1.2rem;
+    border: 1px var(--gray) solid;
+}
+
+.search>.search-button {
+    background-color: var(--secondary);
+}
+
+.search>.search-button>p {
+    font-weight: 500;
+    color: var(--light);
+    text-transform: lowercase;
+}
+
+.search>.search-button svg .search-path {
+    color: var(--light);
+    stroke: var(--light);
+}
+
+
+ul.overflow:after, ol.overflow:after {
+    background: linear-gradient(transparent 0px,var(--lightgray));
+}
+
+.toc.desktop-only {
+    max-height: 60%;
 }

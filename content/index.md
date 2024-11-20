@@ -3,6 +3,20 @@ title: Openbrein | Mijn notities, gepubliceerd online.
 ---
 [🏫 HOGENT](https://www.hogent.be) [🏡 Chamilo](https://chamilo.hogent.be/#") [👋 Wallie](https://hogent.sharepoint.com/sites/IntranetStudenten) [📯 iBaMaFlex!](https://ibamaflex.hogent.be) 
 
+<style>
+    article {
+        border: 0px !important;
+        padding: 0rem !important;
+    }
+    body {
+        background-color: var(--light) !important;
+    }
+    .sidebar.right,
+    .sidebar.left {
+        background-color:var(--light);
+    } 
+</style>
+
 <div class="notes-links" id="podcast">
 <h1>Breek de week</h1>
 <p>Onze podcast vanuit de Bib van HoGent</p>
